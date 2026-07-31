@@ -234,11 +234,11 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 ```{=html}
 <div class="resource-grid">
 
-<a class="resource-card" href="http://biblioteca.clacso.edu.ar/clacso/se/20140228033525/SaberAmbiental.pdf" target="_blank">
-<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<a class="resource-card" href="https://www.clacso.org.ar/libreria-latinoamericana/libro_detalle.php?id_libro=843" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
 <div class="card-title">Leff, E. (2001)</div>
-<p>Saber Ambiental: sustentabilidade, racionalidade, complexidade, poder — Petrópolis: Vozes. PDF completo via repositório CLACSO.</p>
+<p>Saber Ambiental: sustentabilidade, racionalidade, complexidade, poder — Petrópolis: Vozes. Catálogo CLACSO (referência).</p>
 </div>
 </a>
 
@@ -290,11 +290,11 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<a class="resource-card" href="https://www.infoteca.cnptia.embrapa.br/infoteca/handle/doc/1086937" target="_blank">
+<a class="resource-card" href="https://www.embrapa.br/solos/busca-de-publicacoes/-/publicacao/1086937/solos-saudaveis" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-file-lines"></i></div>
 <div class="res-info">
 <div class="card-title">Embrapa Solos (2017)</div>
-<p>Solos saudáveis — Infoteca-e (repositório oficial). Publicações técnicas sobre qualidade do solo e indicadores edáficos.</p>
+<p>Solos saudáveis — Portal Embrapa Solos. Publicações técnicas sobre qualidade do solo e indicadores edáficos.</p>
 </div>
 </a>
 
