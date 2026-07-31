@@ -108,6 +108,9 @@ jobs:
             fi
           done
 
+      - name: Copy CNAME for custom domain
+        run: cp CNAME _site/CNAME
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
