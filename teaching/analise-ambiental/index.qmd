@@ -234,43 +234,43 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 ```{=html}
 <div class="resource-grid">
 
-<a class="resource-card" href="https://edisciplinas.usp.br/pluginfile.php/4281143/mod_resource/content/1/LEFF%2C%20E.%20Saber%20Ambiental.pdf" target="_blank">
+<a class="resource-card" href="http://biblioteca.clacso.edu.ar/clacso/se/20140228033525/SaberAmbiental.pdf" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
 <div class="res-info">
 <div class="card-title">Leff, E. (2001)</div>
-<p>Saber Ambiental: sustentabilidade, racionalidade, complexidade, poder — Petrópolis: Vozes. Obra de referência sobre epistemologia ambiental.</p>
+<p>Saber Ambiental: sustentabilidade, racionalidade, complexidade, poder — Petrópolis: Vozes. PDF completo via repositório CLACSO.</p>
 </div>
 </a>
 
-<a class="resource-card" href="https://www.scielo.br/j/ea/a/M78kPxPYjVL4HxvXHfCBfNb/?format=pdf&lang=pt" target="_blank">
-<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<a class="resource-card" href="https://www.record.com.br/produto/o-desafio-ambiental/" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
 <div class="card-title">Porto-Gonçalves, C. W. (2004)</div>
-<p>O desafio ambiental — Rio de Janeiro: Record. Coleção Os porquês da desordem mundial.</p>
+<p>O desafio ambiental — Rio de Janeiro: Record. Coleção Os porquês da desordem mundial. Página oficial da editora.</p>
 </div>
 </a>
 
-<a class="resource-card" href="https://www.academia.edu/download/46493665/Avaliacao_de_Impacto_Ambiental_-_Sanchez.pdf" target="_blank">
-<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<a class="resource-card" href="https://www.ofitexto.com.br/avaliacao-de-impacto-ambiental-2-ed" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
 <div class="card-title">Sánchez, L. E. (2013)</div>
-<p>Avaliação de Impacto Ambiental: conceitos e métodos — 2ª ed. São Paulo: Oficina de Textos. Referência em AIA no Brasil.</p>
+<p>Avaliação de Impacto Ambiental: conceitos e métodos — 2ª ed. São Paulo: Oficina de Textos. Página oficial da editora.</p>
 </div>
 </a>
 
-<a class="resource-card" href="https://www.researchgate.net/profile/Francisco-Mendonca-2/publication/267797334_Geografia_Socioambiental/links/5492f3940cf20ded3a51ecbe/Geografia-Socioambiental.pdf" target="_blank">
+<a class="resource-card" href="https://doi.org/10.62516/terra_livre.2001.352" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
 <div class="res-info">
 <div class="card-title">Mendonça, F. (2001)</div>
-<p>Geografia Socioambiental — Terra Livre, São Paulo, n. 16, p. 113-132. Texto fundador da abordagem socioambiental na Geografia.</p>
+<p>Geografia Socioambiental — Terra Livre, São Paulo, n. 16, p. 113-132. DOI + PDF em acesso aberto via AGB.</p>
 </div>
 </a>
 
-<a class="resource-card" href="https://biblioteca.ibge.gov.br/visualizacao/livros/liv66103.pdf" target="_blank">
-<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<a class="resource-card" href="https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=466103" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
 <div class="card-title">Tricart, J. (1977)</div>
-<p>Ecodinâmica — Rio de Janeiro: IBGE-SUPREN, 97 p. Teoria da competição pedogênese-morfogênese na análise da paisagem.</p>
+<p>Ecodinâmica — Rio de Janeiro: IBGE-SUPREN, 97 p. Catálogo da Biblioteca do IBGE (edição física; consulte digitalização).</p>
 </div>
 </a>
 
@@ -290,11 +290,11 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<a class="resource-card" href="https://www.embrapa.br/busca-de-publicacoes/-/publicacao/1066780/solos-saudaveis" target="_blank">
+<a class="resource-card" href="https://www.infoteca.cnptia.embrapa.br/infoteca/handle/doc/1086937" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-file-lines"></i></div>
 <div class="res-info">
 <div class="card-title">Embrapa Solos (2017)</div>
-<p>Solos saudáveis — série de publicações técnicas sobre qualidade do solo e indicadores edáficos.</p>
+<p>Solos saudáveis — Infoteca-e (repositório oficial). Publicações técnicas sobre qualidade do solo e indicadores edáficos.</p>
 </div>
 </a>
 
