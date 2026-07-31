@@ -238,7 +238,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 <div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
 <div class="card-title">Leff, E. (2001)</div>
-<p>Saber Ambiental: sustentabilidade, racionalidade, complexidade, poder — Petrópolis: Vozes. Catálogo CLACSO (referência).</p>
+<p>Saber Ambiental: sustentabilidade, racionalidade, complexidade, poder — Petrópolis: Vozes. Catálogo CLACSO.</p>
 </div>
 </a>
 
@@ -246,31 +246,31 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 <div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
 <div class="card-title">Porto-Gonçalves, C. W. (2004)</div>
-<p>O desafio ambiental — Rio de Janeiro: Record. Coleção Os porquês da desordem mundial. Página oficial da editora.</p>
+<p>O desafio ambiental — Rio de Janeiro: Record. Obra de referência; edição física na biblioteca da UEFS.</p>
 </div>
 </a>
 
-<a class="resource-card" href="https://www.ofitexto.com.br/avaliacao-de-impacto-ambiental-2-ed" target="_blank">
-<div class="res-icon"><i class="fa-solid fa-book"></i></div>
+<a class="resource-card" href="https://cetesb.sp.gov.br/licenciamentoambiental/manual-para-elaboracao-de-estudos-ambientais/" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
 <div class="res-info">
-<div class="card-title">Sánchez, L. E. (2013)</div>
-<p>Avaliação de Impacto Ambiental: conceitos e métodos — 2ª ed. São Paulo: Oficina de Textos. Página oficial da editora.</p>
+<div class="card-title">CETESB — Manual para Elaboração de Estudos Ambientais</div>
+<p>Guia técnico gratuito com roteiro de AIA, EIA-RIMA, diagnóstico e medidas mitigadoras. Material complementar a Sánchez (2013).</p>
 </div>
 </a>
 
-<a class="resource-card" href="https://doi.org/10.62516/terra_livre.2001.352" target="_blank">
+<a class="resource-card" href="https://publicacoes.agb.org.br/terralivre/article/view/352/334" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
 <div class="res-info">
 <div class="card-title">Mendonça, F. (2001)</div>
-<p>Geografia Socioambiental — Terra Livre, São Paulo, n. 16, p. 113-132. DOI + PDF em acesso aberto via AGB.</p>
+<p>Geografia Socioambiental — Terra Livre, n. 16, p. 113-132. PDF em acesso aberto via AGB.</p>
 </div>
 </a>
 
-<a class="resource-card" href="https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=466103" target="_blank">
+<a class="resource-card" href="https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?id=466103&view=detalhes" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
 <div class="card-title">Tricart, J. (1977)</div>
-<p>Ecodinâmica — Rio de Janeiro: IBGE-SUPREN, 97 p. Catálogo da Biblioteca do IBGE (edição física; consulte digitalização).</p>
+<p>Ecodinâmica — Rio de Janeiro: IBGE-SUPREN, 97 p. Catálogo da Biblioteca IBGE (consulte exemplar físico na UEFS).</p>
 </div>
 </a>
 
@@ -282,11 +282,11 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<a class="resource-card" href="https://repositorio.usp.br/item/000877578" target="_blank">
+<a class="resource-card" href="https://doi.org/10.7154/RDG.1994.0008.0006" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
 <div class="res-info">
 <div class="card-title">Ross, J. L. S. (1994)</div>
-<p>Análise empírica da fragilidade dos ambientes naturais e antropizados — Revista do Departamento de Geografia, v. 8.</p>
+<p>Análise empírica da fragilidade dos ambientes naturais e antropizados — Revista do Departamento de Geografia, v. 8. DOI com PDF.</p>
 </div>
 </a>
 
