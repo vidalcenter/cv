@@ -43,7 +43,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 | 5 | 14/09 | Avaliação de Impacto Ambiental e planejamento ambiental; diagnóstico, prognóstico, medidas mitigadoras e compensatórias, monitoramento. **Entrega do Estudo Orientado nº 4.** | 5.1 |
 | 6 | 21/09 | Fundamentos da análise ambiental integrada; meio físico, biótico e antrópico; escala; sistemas ambientais; ordenamento territorial. | 6.1 |
 | 7 | 28/09 | Bacia hidrográfica como unidade de análise; rede de drenagem, áreas ripárias, conectividade hidrossedimentológica e uso da terra. | 7.1 |
-| 8 | 05/10 | Morfopedologia e processos relevo-solo-água; geossistemas, ecodinâmica e análise integrada da paisagem (Tricart, Bertrand); estabilidade, instabilidade, fragilidade potencial e emergente. | 8.1, 9.1 |
+| 8 | 05/10 | Morfopedologia e processos relevo-solo-água; geossistemas, ecodinâmica e análise integrada da paisagem (Tricart, Bertrand); estabilidade, instabilidade, fragilidade potencial e emergente. | 8.1 |
 | — | **12/10** | **FERIADO — Nossa Senhora Aparecida (não haverá aula).** | — |
 | **9** | **19/10** | **VIAGEM DE CAMPO** — Diagnóstico ambiental aplicado: caracterização da área, identificação de processos de degradação, coleta de evidências e aplicação de indicadores em campo. | — |
 | **10** | **26/10** | **1ª AVALIAÇÃO TEÓRICA (prova escrita dissertativa, individual)** — Aulas 1 a 8 + viagem de campo. | **10.1** |
@@ -148,23 +148,25 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 8ª SEMANA — 29/09 ══════ -->
+<!-- ══════ 8ª SEMANA — 05/10 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/8.1_morfopedologia_processos/morfopedologia_processos.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
-<div class="card-title">Sem. 8 | 8.1 — Morfopedologia e Processos Relevo-Solo-Água</div>
-<p>Relações relevo-solo-cobertura, declividade, erosão, movimentos de massa, assoreamento e fragilidade.</p>
+<div class="card-title">Sem. 8 | 8.1 — Morfopedologia, Geossistemas e Ecodinâmica</div>
+<p>Relações relevo-solo-água; TGS e geossistema (Bertrand); ecodinâmica (Tricart); fragilidade potencial e emergente (Ross).</p>
 </div>
 </a>
 
-<!-- ══════ 9ª SEMANA — 06/10 ══════ -->
-<a class="slide-card" href="../../aulas/analise_ambiental/aulas/9.1_geossistemas_ecodinamica/geossistemas_ecodinamica.html" target="_blank">
-<div class="slide-icon"><i class="fa-solid fa-display"></i></div>
+<!-- ══════ 9ª SEMANA — 19/10 — VIAGEM DE CAMPO ══════ -->
+<a class="slide-card slide-card--fieldtrip" href="#" target="_blank" style="border-left:4px solid #2e7d32; background:linear-gradient(135deg,#e8f5e9 0%,#c8e6c9 100%);">
+<div class="slide-icon" style="background:#2e7d32;"><i class="fa-solid fa-person-hiking"></i></div>
 <div class="slide-info">
-<div class="card-title">Sem. 9 | 9.1 — Geossistemas, Ecodinâmica e Análise Integrada</div>
-<p>Teoria geral dos sistemas, unidades de paisagem, ecodinâmica, fragilidade potencial e emergente.</p>
+<div class="card-title">Sem. 9 | Viagem de Campo — Diagnóstico Ambiental Aplicado</div>
+<p>Caracterização da área, identificação de degradação, coleta de evidências e aplicação de indicadores em campo.</p>
 </div>
 </a>
+
+<!-- ══════ 9ª SEMANA — 06/10 (removida — fundida com Sem 8) ══════ -->
 
 <!-- ══════ 10ª SEMANA — 13/10 — AVALIAÇÃO ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/10.1_avaliacao_teorica/avaliacao_teorica.html" target="_blank">

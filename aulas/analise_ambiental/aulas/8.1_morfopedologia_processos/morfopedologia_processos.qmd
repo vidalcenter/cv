@@ -1,11 +1,11 @@
 ---
 title: "Análise Ambiental"
-subtitle: "Morfopedologia e Processos <br> Relevo-Solo-Água"
+subtitle: "Morfopedologia, Geossistemas <br> e Ecodinâmica"
 author: "Luiz Diego Vidal Santos"
 format:
   revealjs:
     logo: ../../../assets/logo-uefs.webp
-    footer: "UEFS | Análise Ambiental | Morfopedologia"
+    footer: "UEFS | Análise Ambiental | Morfopedologia, Geossistemas e Ecodinâmica"
     slide-number: true
     theme: [simple, ../../../assets/uefs.scss]
     controls: true
@@ -33,17 +33,18 @@ execute:
 
 - [1]{.circle} Relações relevo-solo-cobertura vegetal
 - [2]{.circle} Drenagem e declividade
-- [3]{.circle} Processos erosivos
-- [4]{.circle} Movimentos de massa
-- [5]{.circle} Assoreamento
-- [6]{.circle} Fragilidade ambiental
+- [3]{.circle} Processos erosivos e movimentos de massa
+- [4]{.circle} Assoreamento e fragilidade ambiental
+- [5]{.circle} Teoria dos sistemas e geossistema
+- [6]{.circle} Ecodinâmica: estabilidade e instabilidade
+- [7]{.circle} Fragilidade potencial e emergente
 :::
 
 ::: {.column width="50%"}
 ::: {.info-box}
 **Objetivo da Aula**
 
-Compreender as relações entre relevo, solos, cobertura vegetal e processos erosivos como base para a leitura morfopedológica da fragilidade ambiental.
+Articular a leitura morfopedológica da vertente com a abordagem geossistêmica e a ecodinâmica de Tricart, operacionalizando os conceitos de fragilidade potencial e emergente para o diagnóstico ambiental integrado.
 :::
 :::
 :::
@@ -138,6 +139,152 @@ A supressão da cobertura **rompe** essa sequência funcional e desencadeia eros
 | **Voçorocas** | > 1 m | Atinge lençol freático, processo regressivo |
 
 : {.striped .hover}
+
+![](../../figuras/gully_erosion_nigeria.jpg){fig-alt="Voçorocamento profundo — Nigéria" width="100%"}
+:::
+
+::: {.column width="50%"}
+### Movimentos de massa
+
+| Tipo | Mecanismo | Indicador morfológico |
+|------|-----------|----------------------|
+| **Rastejo** | Deformação plástica lenta | Troncos inclinados, degraus |
+| **Escorregamento** | Ruptura planar/rotacional | Cicatrizes, rachaduras |
+| **Corrida de lama** | Fluxo viscoso rápido | Depósitos de leque |
+| **Queda de blocos** | Desplacamento gravitacional | Acúmulo de tálus |
+
+: {.striped .hover}
+
+> A fragilidade de uma vertente resulta da interação entre morfometria, material de origem, regime hídrico e cobertura — eixos centrais da abordagem morfopedológica e da ecodinâmica de Tricart.
+:::
+:::
+:::
+
+# [3  —  GEOSSISTEMAS E TEORIA DOS SISTEMAS]{.section-header}
+
+## Da TGS ao geossistema {.smaller-text}
+
+::: {.columns}
+::: {.column width="50%"}
+### Teoria Geral dos Sistemas (Bertalanffy)
+
+- Sistema **aberto**: troca energia e matéria com o ambiente.
+- **Totalidade**: o todo é mais do que a soma das partes.
+- **Equifinalidade**, **retroalimentação** (*feedback*), **hierarquia**, **homeostase**.
+
+### Geossistema (Sochava, 1963; Bertrand, 1968)
+
+Unidade espaço-temporal que integra três componentes indissociáveis:
+
+| Componente | Conteúdo |
+|------------|----------|
+| **Potencial ecológico** | Clima, geomorfologia, hidrologia |
+| **Exploração biológica** | Solos, vegetação, fauna |
+| **Ação antrópica** | Uso da terra, infraestrutura, gestão |
+
+: {.striped .hover}
+:::
+
+::: {.column width="50%"}
+::: {.highlight-box}
+**Hierarquia de Bertrand (1968)**
+
+| Nível | Escala espacial | Exemplo |
+|-------|:---------------:|---------|
+| Zona | > 10⁶ km² | Zona tropical |
+| Domínio | 10⁴–10⁶ km² | Caatinga, Cerrado |
+| Região natural | 10²–10⁴ km² | Chapada Diamantina |
+| **Geossistema** | **1–10² km²** | **Bacia do rio Jacuípe** |
+| Geofácies | 10⁻¹–1 km² | Vertente, fundo de vale |
+| Geótopo | < 10⁻¹ km² | Voçoroca, nascente |
+
+: {.striped .hover}
+
+O **geossistema** é a escala operacional por excelência para o diagnóstico ambiental integrado — compatível com a bacia hidrográfica como unidade de análise (Aula 7).
+:::
+:::
+:::
+
+# [4  —  ECODNÂMICA E FRAGILIDADE]{.section-header}
+
+## Ecodinâmica de Tricart (1977) {.smaller-text}
+
+::: {.columns}
+::: {.column width="50%"}
+### Competição pedogênese × morfogênese
+
+A paisagem é produto do **balanço entre forças construtivas e destrutivas**:
+
+| Meio | Balanço | Indicadores |
+|------|:-------:|-------------|
+| **Estável** | Pedogênese > Morfogênese | Solos profundos, drenagem organizada, cobertura densa |
+| **Intergrade** | Pedogênese ≈ Morfogênese | Solos truncados, erosão laminar, fragmentação |
+| **Instável** | Morfogênese > Pedogênese | Ravinas, voçorocas, deslizamentos, assoreamento |
+
+: {.striped .hover}
+
+### Aplicação ao diagnóstico
+
+Classificar a área de estudo segundo Tricart permite hierarquizar setores quanto à **urgência de intervenção** e ao **tipo de medida** (preventiva, corretiva, recuperação).
+:::
+
+::: {.column width="50%"}
+::: {.highlight-box}
+**Fragilidade potencial × emergente (Ross, 1994)**
+
+| Dimensão | Fragilidade potencial | Fragilidade emergente |
+|----------|----------------------|----------------------|
+| **Base** | Relevo + solo + clima | Potencial + uso da terra |
+| **R (erosividade)** | ✓ | ✓ |
+| **K (erodibilidade)** | ✓ | ✓ |
+| **LS (declividade)** | ✓ | ✓ |
+| **C (cobertura)** | — | ✓ |
+| **P (práticas)** | — | ✓ |
+
+: {.striped .hover}
+
+> A **fragilidade potencial** é herdada do meio físico. A **fragilidade emergente** incorpora o efeito antrópico. A distância entre elas mede o **grau de intervenção humana** na paisagem — conceito central para planejamento e recuperação ambiental.
+:::
+:::
+:::
+
+## Integração morfopedologia–geossistema–ecodinâmica {.smaller-text}
+
+::: {.columns}
+::: {.column width="50%"}
+### Roteiro operacional para diagnóstico
+
+A articulação dos três eixos da aula segue uma sequência em cascata que parte da vertente e chega ao zoneamento:
+
+- A **morfopedologia** entrega a unidade-cenário (vertente, topossequência) e os processos atuantes (erosão, movimentos de massa, hidrologia superficial).
+- O **geossistema** insere essa unidade na hierarquia escalar e integra potencial ecológico, exploração biológica e ação antrópica.
+- A **ecodinâmica** classifica o balanço pedogênese–morfogênese e orienta a decisão: prevenir, mitigar ou recuperar.
+:::
+
+::: {.column width="50%"}
+::: {.info-box}
+**Síntese da aula**
+
+A leitura morfopedológica fornece a **base física**; o geossistema oferece o **enquadramento escalar e integrador**; a ecodinâmica entrega o **prognóstico de estabilidade**. Juntos, esses três eixos constituem o núcleo metodológico da análise ambiental aplicada a bacias hidrográficas e áreas degradadas.
+:::
+:::
+:::
+
+## Referências da Aula {.smaller-text}
+
+::: {.columns}
+::: {.column width="50%"}
+- BERTRAND, G. Paisagem e geografia física global: esboço metodológico. **RA'E GA**, v. 8, 2004. DOI: [10.5380/raega.v8i0.3389](https://doi.org/10.5380/raega.v8i0.3389).
+- ROSS, J. L. S. Análise empírica da fragilidade dos ambientes naturais e antropizados. **Revista do Departamento de Geografia**, v. 8, 1994. DOI: [10.7154/RDG.1994.0008.0006](https://doi.org/10.7154/RDG.1994.0008.0006).
+- TRICART, J. **Ecodinâmica**. Rio de Janeiro: IBGE-SUPREN, 1977.
+:::
+
+::: {.column width="50%"}
+- CUNHA, S. B.; GUERRA, A. J. T. (org.). **Geomorfologia**: exercícios, técnicas e aplicações. Rio de Janeiro: Bertrand Brasil, 1996.
+- CASSETI, V. **Elementos de Geomorfologia**. Goiânia: Editora UFG, 2005.
+- SALOMÃO, F. X. T. Controle e prevenção dos processos erosivos. In: GUERRA, A. J. T.; SILVA, A. S.; BOTELHO, R. G. M. (org.). **Erosão e conservação dos solos**. Rio de Janeiro: Bertrand Brasil, 1999.
+:::
+:::
 
 ### Movimentos de massa
 
