@@ -200,13 +200,9 @@ Natureza, magnitude, abrangência, duração, reversibilidade, sinergia, cumulat
 
 Detalham as condicionantes da LP. Exemplos típicos:
 
-- Programa de Gestão Ambiental (PGA)
-- Programa de Comunicação Social (PCS)
-- Programa de Educação Ambiental (PEA)
-- Programa de Recuperação de Áreas Degradadas (PRAD)
-- Programa de Monitoramento da Qualidade da Água
-- Programa de Monitoramento de Fauna e Flora
-- Programa de Gerenciamento de Riscos (PGR)
+- **Gestão e supervisão**: PGA, PCS, PEA e gerenciamento de riscos (PGR).
+- **Monitoramento biofísico**: qualidade da água, fauna, flora e ruído.
+- **Recuperação e compensação**: PRAD e programas de reassentamento.
 :::
 
 ::: {.column width="45%"}

@@ -97,13 +97,10 @@ Adotar a bacia hidrográfica como unidade integradora de análise, articulando t
 
 | Índice | Significado |
 |--------|-------------|
-| **Área (A)** | Magnitude da bacia |
-| **Perímetro (P)** | Comprimento do divisor |
-| **Coef. de compacidade (Kc)** | $K_c = 0{,}28 \cdot P / \sqrt{A}$ — forma; próximo de 1 = mais propensa a cheias |
-| **Densidade de drenagem (Dd)** | $D_d = L_t / A$ — km/km²; reflete substrato e permeabilidade |
-| **Ordem dos canais (Strahler)** | Hierarquia da rede |
-| **Declividade média** | Energia disponível para escoamento e erosão |
-| **Índice de sinuosidade** | Maturidade do canal |
+| **Área (A)** e **Perímetro (P)** | Magnitude e forma da bacia |
+| **Kc (compacidade)** | $K_c = 0{,}28 \cdot P / \sqrt{A}$; próximo de 1 = propensa a cheias |
+| **Dd (densidade de drenagem)** | $D_d = L_t / A$ (km/km²); reflete permeabilidade |
+| **Ordem (Strahler)** e **Declividade** | Hierarquia da rede e energia do relevo |
 
 : {.striped .hover}
 :::
@@ -112,14 +109,9 @@ Adotar a bacia hidrográfica como unidade integradora de análise, articulando t
 ::: {.info-box}
 **Fluxo no SIG (QGIS/GRASS)**
 
-1. **MDE** (SRTM 30 m / ALOS 12,5 m / topobathy).
-2. **Preenchimento de depressões** (`r.fill.dir`).
-3. **Direção e acúmulo de fluxo** (`r.watershed`).
-4. **Extração de canais** com limiar.
-5. **Delimitação da bacia** a partir do exutório.
-6. Cálculo dos parâmetros morfométricos.
+MDE → Preenchimento → Direção/acúmulo de fluxo → Extração de canais → Delimitação da bacia → Cálculo morfométrico.
 
-Produtos: **carta hipsométrica**, **carta de declividade**, **mapa da rede de drenagem** com ordem hierárquica.
+> Produtos: carta hipsométrica, declividade e rede de drenagem hierarquizada.
 :::
 :::
 :::
@@ -182,19 +174,10 @@ Produtos: **carta hipsométrica**, **carta de declividade**, **mapa da rede de d
 ::: {.column width="55%"}
 ### Roteiro prático (QGIS)
 
-1. Delimitar bacia/sub-bacias a partir do MDE.
-2. Calcular parâmetros morfométricos.
-3. Sobrepor com **MapBiomas** (uso da terra) e **CAR** (APP, RL).
-4. Mapear APPs em conflito de uso.
-5. Calcular cobertura nativa por sub-bacia.
-6. Hierarquizar sub-bacias por **pressão ambiental**.
-
-### Produtos
-
-- Mapa morfométrico
-- Mapa de uso/cobertura
-- Mapa de APP em conflito
-- Tabela-síntese de fragilidade hidrológica por sub-bacia
+1. Delimitar bacia/sub-bacias a partir do MDE e calcular parâmetros morfométricos.
+2. Sobrepor com **MapBiomas** (uso da terra) e **CAR** (APP, RL).
+3. Mapear APPs em conflito de uso e calcular cobertura nativa por sub-bacia.
+4. Hierarquizar sub-bacias por **pressão ambiental** (tabela-síntese de fragilidade).
 :::
 
 ::: {.column width="45%"}

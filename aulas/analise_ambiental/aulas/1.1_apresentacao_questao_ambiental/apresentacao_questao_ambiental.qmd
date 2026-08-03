@@ -121,41 +121,53 @@ Leituras dirigidas (LEFF, PORTO-GONÇALVES, MENDONÇA, SÁNCHEZ) com fichamento 
 ::: {.column width="50%"}
 ### Marco conceitual
 
-- **Antropoceno** (Crutzen & Stoermer, 2000): proposta de nova época geológica em que a ação humana se tornou força geomorfológica e biogeoquímica dominante.
-- **Grande Aceleração** (pós-1950): aumento exponencial de população, energia, GEE, fertilizantes, perda florestal e consumo hídrico.
-- **Limites Planetários** (Rockström *et al.*, 2009; Steffen *et al.*, 2015): nove fronteiras de segurança operacional do sistema Terra.
+- **Antropoceno** (Crutzen & Stoermer, 2000): ação humana como força geomorfológica e biogeoquímica dominante.
+- **Grande Aceleração** (pós-1950): aumento exponencial de população, GEE, fertilizantes e consumo hídrico.
+- **Limites Planetários** (Rockström *et al.*, 2009; Steffen *et al.*, 2015): nove fronteiras de segurança do sistema Terra.
 
 ### Limites já ultrapassados
 
 - Mudança climática
 - Integridade da biosfera
-- Ciclo do nitrogênio e do fósforo
+- Ciclo do nitrogênio e fósforo
 - Mudança no uso da terra
 - Novas entidades químicas
-
-![](../../figuras/planetary_boundaries.png){fig-alt="Planetary Boundaries Framework" width="100%"}
 :::
 
 ::: {.column width="50%"}
 ::: {.highlight-box}
 **Da crise global à crise territorial**
 
-A crise se manifesta em diferentes escalas:
-
 | Escala | Manifestação |
-|--------|--------------|
-| Global | Aquecimento, perda de biodiversidade, acidificação dos oceanos |
-| Regional | Desertificação, escassez hídrica, queimadas |
-| Local | Erosão, voçorocas, assoreamento, contaminação do solo e da água |
+|--------|-------------|
+| **Global** | Aquecimento, acidificação oceânica |
+| **Regional** | Desmatamento, escassez hídrica |
+| **Local** | Voçorocas, assoreamento, contaminação |
 
 : {.striped .hover}
 
-> A Análise Ambiental opera predominantemente nas escalas **regional** e **local**, mas sempre referidas ao contexto global.
+> Seis dos nove limites já foram ultrapassados (Richardson *et al.*, 2023). A análise ambiental opera na interface entre a escala local e os drivers globais.
 :::
 :::
 :::
 
----
+## Limites Planetários — diagnóstico visual {.smaller-text}
+
+::: {.columns}
+::: {.column width="50%"}
+![](../../figuras/planetary_boundaries.png){fig-alt="Planetary Boundaries Framework" width="100%"}
+:::
+
+::: {.column width="50%"}
+::: {.info-box}
+**Implicações para a disciplina**
+
+- Cada limite planetário tem expressão territorial: a **mudança no uso da terra** materializa-se em desmatamento e erosão; o **ciclo do N e P** manifesta-se em eutrofização de corpos hídricos.
+- O diagnóstico ambiental opera conectando **indicadores locais** (qualidade do solo, vazão, turbidez) aos **drivers globais**.
+- A análise integrada (geossistema, AIA, bacia hidrográfica) é a ferramenta para essa ponte escalar.
+:::
+:::
+:::
 
 ## Degradação dos solos e escassez hídrica {.smaller-text}
 
@@ -163,12 +175,12 @@ A crise se manifesta em diferentes escalas:
 ::: {.column width="50%"}
 ### Degradação do solo no Brasil
 
-- ~30% dos solos cultivados apresentam algum grau de degradação física, química ou biológica (Embrapa, FAO/GLASOD).
-- Erosão hídrica subtrai bilhões de toneladas de solo/ano, com perdas de C, N, P e cátions trocáveis.
-- **Áreas susceptíveis à desertificação (ASD)** no Semiárido nordestino: ~1,3 milhão de km² (PAN-Brasil, MMA).
-- **Compactação**, **selamento superficial** e **perda de matéria orgânica** reduzem infiltração e elevam o escoamento.
+- ~30% dos solos cultivados têm degradação física, química ou biológica (Embrapa, FAO/GLASOD).
+- Erosão hídrica subtrai bilhões de toneladas de solo/ano (perdas de C, N, P e cátions).
+- **Áreas susceptíveis à desertificação (ASD)** no Semiárido: ~1,3 milhão de km² (PAN-Brasil, MMA).
+- **Compactação** e **perda de MO** reduzem infiltração e elevam escoamento superficial.
 
-![](../../../img/Taludamento 2.jpg){fig-alt="Exemplo de degradação" width="100%"}
+![](../../../img/Taludamento 2.jpg){fig-alt="Exemplo de degradação" width="80%"}
 :::
 
 ::: {.column width="50%"}
@@ -177,9 +189,9 @@ A crise se manifesta em diferentes escalas:
 | Vetor | Manifestação |
 |-------|--------------|
 | **Climático** | Secas plurianuais (NE), eventos extremos |
-| **Estrutural** | Distribuição assimétrica (densidade hidrográfica × demanda) |
-| **Antrópico** | Sobreoutorga, perdas em reservatórios, contaminação difusa |
-| **Paisagístico** | Perda de cobertura, drenagem rápida, assoreamento |
+| **Estrutural** | Distribuição assimétrica da rede hidrográfica |
+| **Antrópico** | Sobreoutorga, contaminação difusa |
+| **Paisagístico** | Perda de cobertura, assoreamento |
 
 : {.striped .hover}
 

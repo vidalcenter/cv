@@ -103,18 +103,14 @@ Três fases sequenciais (Res. CONAMA 237/1997):
 | Feição | Largura |
 |--------|---------|
 | Cursos d'água < 10 m | 30 m |
-| Cursos d'água 10–50 m | 50 m |
-| Cursos d'água 50–200 m | 100 m |
-| Cursos d'água 200–600 m | 200 m |
-| Cursos d'água > 600 m | 500 m |
-| Nascentes | Raio de 50 m |
-| Topos de morros | Terço superior |
-| Encostas > 45° | Toda a encosta |
-| Veredas | 50 m do espaço brejoso |
+| Cursos d'água 10–200 m | 50–100 m |
+| Cursos d'água > 200 m | 200–500 m |
+| Nascentes e veredas | Raio de 50 m |
+| Encostas > 45° e topos | Integral / terço superior |
 
 : {.striped .hover}
 
-> APP é instituição jurídica que **protege exatamente os meios ecodinamicamente instáveis** de Tricart (Aula 9).
+> Demais hipóteses: art. 4º da Lei 12.651/2012. APP protege os meios ecodinamicamente instáveis (Tricart, Aula 8).
 :::
 
 ::: {.column width="50%"}
@@ -124,17 +120,14 @@ Três fases sequenciais (Res. CONAMA 237/1997):
 | Bioma/Região | % RL |
 |--------------|:----:|
 | Amazônia Legal (floresta) | 80% |
-| Amazônia Legal (cerrado) | 35% |
-| Amazônia Legal (campos) | 20% |
 | Demais biomas | 20% |
 
 : {.striped .hover}
 
-- Alocação pode ser **única**, **fragmentada** ou em **condomínio**.
-- Alocação coletiva em corredores aumenta **conectividade da paisagem**.
-- Déficits podem ser compensados via **Cota de Reserva Ambiental (CRA)**.
+- Alocação única, fragmentada ou em condomínio; déficits compensados via Cota de Reserva Ambiental (CRA).
+- Corredores ecológicos aumentam a conectividade da paisagem (Art. 12, §7º).
 
-![](../../figuras/arpa_protected_landscape.jpg){fig-alt="Paisagem de Sítio Protegido (Referência)" width="100%"}
+![](../../figuras/arpa_protected_landscape.jpg){fig-alt="Paisagem de Sitio Protegido" width="70%"}
 :::
 :::
 :::
@@ -164,19 +157,16 @@ Três fases sequenciais (Res. CONAMA 237/1997):
 ::: {.highlight-box}
 **PRAD — Plano de Recuperação de Área Degradada**
 
-Estrutura mínima (Norma téc. IBAMA / IN MMA 04/2011):
+Estrutura mínima (IN MMA 04/2011):
 
-1. Identificação do(a) responsável e da área.
-2. Diagnóstico ambiental (meios físico, biótico, antrópico).
-3. Justificativa para os métodos selecionados.
-4. Cronograma físico-financeiro.
-5. Indicadores de monitoramento + metas (3, 5, 10 anos).
-6. Plano de manutenção.
-7. Resultados esperados.
+1. Identificação e diagnóstico ambiental (meios físico, biótico, antrópico).
+2. Métodos, justificativa e cronograma físico-financeiro.
+3. Indicadores de monitoramento com metas (3, 5, 10 anos).
+4. Plano de manutenção e resultados esperados.
 
-> PRAD é onde se converge tudo: AIA + bacia + morfopedologia + geossistemas + indicadores + bioengenharia.
+> O PRAD converge AIA, bacia, morfopedologia, indicadores e bioengenharia em um único instrumento de gestão.
 
-![](../../../img/Revegetacao.JPEG){fig-alt="PRAD implementação" width="100%"}
+![](../../../img/Revegetacao.JPEG){fig-alt="PRAD implementação" width="70%"}
 :::
 :::
 :::

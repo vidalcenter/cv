@@ -116,17 +116,14 @@ Bioengenharia de solos e água é o conjunto de técnicas que utilizam **plantas
 
 | Técnica | Característica |
 |---------|----------------|
-| Paliçadas permeáveis | Tron quetes verticais para conter sedimento em ravinas/voçorocas |
-| Feixes vivos (*fascines*) | Cordel de gravetos vivos enterrados |
-| Biomantas / mantas tecidas | Cobertura temporária + germinação de sementes |
-| Geotêxteis biodegradáveis | Juta, coco, sisal — proteção temporária |
-| Enrocamento vegetado | Pedras + estacas vivas em margens |
-| Pareces tipo Krainer | Estrutura de madeira + estacas + solo |
-| Gabião vivo | Gabiões metálicos + plantio |
+| Paliçadas permeáveis | Tronquetes para conter sedimento em ravinas/voçorocas |
+| Biomantas / geotêxteis | Cobertura temporária com fibras (juta, coco, sisal) |
+| Enrocamento vegetado | Pedras + estacas vivas em margens fluviais |
+| Parede Krainer / gabião vivo | Estrutura de madeira/metal + estacas + solo |
 
 : {.striped .hover}
 
-![](../../../img/geocomposto_2.jpg){fig-alt="Aplicação de biomantas" width="100%"}
+![](../../../img/geocomposto_2.jpg){fig-alt="Aplicação de biomantas" width="75%"}
 :::
 
 ::: {.column width="50%"}

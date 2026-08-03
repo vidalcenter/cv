@@ -155,7 +155,7 @@ A supressão da cobertura **rompe** essa sequência funcional e desencadeia eros
 
 : {.striped .hover}
 
-> A fragilidade de uma vertente resulta da interação entre morfometria, material de origem, regime hídrico e cobertura — eixos centrais da abordagem morfopedológica e da ecodinâmica de Tricart.
+> A fragilidade da vertente resulta da interação entre morfometria, material de origem, regime hídrico e cobertura — eixos da morfopedologia e da ecodinâmica de Tricart.
 :::
 :::
 :::
@@ -254,11 +254,11 @@ Classificar a área de estudo segundo Tricart permite hierarquizar setores quant
 ::: {.column width="50%"}
 ### Roteiro operacional para diagnóstico
 
-A articulação dos três eixos da aula segue uma sequência em cascata que parte da vertente e chega ao zoneamento:
+A articulação dos três eixos segue uma sequência em cascata:
 
-- A **morfopedologia** entrega a unidade-cenário (vertente, topossequência) e os processos atuantes (erosão, movimentos de massa, hidrologia superficial).
-- O **geossistema** insere essa unidade na hierarquia escalar e integra potencial ecológico, exploração biológica e ação antrópica.
-- A **ecodinâmica** classifica o balanço pedogênese–morfogênese e orienta a decisão: prevenir, mitigar ou recuperar.
+- A **morfopedologia** entrega a unidade-cenário (vertente) e os processos atuantes (erosão, movimentos de massa).
+- O **geossistema** insere essa unidade na hierarquia escalar (Bertrand) e integra potencial ecológico, exploração biológica e ação antrópica.
+- A **ecodinâmica** (Tricart) classifica o balanço pedogênese–morfogênese e orienta a decisão: prevenir, mitigar ou recuperar.
 :::
 
 ::: {.column width="50%"}

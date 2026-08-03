@@ -127,44 +127,54 @@ A crise ambiental obriga a problematizar o regime naturalista hegemônico — ab
 
 | Modalidade | Lógica | Exemplo |
 |------------|--------|---------|
-| **Mercantil** | Recurso como mercadoria | Mineração, agronegócio, energia |
-| **Estatal** | Recurso como bem público regulado | Reservas, unidades de conservação |
-| **Comunitária / tradicional** | Recurso como bem comum | Povos tradicionais, faxinais, extrativismo |
-| **Privada-individual** | Recurso como propriedade | Imóvel rural, outorga de água |
+| **Mercantil** | Recurso como mercadoria | Mineração, agronegócio |
+| **Estatal** | Bem público regulado | Unidades de conservação |
+| **Comunitária** | Recurso como bem comum | Faxinais, extrativismo |
+| **Privada** | Recurso como propriedade | Imóvel rural, outorga |
 
 : {.striped .hover}
 
 ### Concentração e desigualdade
 
-- Estrutura fundiária concentrada (Gini fundiário no Brasil > 0,85)
-- Acesso desigual à água, à terra e à infraestrutura ambiental
-- Externalização de custos ambientais sobre territórios periféricos
+- Estrutura fundiária concentrada (Gini > 0,85)
+- Acesso desigual à água, terra e infraestrutura ambiental
+- Externalização de custos sobre territórios periféricos
 
-![](../../../img/plantacao_sisal.jpeg){fig-alt="Apropriação produtiva e uso do solo" width="100%"}
+![](../../../img/plantacao_sisal.jpeg){fig-alt="Apropriação produtiva e uso do solo" width="85%"}
 :::
 
 ::: {.column width="50%"}
 ::: {.highlight-box}
-**Conflitos socioambientais (Acselrad)**
+**Por que isso importa para a análise ambiental?**
 
-Definição operacional:
+A modalidade de apropriação define **quem decide** sobre o recurso — e, portanto, **qual racionalidade** orienta seu uso, conservação ou degradação. O diagnóstico ambiental deve identificar o regime de apropriação vigente antes de propor intervenções.
+:::
 
-> Disputa por **usos, sentidos e formas de apropriação** do território entre grupos com **assimetrias de poder**, atravessada por dimensões econômicas, ecológicas, culturais e simbólicas.
+::: {.info-box}
+**Conceito operacional:** Os conflitos socioambientais emergem da disputa entre modalidades de apropriação incompatíveis sobre um mesmo território (Acselrad, 2004).
+:::
+:::
+:::
 
-### Tipologia frequente no Brasil
+## Conflitos socioambientais no Brasil {.smaller-text}
+
+::: {.columns}
+::: {.column width="50%"}
+### Tipologia frequente
 
 - Mineração × comunidades tradicionais (Mariana, Brumadinho)
 - Hidrelétricas × ribeirinhos e indígenas (Belo Monte)
 - Agronegócio × quilombolas e geraizeiros
 - Expansão urbana × áreas ripárias e APPs
 - Eólicas × pescadores artesanais (litoral NE)
+:::
 
+::: {.column width="50%"}
 ![](../../figuras/brumadinho_catastrophe.jpg){fig-alt="Danos da Catástrofe de Brumadinho" width="100%"}
-:::
-:::
-:::
 
----
+> Disputa por **usos, sentidos e formas de apropriação** do território entre grupos com **assimetrias de poder** (Acselrad, 2004).
+:::
+:::
 
 ## Produção do espaço e ambiente {.smaller-text}
 
