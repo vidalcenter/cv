@@ -14,7 +14,7 @@ description: "Ambiente virtual da disciplina de Análise Ambiental — aulas, le
     <h2 class="ava-title">Análise Ambiental</h2>
     <p class="ava-subtitle">Análise integrada do ambiente: sociedade-natureza, AIA, bacias hidrográficas, morfopedologia, geossistemas, indicadores de qualidade do solo, bioengenharia e legislação ambiental.</p>
     <div class="ava-stats">
-      <span class="ava-stat"><i class="fa-solid fa-display"></i> 16 aulas</span>
+      <span class="ava-stat"><i class="fa-solid fa-display"></i> 15 aulas</span>
       <span class="ava-stat"><i class="fa-solid fa-book"></i> Leituras</span>
       <span class="ava-stat"><i class="fa-solid fa-video"></i> Vídeos</span>
     </div>
@@ -48,12 +48,11 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 | **9** | **19/10** | **VIAGEM DE CAMPO** — Diagnóstico ambiental aplicado: caracterização da área, identificação de processos de degradação, coleta de evidências e aplicação de indicadores em campo. | — |
 | **10** | **26/10** | **1ª AVALIAÇÃO TEÓRICA (prova escrita dissertativa, individual)** — Aulas 1 a 8 + viagem de campo. | **10.1** |
 | — | **02/11** | **FERIADO — Finados (não haverá aula).** | — |
-| 11 | 09/11 | Indicadores ambientais aplicados à análise ambiental; indicadores simples e compostos; diagnóstico e monitoramento. | 11.1 |
-| 12 | 16/11 | Indicadores de qualidade do solo e diagnóstico de áreas degradadas; MO, densidade, porosidade, infiltração, agregação, funcionalidade edáfica. | 12.1 |
-| 13 | 23/11 | Diagnóstico de processos de degradação ambiental; erosão laminar, sulcos, ravinas, voçorocas, compactação, instabilidade de margens, assoreamento. | 13.1 |
-| 14 | 30/11 | Bioengenharia de água e solo aplicada à recuperação ambiental; técnicas vegetativas e estruturais leves; paliçadas, biomantas, geotêxteis, retentores de sedimentos, revegetação. | 14.1 |
-| 15 | 07/12 | Legislação ambiental, APPs, PRAD e instrumentos de gestão; PNMA, Código Florestal, licenciamento, recomposição vegetal. | 15.1 |
-| **16** | **14/12** | **2ª AVALIAÇÃO PRÁTICA** — Apresentação dos trabalhos práticos e encerramento da disciplina (entrega do trabalho prático final). | **16.1** |
+| 11 | 09/11 | Indicadores ambientais e qualidade do solo: indicadores simples e compostos; MO, densidade, porosidade, infiltração, agregação, funcionalidade edáfica; diagnóstico e monitoramento de áreas degradadas. | 11.1, 12.1 |
+| 12 | 16/11 | Diagnóstico de processos de degradação ambiental; erosão laminar, sulcos, ravinas, voçorocas, compactação, instabilidade de margens, assoreamento. | 13.1 |
+| 13 | 23/11 | Bioengenharia de água e solo aplicada à recuperação ambiental; técnicas vegetativas e estruturais leves; paliçadas, biomantas, geotêxteis, retentores de sedimentos, revegetação. | 14.1 |
+| 14 | 30/11 | Legislação ambiental, APPs, PRAD e instrumentos de gestão; PNMA, Código Florestal, licenciamento, recomposição vegetal. | 15.1 |
+| **15** | **07/12** | **2ª AVALIAÇÃO PRÁTICA** — Apresentação dos trabalhos práticos e encerramento da disciplina (entrega do trabalho prático final). | **16.1** |
 
 : {.striped .hover}
 
@@ -71,7 +70,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 |:------------|:----:|:----------|
 | **Estudos Orientados (4)** | Individual | Leituras prévias com fichamento estruturado (LEFF, PORTO-GONÇALVES, MENDONÇA, SÁNCHEZ), entregues nas semanas 2 a 5 |
 | **Avaliação Teórica** | Individual | Prova escrita dissertativa presencial (Sem. 10), abrangendo fundamentos conceituais e metodológicos das aulas 1 a 9 |
-| **Trabalho Prático Final** | Individual/Grupo | Diagnóstico ambiental aplicado: caracterização da área, identificação de degradação, matriz de indicadores, análise interpretativa e proposta preliminar de recuperação/gestão. Entrega na Sem. 16 |
+| **Trabalho Prático Final** | Individual/Grupo | Diagnóstico ambiental aplicado: caracterização da área, identificação de degradação, matriz de indicadores, análise interpretativa e proposta preliminar de recuperação/gestão. Entrega na Sem. 15 |
 
 : {.striped .hover}
 :::
@@ -181,52 +180,43 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/11.1_indicadores_ambientais/indicadores_ambientais.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
-<div class="card-title">Sem. 11 | 11.1 — Indicadores Ambientais</div>
-<p>Indicadores físicos, químicos, biológicos, hidrológicos, geomorfológicos e de uso da terra; índices compostos.</p>
+<div class="card-title">Sem. 11 | 11.1–12.1 — Indicadores Ambientais e Qualidade do Solo</div>
+<p>Indicadores físicos, químicos e biológicos; MO, densidade, porosidade, infiltração, agregação e funcionalidade edáfica.</p>
 </div>
 </a>
 
 <!-- ══════ 12ª SEMANA — 16/11 ══════ -->
-<a class="slide-card" href="../../aulas/analise_ambiental/aulas/12.1_qualidade_solo_areas_degradadas/qualidade_solo_areas_degradadas.html" target="_blank">
-<div class="slide-icon"><i class="fa-solid fa-display"></i></div>
-<div class="slide-info">
-<div class="card-title">Sem. 12 | 12.1 — Qualidade do Solo e Áreas Degradadas</div>
-<p>MO, densidade, porosidade, infiltração, agregação, resistência à penetração e funcionalidade edáfica.</p>
-</div>
-</a>
-
-<!-- ══════ 13ª SEMANA — 23/11 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/13.1_diagnostico_degradacao/diagnostico_degradacao.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
-<div class="card-title">Sem. 13 | 13.1 — Diagnóstico de Processos de Degradação</div>
+<div class="card-title">Sem. 12 | 13.1 — Diagnóstico de Processos de Degradação</div>
 <p>Erosão laminar, sulcos, ravinas, voçorocas, compactação, instabilidade de margens e áreas ripárias.</p>
 </div>
 </a>
 
-<!-- ══════ 14ª SEMANA — 30/11 ══════ -->
+<!-- ══════ 13ª SEMANA — 23/11 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/14.1_bioengenharia_agua_solo/bioengenharia_agua_solo.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
-<div class="card-title">Sem. 14 | 14.1 — Bioengenharia de Água e Solo</div>
+<div class="card-title">Sem. 13 | 14.1 — Bioengenharia de Água e Solo</div>
 <p>Técnicas vegetativas e estruturais leves; paliçadas, biomantas, geotêxteis, retentores de sedimentos e revegetação.</p>
 </div>
 </a>
 
-<!-- ══════ 15ª SEMANA — 07/12 ══════ -->
+<!-- ══════ 14ª SEMANA — 30/11 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/15.1_legislacao_app_prad/legislacao_app_prad.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
-<div class="card-title">Sem. 15 | 15.1 — Legislação Ambiental, APPs e PRAD</div>
+<div class="card-title">Sem. 14 | 15.1 — Legislação Ambiental, APPs e PRAD</div>
 <p>PNMA, Código Florestal, APPs, licenciamento, recomposição vegetal e responsabilidade ambiental.</p>
 </div>
 </a>
 
-<!-- ══════ 16ª SEMANA — 14/12 — AVALIAÇÃO ══════ -->
+<!-- ══════ 15ª SEMANA — 07/12 — AVALIAÇÃO ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/16.1_apresentacao_trabalhos_finais/apresentacao_trabalhos_finais.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-pen-to-square"></i></div>
 <div class="slide-info">
-<div class="card-title">Sem. 16 | 16.1 — Apresentação dos Trabalhos Finais</div>
+<div class="card-title">Sem. 15 | 16.1 — Apresentação dos Trabalhos Finais</div>
 <p>Socialização dos diagnósticos; discussão dos indicadores; análise das propostas de intervenção e encerramento.</p>
 </div>
 </a>
