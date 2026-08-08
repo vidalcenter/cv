@@ -85,7 +85,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 ```{=html}
 <div class="slide-grid">
 
-<!-- ══════ 1ª SEMANA — 11/08 ══════ -->
+<!-- ══════ 1ª SEMANA — 10/08 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/1.1_apresentacao_questao_ambiental/apresentacao_questao_ambiental.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -94,7 +94,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 2ª SEMANA — 18/08 ══════ -->
+<!-- ══════ 2ª SEMANA — 17/08 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/2.1_modernidade_geografia_sociedade_natureza/modernidade_geografia_sociedade_natureza.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -103,7 +103,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 3ª SEMANA — 25/08 ══════ -->
+<!-- ══════ 3ª SEMANA — 24/08 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/3.1_abordagens_ambientais_geografia/abordagens_ambientais_geografia.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -112,7 +112,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 4ª SEMANA — 01/09 ══════ -->
+<!-- ══════ 4ª SEMANA — 31/08 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/4.1_conceitos_analise_ambiental/conceitos_analise_ambiental.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -121,7 +121,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 5ª SEMANA — 08/09 ══════ -->
+<!-- ══════ 5ª SEMANA — 14/09 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/5.1_aia_planejamento_ambiental/aia_planejamento_ambiental.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -130,7 +130,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 6ª SEMANA — 15/09 ══════ -->
+<!-- ══════ 6ª SEMANA — 21/09 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/6.1_fundamentos_analise_integrada/fundamentos_analise_integrada.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -139,7 +139,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 7ª SEMANA — 22/09 ══════ -->
+<!-- ══════ 7ª SEMANA — 28/09 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/7.1_bacia_hidrografica/bacia_hidrografica.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -166,9 +166,9 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 9ª SEMANA — 06/10 (removida — fundida com Sem 8) ══════ -->
+<!-- ══════ Semana 06/10 removida — fundida com Sem 8 ══════ -->
 
-<!-- ══════ 10ª SEMANA — 13/10 — AVALIAÇÃO ══════ -->
+<!-- ══════ 10ª SEMANA — 26/10 — AVALIAÇÃO ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/10.1_avaliacao_teorica/avaliacao_teorica.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-pen-to-square"></i></div>
 <div class="slide-info">
@@ -177,7 +177,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 11ª SEMANA — 20/10 ══════ -->
+<!-- ══════ 11ª SEMANA — 09/11 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/11.1_indicadores_ambientais/indicadores_ambientais.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -186,7 +186,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 12ª SEMANA — 27/10 ══════ -->
+<!-- ══════ 12ª SEMANA — 16/11 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/12.1_qualidade_solo_areas_degradadas/qualidade_solo_areas_degradadas.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -195,7 +195,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 13ª SEMANA — 03/11 ══════ -->
+<!-- ══════ 13ª SEMANA — 23/11 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/13.1_diagnostico_degradacao/diagnostico_degradacao.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -204,7 +204,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 14ª SEMANA — 10/11 ══════ -->
+<!-- ══════ 14ª SEMANA — 30/11 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/14.1_bioengenharia_agua_solo/bioengenharia_agua_solo.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -213,7 +213,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 15ª SEMANA — 17/11 ══════ -->
+<!-- ══════ 15ª SEMANA — 07/12 ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/15.1_legislacao_app_prad/legislacao_app_prad.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-display"></i></div>
 <div class="slide-info">
@@ -222,7 +222,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<!-- ══════ 16ª SEMANA — 24/11 — AVALIAÇÃO ══════ -->
+<!-- ══════ 16ª SEMANA — 14/12 — AVALIAÇÃO ══════ -->
 <a class="slide-card" href="../../aulas/analise_ambiental/aulas/16.1_apresentacao_trabalhos_finais/apresentacao_trabalhos_finais.html" target="_blank">
 <div class="slide-icon"><i class="fa-solid fa-pen-to-square"></i></div>
 <div class="slide-info">
