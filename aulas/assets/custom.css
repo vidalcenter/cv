@@ -214,6 +214,67 @@ section.title-slide .date,
   flex: 1;
 }
 
+/* ---- Aulas com conteúdo denso: leitura contínua, sem texto oculto ----
+   O RevealJS cria rolagem em cada coluna quando a altura fica limitada. Isso
+   esconde parte de caixas e tabelas em alguns navegadores. A classe
+   .lesson-slide deixa a rolagem, quando necessária, no slide inteiro. */
+.reveal .slides section.lesson-slide {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+}
+
+.reveal .slides section.lesson-slide > .columns {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  min-height: auto;
+  overflow: visible !important;
+}
+
+.reveal .slides section.lesson-slide > .columns > .column {
+  flex: 1 1 0;
+  min-width: 0;
+  min-height: auto;
+  overflow: visible !important;
+  padding-right: 0;
+}
+
+.reveal .lesson-slide .box,
+.reveal .lesson-slide .info-box,
+.reveal .lesson-slide .highlight-box {
+  box-sizing: border-box;
+  max-width: 100%;
+  margin: 0.35em 0;
+  overflow-wrap: anywhere;
+}
+
+.reveal .lesson-slide table {
+  width: 100%;
+  table-layout: fixed;
+  font-size: 0.78em;
+}
+
+.reveal .lesson-slide th,
+.reveal .lesson-slide td {
+  padding: 0.28em 0.4em;
+  overflow-wrap: anywhere;
+  vertical-align: top;
+}
+
+.reveal .lesson-slide img {
+  display: block;
+  max-height: 250px;
+  width: auto;
+  max-width: 100%;
+  margin: 0.45em auto 0;
+  object-fit: contain;
+}
+
+.reveal .lesson-slide .figure-caption,
+.reveal .lesson-slide figcaption {
+  font-size: 0.58em;
+  line-height: 1.2;
+}
+
 .fragment.highlight-current-green.visible.current-fragment {
   background-color: #c8e6c9;
 }
@@ -232,18 +293,92 @@ section.title-slide .date,
   box-sizing: border-box !important;
 }
 
-/* ---- Overflow: visível (sem scroll) em slides ---- */
-.reveal .slide-background + section,
-.reveal .slides section.smaller-text:not(.scrollable),
-.reveal .slides section.slide.level2:not(.scrollable) {
+/* ---- Overflow: scroll nos slides de conteúdo (não .stack wrappers) ---- */
+.reveal .slides section.slide.level2 {
+  overflow-y: auto !important;
+  overflow-x: hidden !important;
+  max-height: calc(100vh - 48px) !important;
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: flex-start !important;
+}
+
+/* Heading do slide: altura natural, não encolhe */
+.reveal .slides section.slide.level2 > h2,
+.reveal .slides section.slide.level2 > h3 {
+  flex-shrink: 0;
+}
+
+/* Colunas: mantêm o conteúdo inteiro no fluxo do slide.
+   A rolagem, quando necessária, pertence ao slide; nunca a cada coluna.
+   Isso evita que tabelas e caixas tenham o fim ocultado. */
+.reveal .slides section.slide.level2 > .columns {
+  display: flex !important;   /* anula display:initial do RevealJS */
+  flex: 0 0 auto;
+  min-height: auto;
   overflow: visible !important;
 }
 
-/* ---- Scrollable: permitir scroll vertical em slides marcados ---- */
+/* Coluna individual: sem rolagem interna ou corte de conteúdo */
+.reveal .slides section.slide.level2 > .columns > .column {
+  flex: 1 1 0;
+  min-width: 0;
+  min-height: auto;
+  overflow: visible !important;
+  padding-right: 0;
+}
+
+/* Compacta somente os slides didáticos marcados como menores, preservando
+   títulos e slides de abertura. */
+.reveal .slides section.slide.level2:has(> h2.smaller-text) table {
+  width: 100%;
+  table-layout: fixed;
+  font-size: 0.78em;
+}
+
+.reveal .slides section.slide.level2:has(> h2.smaller-text) th,
+.reveal .slides section.slide.level2:has(> h2.smaller-text) td {
+  padding: 0.28em 0.4em;
+  overflow-wrap: anywhere;
+  vertical-align: top;
+}
+
+.reveal .slides section.slide.level2:has(> h2.smaller-text) img {
+  display: block;
+  max-height: 250px;
+  width: auto;
+  max-width: 100%;
+  margin: 0.45em auto 0;
+  object-fit: contain;
+}
+
+/* ---- Scrollbar sutil para slides e colunas ---- */
+.reveal .slides section.slide.level2::-webkit-scrollbar,
+.reveal .slides section.slide.level2 .column::-webkit-scrollbar {
+  width: 5px;
+}
+.reveal .slides section.slide.level2::-webkit-scrollbar-track,
+.reveal .slides section.slide.level2 .column::-webkit-scrollbar-track {
+  background: transparent;
+}
+.reveal .slides section.slide.level2::-webkit-scrollbar-thumb,
+.reveal .slides section.slide.level2 .column::-webkit-scrollbar-thumb {
+  background: rgba(33, 53, 166, 0.2);
+  border-radius: 3px;
+}
+
+/* Firefox scrollbar */
+.reveal .slides section.slide.level2,
+.reveal .slides section.slide.level2 .column {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(33, 53, 166, 0.2) transparent;
+}
+
+/* ---- Scrollable: classe explícita para scroll em slides atípicos ---- */
 .reveal .slides section.scrollable {
   overflow-y: auto !important;
   overflow-x: hidden !important;
-  max-height: 100% !important;
+  max-height: calc(100vh - 48px) !important;
 }
 
 /* Garantir que caixas com fórmulas nunca gerem scroll */

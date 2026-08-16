@@ -270,11 +270,11 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
-<a class="resource-card" href="https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?id=466103&view=detalhes" target="_blank">
+<a class="resource-card" href="https://drive.google.com/file/d/1mbTwsNXxqqKvCFYNl42LHcKQXZJ9dFiS/view?usp=sharing" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
 <div class="card-title">Tricart, J. (1977)</div>
-<p>Ecodinâmica — Rio de Janeiro: IBGE-SUPREN, 97 p. Catálogo da Biblioteca IBGE (consulte exemplar físico na UEFS).</p>
+<p>Ecodinâmica — Rio de Janeiro: IBGE-SUPREN, 97 p..</p>
 </div>
 </a>
 
@@ -291,6 +291,46 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 <div class="res-info">
 <div class="card-title">Ross, J. L. S. (1994)</div>
 <p>Análise empírica da fragilidade dos ambientes naturais e antropizados — Revista do Departamento de Geografia, v. 8. DOI com PDF.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/15JyzA6aCm5_t7QTvAUacyHNHvVLRonqF/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<div class="res-info">
+<div class="card-title">Lambin et al. (2001)</div>
+<p>LAMBIN, E. F. et al. The causes of land-use and land-cover change: moving beyond the myths. <strong>Global Environmental Change</strong>, v. 11, n. 4, p. 261-269, 2001. — <strong>Leitura 1/5 da Aula 1.1</strong>: o raciocínio de que a mudança de cobertura não é, por si só, o impacto.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/1YXftsBfAsj9Y8k8vmNg4Pvvrgfgk5Wly/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<div class="res-info">
+<div class="card-title">Souza Jr. et al. (2020)</div>
+<p>SOUZA JR., C. M. et al. Reconstructing three decades of land use and land cover changes in Brazilian biomes with Landsat archive and Earth Engine. <strong>Remote Sensing</strong>, v. 12, n. 17, p. 2735, 2020. — <strong>Leitura 2/5 da Aula 1.1</strong>: a metodologia do MapBiomas, base da análise de uso atual e mudança no tempo no Brasil.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/1U3Kk5dVSMmRJPSo_H5sIssnySOM9_n80/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<div class="res-info">
+<div class="card-title">Foley et al. (2005)</div>
+<p>FOLEY, J. A. et al. Global consequences of land use. <strong>Science</strong>, v. 309, n. 5734, p. 570-574, 2005. — <strong>Leitura 3/5 da Aula 1.1</strong>: da mudança de uso aos processos e fluxos ambientais.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/1hWhu9XcJ_ypiddITLYo5NCCyokEckR_Q/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<div class="res-info">
+<div class="card-title">Lambin, Geist &amp; Lepers (2003)</div>
+<p>LAMBIN, E. F.; GEIST, H. J.; LEPERS, E. Dynamics of land-use and land-cover change in tropical regions. <strong>Annual Review of Environment and Resources</strong>, v. 28, p. 205-241, 2003. — <strong>Leitura 4/5 da Aula 1.1</strong>: aprofundamento sobre dinâmica em regiões tropicais.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/1xnZzNasCb3QwQpIxZn4tDCHhDqtH8rz5/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<div class="res-info">
+<div class="card-title">Turner, Lambin &amp; Reenberg (2007)</div>
+<p>TURNER, B. L.; LAMBIN, E. F.; REENBERG, A. The emergence of land change science for global environmental change and sustainability. <strong>PNAS</strong>, v. 104, n. 52, p. 20666-20671, 2007. — <strong>Leitura 5/5 da Aula 1.1</strong>: o quadro geral da ciência da mudança da terra.</p>
 </div>
 </a>
 
