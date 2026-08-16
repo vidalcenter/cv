@@ -126,7 +126,7 @@ MDE → Preenchimento → Direção/acúmulo de fluxo → Extração de canais �
 
 - Capacidade do sistema em **transferir água e sedimentos** das vertentes para a rede.
 - Conectividade **estrutural** (topografia, cobertura, barreiras) + **funcional** (eventos chuvosos, umidade ant.).
-- Índice de Conectividade (IC — Borselli *et al.*, 2008) mapeia em SIG zonas-fonte e zonas-sumidouro.
+- Índice de Conectividade (IC - Borselli *et al.*, 2008) mapeia em SIG zonas-fonte e zonas-sumidouro.
 
 ### Variáveis-chave
 
@@ -140,7 +140,7 @@ MDE → Preenchimento → Direção/acúmulo de fluxo → Extração de canais �
 
 : {.striped .hover}
 
-![](../../../img/vista_area_bacias_2.jpeg){fig-alt="Rede de drenagem e bacia hidrografica" width="100%"}
+![](../../../../img/vista_area_bacias_2.jpeg){fig-alt="Rede de drenagem e bacia hidrografica" width="100%"}
 :::
 
 ::: {.column width="50%"}
@@ -192,7 +192,7 @@ MDE → Preenchimento → Direção/acúmulo de fluxo → Extração de canais �
 | INPE / TOPODATA | MDE SRTM – 30 m |
 | ALOS PALSAR | DEM 12,5 m (NASA Earthdata) |
 | MapBiomas | Uso/cobertura anual |
-| SICAR | CAR — APP/RL declaradas |
+| SICAR | CAR - APP/RL declaradas |
 :::
 :::
 :::

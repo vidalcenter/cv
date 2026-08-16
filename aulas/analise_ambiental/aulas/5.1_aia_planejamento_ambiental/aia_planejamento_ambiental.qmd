@@ -60,10 +60,10 @@ Apresentar a Avaliação de Impacto Ambiental (AIA) como instrumento do planejam
 
 - **AIA** (Sánchez, 2013): conjunto de procedimentos voltados a **prever**, **analisar** e **comunicar** as consequências ambientais prováveis de uma ação proposta.
 - Funções:
-  - **Técnica** — identificar e quantificar impactos.
-  - **Decisória** — subsidiar autorização ou negação do projeto.
-  - **De negociação** — estabelecer medidas mitigadoras e compensatórias.
-  - **De aprendizado social** — produzir conhecimento territorial público.
+  - **Técnica** - identificar e quantificar impactos.
+  - **Decisória** - subsidiar autorização ou negação do projeto.
+  - **De negociação** - estabelecer medidas mitigadoras e compensatórias.
+  - **De aprendizado social** - produzir conhecimento territorial público.
 
 ### Marco regulatório (Brasil)
 
@@ -116,11 +116,11 @@ Caracterização do estado de referência (cenário **sem** o empreendimento) em
 
 ### Escalas
 
-- **Área de Influência Direta (AID)** — impacto pode ser causalmente atribuído.
-- **Área de Influência Indireta (AII)** — efeitos secundários e sistêmicos.
-- **Área Diretamente Afetada (ADA)** — área física do empreendimento.
+- **Área de Influência Direta (AID)** - impacto pode ser causalmente atribuído.
+- **Área de Influência Indireta (AII)** - efeitos secundários e sistêmicos.
+- **Área Diretamente Afetada (ADA)** - área física do empreendimento.
 
-![](../../../img/salvaguarda_territorio.png){fig-alt="Mapas e limites territoriais" width="100%"}
+![](../../../../img/salvaguarda_territorio.png){fig-alt="Mapas e limites territoriais" width="100%"}
 :::
 
 ::: {.column width="50%"}
@@ -164,10 +164,10 @@ Natureza, magnitude, abrangência, duração, reversibilidade, sinergia, cumulat
 ::: {.highlight-box}
 **Hierarquia da mitigação** (BBOP/CSBI)
 
-1. **Evitar** — redesenhar o projeto.
-2. **Minimizar** — reduzir intensidade.
-3. **Restaurar** — reabilitar no local.
-4. **Compensar** — fora do local, em equivalência ecológica.
+1. **Evitar** - redesenhar o projeto.
+2. **Minimizar** - reduzir intensidade.
+3. **Restaurar** - reabilitar no local.
+4. **Compensar** - fora do local, em equivalência ecológica.
 
 > Compensação é **último recurso**, não atalho.
 
@@ -212,7 +212,7 @@ Detalham as condicionantes da LP. Exemplos típicos:
 Selecionar um EIA/RIMA público (SIBE/IBAMA ou órgão estadual) e identificar:
 
 1. Áreas de influência (ADA, AID, AII).
-2. Trinta principais impactos previstos.
+2. Três principais impactos previstos.
 3. Lacunas no diagnóstico ambiental.
 4. Coerência da hierarquia de mitigação.
 5. Adequação do plano de monitoramento.
@@ -224,5 +224,6 @@ Selecionar um EIA/RIMA público (SIBE/IBAMA ou órgão estadual) e identificar:
 
 ## Bibliografia da aula {.smaller-text}
 
-- SÁNCHEZ, L. E. **Avaliação de impacto ambiental**: conceitos e métodos, cap. 7. 2. ed. São Paulo: Oficina de Textos, 2013.
+- SÁNCHEZ, L. E. **Avaliação de impacto ambiental**: conceitos e métodos. 2. ed. São Paulo: Oficina de Textos, 2013. Capítulos de apoio a esta aula: *Identificação de impactos*; *Estudos de base e diagnóstico ambiental*; *Previsão de impactos*; *Mitigação e plano de gestão ambiental*.
 - BRASIL/MMA. **Procedimentos de licenciamento ambiental do Brasil**. Brasília: MMA, 2016.
+- CETESB. **Manual para elaboração de estudos ambientais**. São Paulo: CETESB, [s.d.]. Roteiro de apoio ao Estudo Orientado nº 4.

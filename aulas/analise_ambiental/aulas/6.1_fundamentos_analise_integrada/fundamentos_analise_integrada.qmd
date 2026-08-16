@@ -73,7 +73,7 @@ Articular elementos físico-bióticos e antrópicos em diferentes escalas como b
 - Funcionalidade ecossistêmica (polinização, ciclagem, regulação)
 - Espécies-bandeira, endêmicas e ameaçadas
 
-![](../../../img/Revegetacao.JPEG){fig-alt="Recuperação e revegetação" width="100%"}
+![](../../../../img/Revegetacao.JPEG){fig-alt="Recuperação e revegetação" width="100%"}
 :::
 
 ::: {.column width="50%"}
@@ -90,7 +90,7 @@ Articular elementos físico-bióticos e antrópicos em diferentes escalas como b
 
 : {.striped .hover}
 
-> Os três meios **não se somam** — se articulam em **sistemas ambientais** com propriedades emergentes (Aula 9).
+> Os três meios **não se somam** - se articulam em **sistemas ambientais** com propriedades emergentes (Aula 9).
 :::
 :::
 :::
@@ -162,11 +162,11 @@ A leitura **dinâmica** é oposta à leitura **inventarial**: o ambiente é flux
 
 Função do diagnóstico integrado para subsidiar:
 
-- **ZEE** — Zoneamento Ecológico-Econômico
-- **ZEEC** — Zoneamento Costeiro
-- **Planos de Bacia** — outorga, enquadramento, cobrança
-- **Planos Diretores Municipais** — macrozoneamento, perimetro urbano
-- **Plano de Manejo de UCs** — zona de proteção integral, uso, amortecimento
+- **ZEE** - Zoneamento Ecológico-Econômico
+- **ZEEC** - Zoneamento Costeiro
+- **Planos de Bacia** - outorga, enquadramento, cobrança
+- **Planos Diretores Municipais** - macrozoneamento, perimetro urbano
+- **Plano de Manejo de UCs** - zona de proteção integral, uso, amortecimento
 
 A Análise Ambiental fornece a **base territorial** para todos esses instrumentos (Aula 15).
 :::
@@ -179,5 +179,7 @@ A Análise Ambiental fornece a **base territorial** para todos esses instrumento
 
 - CASTRO, C. M.; LEMOS, C. C. **Planejamento ambiental**. Rio de Janeiro: Fundação Cecierj, 2016.
 - ARRUDA, A. G. F. "Planejamento territorial" e "ordenamento territorial": uma busca da compreensão usual e epistemológica na gestão do território. **Akrópolis**, Umuarama, v. 21, n. 2, p. 125-132, jul./dez. 2013.
+- CHRISTOFOLETTI, A. **Modelagem de sistemas ambientais**. São Paulo: Edgard Blücher, 1999.
 - DREW, D. **Processos interativos homem-meio ambiente**. Rio de Janeiro: Bertrand Brasil, 1989.
-- VITAL, M. H. F.; CARVALHO, F. C.; PINTO, M. A. C. **Metodologias e técnicas para análise ambiental de projetos de investimento**. Rio de Janeiro: BNDES, 2020.
+- TAUK-TORNISIELO, S. M. (org.). **Análise ambiental**: uma visão multidisciplinar. 2. ed. São Paulo: Editora UNESP, 1996.
+- CASTRO, I. E. de. O problema da escala. In: CASTRO, I. E. de; GOMES, P. C. da C.; CORRÊA, R. L. (org.). **Geografia: conceitos e temas**. Rio de Janeiro: Bertrand Brasil, 1995.

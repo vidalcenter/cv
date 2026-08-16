@@ -98,10 +98,10 @@ Diagnóstico ambiental integrado de uma **sub-bacia** ou **área-piloto** com pr
 ::: {.column width="50%"}
 ### Cada grupo
 
-1. **Contexto** (3 min) — recorte, justificativa, método.
-2. **Diagnóstico** (5 min) — cartografia, indicadores, fragilidade.
-3. **Proposição** (5 min) — diretrizes, seleção de técnicas, monitoramento.
-4. **Reflexão crítica** (2 min) — limites do trabalho, lacunas, próximos passos.
+1. **Contexto** (3 min) - recorte, justificativa, método.
+2. **Diagnóstico** (5 min) - cartografia, indicadores, fragilidade.
+3. **Proposição** (5 min) - diretrizes, seleção de técnicas, monitoramento.
+4. **Reflexão crítica** (2 min) - limites do trabalho, lacunas, próximos passos.
 
 ### Cada par avaliador
 
@@ -158,7 +158,7 @@ A formação se prolonga no campo profissional via:
 - Trabalho com povos e comunidades tradicionais.
 - Educação ambiental e divulgação científica.
 
-> A Análise Ambiental é menos um conjunto de técnicas e mais um **modo de olhar** o território — integrador, escalar, crítico e propositivo.
+> A Análise Ambiental é menos um conjunto de técnicas e mais um **modo de olhar** o território - integrador, escalar, crítico e propositivo.
 :::
 :::
 :::

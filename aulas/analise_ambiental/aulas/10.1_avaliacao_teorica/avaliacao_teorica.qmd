@@ -132,19 +132,19 @@ Verificar a integração dos conteúdos das Aulas 1 a 9 por meio de questões di
 ## Exemplos de questões {.smaller-text}
 
 ::: {.info-box}
-**Exemplo 1 — articulando conceitos**
+**Exemplo 1 - articulando conceitos**
 
 A partir de Mendonça (2001) e Bertrand (2004), discuta como a abordagem socioambiental e a abordagem geossistêmica se complementam para a Análise Ambiental, exemplificando com um caso do território baiano.
 :::
 
 ::: {.highlight-box}
-**Exemplo 2 — aplicação**
+**Exemplo 2 - aplicação**
 
 Selecione uma sub-bacia hipotética com declividades de 20–45%, solos rasos e pastagem extensiva. Aplique o método de fragilidade ambiental (Ross, 1994) descrevendo: variantes potencial e emergente, classificação esperada e implicações para a recomendação de uso.
 :::
 
 ::: {.info-box}
-**Exemplo 3 — crítica**
+**Exemplo 3 - crítica**
 
 A Res. CONAMA 01/1986 define impacto como alteração decorrente de ação humana. Em que medida essa definição capta (ou não) impactos **cumulativos** e **sinérgicos** discutidos por Sánchez (2013)? Que implicações essa lacuna tem para o licenciamento de múltiplos empreendimentos numa mesma bacia?
 :::
@@ -153,8 +153,9 @@ A Res. CONAMA 01/1986 define impacto como alteração decorrente de ação human
 
 ## Bibliografia de revisão {.smaller-text}
 
-- LEFF, E. **Epistemologia ambiental**. São Paulo: Cortez, 2001.
-- PORTO-GONÇALVES, C. W. **Os (des)caminhos do meio ambiente**. São Paulo: Contexto, 2006.
+- LEFF, E. **Epistemologia ambiental**, cap. 2: Interdisciplinaridade, ambiente e desenvolvimento sustentável. São Paulo: Cortez, 2001.
+- PORTO-GONÇALVES, C. W. A natureza da globalização e a globalização da natureza. In: **O desafio ambiental**. Org. Emir Sader. Rio de Janeiro: Record, 2004. Parte I, p. 13-75. (Os porquês da desordem mundial).
+- PORTO-GONÇALVES, C. W. **Os (des)caminhos do meio ambiente**. 14. ed. São Paulo: Contexto, 2006.
 - MENDONÇA, F. Geografia socioambiental. **Terra Livre**, n. 16, p. 113-132, 2001.
 - SÁNCHEZ, L. E. **Avaliação de impacto ambiental**: conceitos e métodos. 2. ed. São Paulo: Oficina de Textos, 2013.
 - BERTRAND, G. Paisagem e geografia física global: esboço metodológico. **RA'E GA**, v. 8, 2004. DOI: [10.5380/raega.v8i0.3389](https://doi.org/10.5380/raega.v8i0.3389).

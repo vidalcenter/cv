@@ -43,7 +43,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 | 5 | 14/09 | Avaliação de Impacto Ambiental e planejamento ambiental; diagnóstico, prognóstico, medidas mitigadoras e compensatórias, monitoramento. **Entrega do Estudo Orientado nº 4.** | 5.1 |
 | 6 | 21/09 | Fundamentos da análise ambiental integrada; meio físico, biótico e antrópico; escala; sistemas ambientais; ordenamento territorial. | 6.1 |
 | 7 | 28/09 | Bacia hidrográfica como unidade de análise; rede de drenagem, áreas ripárias, conectividade hidrossedimentológica e uso da terra. | 7.1 |
-| 8 | 05/10 | Morfopedologia e processos relevo-solo-água; geossistemas, ecodinâmica e análise integrada da paisagem (Tricart, Bertrand); estabilidade, instabilidade, fragilidade potencial e emergente. | 8.1 |
+| 8 | 05/10 | Morfopedologia e processos relevo-solo-água; geossistemas, ecodinâmica e análise integrada da paisagem (Tricart, Bertrand); estabilidade, instabilidade, fragilidade potencial e emergente. **Entrega do Estudo Orientado nº 5.** | 8.1 |
 | — | **12/10** | **FERIADO — Nossa Senhora Aparecida (não haverá aula).** | — |
 | **9** | **19/10** | **VIAGEM DE CAMPO** — Diagnóstico ambiental aplicado: caracterização da área, identificação de processos de degradação, coleta de evidências e aplicação de indicadores em campo. | — |
 | **10** | **26/10** | **1ª AVALIAÇÃO TEÓRICA (prova escrita dissertativa, individual)** — Aulas 1 a 8 + viagem de campo. | **10.1** |
@@ -68,7 +68,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 
 | Instrumento | Tipo | Descrição |
 |:------------|:----:|:----------|
-| **Estudos Orientados (4)** | Individual | Leituras prévias com fichamento estruturado (LEFF, PORTO-GONÇALVES, MENDONÇA, SÁNCHEZ), entregues nas semanas 2 a 5 |
+| **Estudos Orientados (5)** | Individual | Fichamentos: PORTO-GONÇALVES (sem. 2), MENDONÇA (sem. 3), SÁNCHEZ (sem. 4) e BERTRAND (sem. 8); análise de um EIA/RIMA público (sem. 5) |
 | **Avaliação Teórica** | Individual | Prova escrita dissertativa presencial (Sem. 10), abrangendo fundamentos conceituais e metodológicos das aulas 1 a 9 |
 | **Trabalho Prático Final** | Individual/Grupo | Diagnóstico ambiental aplicado: caracterização da área, identificação de degradação, matriz de indicadores, análise interpretativa e proposta preliminar de recuperação/gestão. Entrega na Sem. 15 |
 
@@ -229,35 +229,44 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 ```{=html}
 <div class="resource-grid">
 
-<a class="resource-card" href="https://www.clacso.org.ar/libreria-latinoamericana/libro_detalle.php?id_libro=843" target="_blank">
-<div class="res-icon"><i class="fa-solid fa-book"></i></div>
-<div class="res-info">
-<div class="card-title">Leff, E. (2001)</div>
-<p>Saber Ambiental: sustentabilidade, racionalidade, complexidade, poder — Petrópolis: Vozes. Catálogo CLACSO.</p>
-</div>
-</a>
-
-<a class="resource-card" href="https://www.record.com.br/produto/o-desafio-ambiental/" target="_blank">
+<a class="resource-card" href="https://drive.google.com/file/d/1ZTDSnfWB9QwOC6Hn8tkb2oL9SJW39OGu/view?usp=sharing" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
 <div class="card-title">Porto-Gonçalves, C. W. (2004)</div>
-<p>O desafio ambiental — Rio de Janeiro: Record. Obra de referência; edição física na biblioteca da UEFS.</p>
+<p>PORTO-GONÇALVES, Carlos Walter. A natureza da globalização e a globalização da natureza. In: <strong>O desafio ambiental</strong>. Organização de Emir Sader. Rio de Janeiro: Record, 2004. Parte I, p. 13-75. (Os porquês da desordem mundial: mestres explicam a globalização). — <strong>Recorte do Estudo Orientado nº 1</strong>: itens 1-3 (p. 13-27) e item 8 (p. 65-72).</p>
 </div>
 </a>
 
-<a class="resource-card" href="https://cetesb.sp.gov.br/licenciamentoambiental/manual-para-elaboracao-de-estudos-ambientais/" target="_blank">
-<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
-<div class="res-info">
-<div class="card-title">CETESB — Manual para Elaboração de Estudos Ambientais</div>
-<p>Guia técnico gratuito com roteiro de AIA, EIA-RIMA, diagnóstico e medidas mitigadoras. Material complementar a Sánchez (2013).</p>
-</div>
-</a>
 
 <a class="resource-card" href="https://publicacoes.agb.org.br/terralivre/article/view/352/334" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
 <div class="res-info">
 <div class="card-title">Mendonça, F. (2001)</div>
-<p>Geografia Socioambiental — Terra Livre, n. 16, p. 113-132. PDF em acesso aberto via AGB.</p>
+<p>MENDONÇA, Francisco. Geografia socioambiental. <strong>Terra Livre</strong>, São Paulo, v. 1, n. 16, p. 113-132, 2001. — <strong>Leitura do Estudo Orientado nº 2</strong>. PDF em acesso aberto via AGB.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/1-B8ABZgNfP0mqn4GPL6S1R-7Wu7LpDiC/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-book"></i></div>
+<div class="res-info">
+<div class="card-title">Leff, E. (2001)</div>
+<p>LEFF, Enrique. Interdisciplinaridade, ambiente e desenvolvimento sustentável. In: <strong>Epistemologia ambiental</strong>. São Paulo: Cortez, 2001. cap. 2. — <strong>Leitura complementar da Aula 3.1</strong> (não é Estudo Orientado): ler apenas o cap. 2, que aprofunda a interdisciplinaridade e o diálogo de saberes.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/1e7N0QFdRFJUcojSKaWAMulHtdvHpmF7H/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-book"></i></div>
+<div class="res-info">
+<div class="card-title">Sánchez, L. E. (2013)</div>
+<p>SÁNCHEZ, Luis Enrique. Conceitos e definições. In: <strong>Avaliação de impacto ambiental</strong>: conceitos e métodos. 2. ed. São Paulo: Oficina de Textos, 2013. cap. 1. — <strong>Leitura do Estudo Orientado nº 3</strong>: apenas o capítulo <em>Conceitos e definições</em>. O capítulo <em>Identificação de impactos</em> é a leitura da Aula 5.1.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://repositorio.cetesb.sp.gov.br/server/api/core/bitstreams/bb3377f9-5c87-4663-9075-c942562e4ba9/content" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
+<div class="res-info">
+<div class="card-title">CETESB — Manual para Elaboração de Estudos Ambientais</div>
+<p>Guia técnico gratuito com roteiro de AIA, EIA-RIMA, diagnóstico e medidas mitigadoras. Material complementar a Sánchez (2013).</p>
 </div>
 </a>
 
@@ -272,8 +281,8 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 <a class="resource-card" href="https://revistas.ufpr.br/raega/article/download/3389/2718/6601" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-file-pdf"></i></div>
 <div class="res-info">
-<div class="card-title">Bertrand, G. (1971)</div>
-<p>Paisagem e geografia física global: esboço metodológico — RA'E GA, v. 8, 2004. Texto seminal sobre geossistema.</p>
+<div class="card-title">Bertrand, G. (2004)</div>
+<p>BERTRAND, Georges. Paisagem e geografia física global: esboço metodológico. <strong>RA'E GA</strong>, v. 8, p. 141-152, 2004 (original de 1968). — Texto seminal sobre geossistema. — <strong>Leitura do Estudo Orientado nº 5</strong> (Aula 8.1, sem. 8). PDF em acesso aberto via RA'E GA/UFPR.</p>
 </div>
 </a>
 
@@ -282,6 +291,30 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 <div class="res-info">
 <div class="card-title">Ross, J. L. S. (1994)</div>
 <p>Análise empírica da fragilidade dos ambientes naturais e antropizados — Revista do Departamento de Geografia, v. 8. DOI com PDF.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/1QguopfblOl_X25TyNFeaeYY9hreIIr12/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-book"></i></div>
+<div class="res-info">
+<div class="card-title">Tauk-Tornisielo, S. M. (1996)</div>
+<p>TAUK-TORNISIELO, S. M. (org.). <strong>Análise ambiental</strong>: uma visão multidisciplinar. 2. ed. São Paulo: Editora UNESP, 1996. — <strong>Leitura da Aula 6.1</strong>: articulação entre meio físico, biótico e antrópico.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/1Bn8L22cjF_vTEkAaF6hjgWXvUETJ49mQ/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-book"></i></div>
+<div class="res-info">
+<div class="card-title">Castro, I. E. de (1995)</div>
+<p>CASTRO, I. E. de. O problema da escala. In: CASTRO, I. E. de; GOMES, P. C. da C.; CORRÊA, R. L. (org.). <strong>Geografia: conceitos e temas</strong>. Rio de Janeiro: Bertrand Brasil, 1995. — <strong>Leitura da Aula 6.1</strong>: escala espacial e temporal na análise ambiental.</p>
+</div>
+</a>
+
+<a class="resource-card" href="https://drive.google.com/file/d/1fhYykzHn-XE08bEFpNbvw_JX6GXksxUK/view?usp=sharing" target="_blank">
+<div class="res-icon"><i class="fa-solid fa-book"></i></div>
+<div class="res-info">
+<div class="card-title">Durlo &amp; Sutili (2014)</div>
+<p>DURLO, Miguel Antão; SUTILI, Fabrício Jaques. <strong>Bioengenharia</strong>: manejo biotécnico de cursos de água. 3. ed. Santa Maria: Edição do Autor, 2014. 192 p. — <strong>Leitura da Aula 14.1</strong>: técnicas vegetativas e estruturais leves, estabilização de margens e taludes.</p>
 </div>
 </a>
 
@@ -664,10 +697,13 @@ Envie pelo [e-mail do professor](mailto:ldvsantos@uefs.br) com o assunto "Sugest
 
 - ARRUDA, A. G. F. "Planejamento territorial" e "ordenamento territorial": uma busca da compreensão usual e epistemológica na gestão do território. **Akrópolis**, Umuarama, v. 21, n. 2, p. 125-132, jul./dez. 2013.
 - BERTALANFFY, L. von. **Teoria geral dos sistemas**: fundamentos, desenvolvimento e aplicações. 5. ed. Petrópolis: Vozes, 2010.
+- BERTONI, J.; LOMBARDI NETO, F. **Conservação do solo**. São Paulo: Ícone, 2012.
 - BERTRAND, G. Paisagem e geografia física global: esboço metodológico. **RA'E GA**, Curitiba, n. 8, p. 141-152, 2004. DOI: [10.5380/raega.v8i0.3389](https://doi.org/10.5380/raega.v8i0.3389).
 - BOTELHO, R. G. M.; SILVA, A. S. Bacia hidrográfica e qualidade ambiental. In: VITTE, A. C.; GUERRA, A. J. T. (org.). **Reflexões sobre a geografia física no Brasil**. Rio de Janeiro: Bertrand Brasil, 2004.
 - BRASIL. **Lei nº 6.938, de 31 de agosto de 1981**. Política Nacional do Meio Ambiente. Brasília, DF: Presidência da República, 1981.
 - BRASIL. **Lei nº 12.651, de 25 de maio de 2012**. Código Florestal Brasileiro. Brasília, DF: Presidência da República, 2012.
+- BRASIL. **Resolução CONAMA nº 429, de 28 de fevereiro de 2011**. Metodologia de recuperação das Áreas de Preservação Permanente. Brasília, DF: CONAMA, 2011.
+- BRASIL/IBAMA. **Instrução Normativa nº 4, de 13 de abril de 2011**. Procedimentos para elaboração de Projeto de Recuperação de Área Degradada (PRAD). Brasília, DF: IBAMA, 2011.
 - BRASIL/MMA. **Procedimentos de licenciamento ambiental do Brasil**. Brasília, DF: MMA, 2016.
 - CASSETI, V. **Geomorfologia**. Goiânia: UFG, 2007.
 - CASTRO, C. M.; LEMOS, C. C. **Planejamento ambiental**. Rio de Janeiro: Fundação Cecierj, 2016.
@@ -675,16 +711,18 @@ Envie pelo [e-mail do professor](mailto:ldvsantos@uefs.br) com o assunto "Sugest
 - CHRISTOFOLETTI, A. **Geomorfologia fluvial**. São Paulo: Edgard Blücher, 1981.
 - DORAN, J. W.; PARKIN, T. B. Defining and assessing soil quality. In: DORAN, J. W. et al. **Defining soil quality for a sustainable environment**. Madison: SSSA, 1994. p. 3-21. DOI: [10.2136/sssaspecpub35.c1](https://doi.org/10.2136/sssaspecpub35.c1).
 - DREW, D. **Processos interativos homem-meio ambiente**. Rio de Janeiro: Bertrand Brasil, 1989.
-- DURLO, M. A.; SUTILI, F. J. **Bioengenharia**: manejo biotécnico de cursos de água. Porto Alegre: EST Edições, 2005.
+- DURLO, M. A.; SUTILI, F. J. **Bioengenharia**: manejo biotécnico de cursos de água. 3. ed. Santa Maria: Edição do Autor, 2014. 192 p.
 - FIDALGO, E. C. C. **Critérios para a análise de métodos e indicadores ambientais usados na etapa de diagnóstico de planejamentos ambientais**. 2003. 239 f. Tese (Doutorado em Engenharia Agrícola) — FEAGRI/UNICAMP, Campinas, 2003.
 - GRAY, D. H.; SOTIR, R. B. **Biotechnical and soil bioengineering slope stabilization**: a practical guide for erosion control. New York: John Wiley & Sons, 1996.
 - GUERRA, A. J. T. Geomorfologia e planejamento ambiental: conceitos e aplicações. **Revista de Geografia**, Recife, v. 35, n. 4, p. 1-23, 2018.
 - GUERRA, A. J. T.; CUNHA, S. B. (org.). **Geomorfologia e meio ambiente**. Rio de Janeiro: Bertrand Brasil, 1996.
+- GUERRA, A. J. T.; SILVA, A. S.; BOTELHO, R. G. M. (org.). **Erosão e conservação dos solos**: conceitos, temas e aplicações. Rio de Janeiro: Bertrand Brasil, 1999.
 - IBGE. **Análise ambiental e gestão do território**: contribuições teórico-metodológicas. Rio de Janeiro: IBGE, 2018.
 - KARLEN, D. L. et al. Soil quality: a concept, definition, and framework for evaluation. **Soil Science Society of America Journal**, v. 61, n. 1, p. 4-10, 1997. DOI: [10.2136/sssaj1997.03615995006100010001x](https://doi.org/10.2136/sssaj1997.03615995006100010001x).
 - LEFF, E. **Epistemologia ambiental**. São Paulo: Cortez, 2001.
-- MENDONÇA, F. Geografia socioambiental. **Terra Livre**, São Paulo, n. 16, p. 139-158, 2001.
+- MENDONÇA, F. Geografia socioambiental. **Terra Livre**, São Paulo, v. 1, n. 16, p. 113-132, 2001. DOI: [10.62516/terra_livre.2001.352](https://doi.org/10.62516/terra_livre.2001.352).
 - OECD. **Environmental indicators**: development, measurement and use. Paris: OECD, 2003.
+- PORTO-GONÇALVES, C. W. A natureza da globalização e a globalização da natureza. In: **O desafio ambiental**. Org. Emir Sader. Rio de Janeiro: Record, 2004. Parte I, p. 13-75. (Os porquês da desordem mundial).
 - PORTO-GONÇALVES, C. W. **Os (des)caminhos do meio ambiente**. 14. ed. São Paulo: Contexto, 2006.
 - RODRIGUEZ, J. M. M.; SILVA, E. V.; CAVALCANTI, A. P. B. **Geoecologia das paisagens**: uma visão geossistêmica da análise ambiental. 5. ed. Fortaleza: Edições UFC, 2017.
 - ROSS, J. L. S. Análise empírica da fragilidade dos ambientes naturais e antropizados. **Revista do Departamento de Geografia**, São Paulo, n. 8, p. 63-74, 1994. DOI: [10.7154/RDG.1994.0008.0006](https://doi.org/10.7154/RDG.1994.0008.0006).
@@ -694,7 +732,8 @@ Envie pelo [e-mail do professor](mailto:ldvsantos@uefs.br) com o assunto "Sugest
 - TAUK-TORNISIELO, S. M. **Análise ambiental**: uma visão multidisciplinar. 2. ed. São Paulo: Editora UNESP, 1996.
 - TRICART, J. **Ecodinâmica**. Rio de Janeiro: Diretoria Técnica da SUPREN/IBGE, 1977.
 - VEZZANI, F. M.; MIELNICZUK, J. Uma visão sobre qualidade do solo. **Revista Brasileira de Ciência do Solo**, Viçosa, v. 33, n. 4, p. 743-755, 2009. DOI: [10.1590/S0100-06832009000400001](https://doi.org/10.1590/S0100-06832009000400001).
-- VITAL, M. H. F.; CARVALHO, F. C.; PINTO, M. A. C. **Metodologias e técnicas para análise ambiental de projetos de investimento**. Rio de Janeiro: BNDES, 2020.
+- CASTRO, I. E. de. O problema da escala. In: CASTRO, I. E. de; GOMES, P. C. da C.; CORRÊA, R. L. (org.). **Geografia: conceitos e temas**. Rio de Janeiro: Bertrand Brasil, 1995.
+- CHRISTOFOLETTI, A. **Modelagem de sistemas ambientais**. São Paulo: Edgard Blücher, 1999.
 
 ### {{< fa video >}} Vídeos
 

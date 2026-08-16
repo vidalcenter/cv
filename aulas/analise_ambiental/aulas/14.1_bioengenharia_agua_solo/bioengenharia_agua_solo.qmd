@@ -59,7 +59,7 @@ Aplicar técnicas de bioengenharia de água e solo (vegetativas e estruturais le
 ::: {.column width="50%"}
 ### Definição
 
-Bioengenharia de solos e água é o conjunto de técnicas que utilizam **plantas vivas** — isoladas ou em combinação com materiais inertes — como **elementos estruturais** para estabilizar solos, controlar a erosão e restaurar funções ecológicas (Gray & Sotir, 1996; Durlo & Sutili, 2005).
+Bioengenharia de solos e água é o conjunto de técnicas que utilizam **plantas vivas** - isoladas ou em combinação com materiais inertes - como **elementos estruturais** para estabilizar solos, controlar a erosão e restaurar funções ecológicas (Gray & Sotir, 1996; Durlo & Sutili, 2005).
 
 ### Funções das plantas
 
@@ -123,7 +123,7 @@ Bioengenharia de solos e água é o conjunto de técnicas que utilizam **plantas
 
 : {.striped .hover}
 
-![](../../../img/geocomposto_2.jpg){fig-alt="Aplicação de biomantas" width="75%"}
+![](../../../../img/geocomposto_2.jpg){fig-alt="Aplicação de biomantas" width="75%"}
 :::
 
 ::: {.column width="50%"}
@@ -180,7 +180,7 @@ Sistema combinado:
 5. **Retentores de sedimento** a jusante (bacias de detenção, *check-dams*).
 6. **Monitoramento** por pinos de erosão e fotorregistro georreferenciado.
 
-![](../../../img/palicadas_sequencia.jpeg){fig-alt="Sequência de paliçadas em voçoroca" width="100%"}
+![](../../../../img/palicadas_sequencia.jpeg){fig-alt="Sequência de paliçadas em voçoroca" width="100%"}
 :::
 :::
 :::
@@ -194,11 +194,11 @@ Sistema combinado:
 ### Etapas de projeto
 
 1. **Diagnóstico** (Aulas 7-13).
-2. **Concepção** — seleção de técnicas por tipo de feição.
-3. **Dimensionamento** — hidrológico, geotécnico, agronômico.
-4. **Lista de mat./espécies** — nativas, quantitativos, calendário.
-5. **Instalação** — início em transição seca-chuvosa.
-6. **Monitoramento (2-3 anos)** — indicadores de pegamento, perda de solo, cobertura, sedimentação.
+2. **Concepção** - seleção de técnicas por tipo de feição.
+3. **Dimensionamento** - hidrológico, geotécnico, agronômico.
+4. **Lista de mat./espécies** - nativas, quantitativos, calendário.
+5. **Instalação** - início em transição seca-chuvosa.
+6. **Monitoramento (2-3 anos)** - indicadores de pegamento, perda de solo, cobertura, sedimentação.
 :::
 
 ::: {.column width="45%"}
@@ -224,4 +224,4 @@ Sistema combinado:
 
 - GRAY, D. H.; SOTIR, R. B. **Biotechnical and soil bioengineering slope stabilization**. New York: Wiley, 1996.
 - SCHIECHTL, H. M.; STERN, R. **Water bioengineering techniques for watercourse bank and shoreline protection**. Oxford: Blackwell, 1996.
-- DURLO, M. A.; SUTILI, F. J. **Bioengenharia**: manejo biotécnico de cursos de água. Porto Alegre: Pallotti, 2005.
+- DURLO, M. A.; SUTILI, F. J. **Bioengenharia**: manejo biotécnico de cursos de água. 3. ed. Santa Maria: Edição do Autor, 2014. 192 p.

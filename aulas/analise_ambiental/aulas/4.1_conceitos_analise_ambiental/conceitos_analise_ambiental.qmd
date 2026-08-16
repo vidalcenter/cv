@@ -58,7 +58,7 @@ Operacionalizar o vocabulário conceitual da análise ambiental (impacto, degrad
 ### Impacto ambiental
 
 - **Conceito** (Sánchez, 2013): alteração da qualidade ambiental resultante de uma ação humana, comparada a uma situação **sem** essa ação.
-- **Marco legal**: Res. CONAMA 01/1986, Art. 1º — "qualquer alteração das propriedades físicas, químicas e biológicas... que afete... a saúde, a segurança e o bem-estar... atividades sociais e econômicas... a biota... condições estéticas e sanitárias... qualidade dos recursos".
+- **Marco legal**: Res. CONAMA 01/1986, Art. 1º - "qualquer alteração das propriedades físicas, químicas e biológicas... que afete... a saúde, a segurança e o bem-estar... atividades sociais e econômicas... a biota... condições estéticas e sanitárias... qualidade dos recursos".
 
 ### Atributos do impacto
 
@@ -106,10 +106,10 @@ Processo de **redução cumulativa** das capacidades funcionais do sistema ambie
 - Conceito operacionalizado para o **planejamento territorial brasileiro**.
 - Combina atributos do meio físico (solo, relevo, clima, vegetação) em hierarquias de fragilidade.
 - Distingue duas formas:
-  - **Fragilidade potencial** — propriedades intrínsecas (geologia, declividade, solo, clima)
-  - **Fragilidade emergente** — fragilidade potencial **modificada pelo uso da terra**
+  - **Fragilidade potencial** - propriedades intrínsecas (geologia, declividade, solo, clima)
+  - **Fragilidade emergente** - fragilidade potencial **modificada pelo uso da terra**
 
-![](../../../img/bacia_com_agua.jpeg){fig-alt="Unidade de paisagem em bacia" width="100%"}
+![](../../../../img/bacia_com_agua.jpeg){fig-alt="Unidade de paisagem em bacia" width="100%"}
 :::
 
 ::: {.column width="50%"}
@@ -165,7 +165,7 @@ Capacidade do sistema de **absorver perturbações** mantendo sua estrutura e fu
 
 : {.striped .hover}
 
-> Sistemas pouco resilientes têm **limiares baixos** — pequenas perturbações induzem mudanças de estado (ex.: solo desestruturado → voçoroca).
+> Sistemas pouco resilientes têm **limiares baixos** - pequenas perturbações induzem mudanças de estado (ex.: solo desestruturado → voçoroca).
 :::
 :::
 :::
@@ -196,12 +196,12 @@ Capacidade do sistema de **absorver perturbações** mantendo sua estrutura e fu
 **Sustentabilidade**
 
 - Brundtland (1987): atender às necessidades do presente sem comprometer as gerações futuras.
-- **Três pilares**: ecológico, econômico, social — e, mais recentemente, **cultural** e **institucional**.
+- **Três pilares**: ecológico, econômico, social - e, mais recentemente, **cultural** e **institucional**.
 - **ODS (Agenda 2030)**: 17 objetivos territorializáveis (especialmente ODS 6, 13, 14, 15).
 
 ### Estudo Orientado nº 3
 
-Fichar SÁNCHEZ (2013, cap. 1) sintetizando: como cada conceito desta aula opera em uma AIA real escolhida no SIBE/IBAMA.
+Fichar SÁNCHEZ (2013), cap. 1 - *Conceitos e definições* - e aplicar ao **território de estudo**: distinguir **degradação** de **impacto ambiental**, identificar os **processos ambientais** em curso e avaliar o potencial de **resiliência** e **recuperação**.
 :::
 :::
 :::
@@ -210,5 +210,5 @@ Fichar SÁNCHEZ (2013, cap. 1) sintetizando: como cada conceito desta aula opera
 
 ## Bibliografia da aula {.smaller-text}
 
-- SÁNCHEZ, L. E. **Avaliação de impacto ambiental**: conceitos e métodos, cap. 1. 2. ed. São Paulo: Oficina de Textos, 2013.
+- SÁNCHEZ, L. E. Conceitos e definições. In: **Avaliação de impacto ambiental**: conceitos e métodos. 2. ed. São Paulo: Oficina de Textos, 2013. cap. 1.
 - TAUK-TORNISIELO, S. M. **Análise ambiental**: uma visão multidisciplinar. São Paulo: Unesp, 1996.

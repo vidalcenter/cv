@@ -86,7 +86,7 @@ Operacionalizar indicadores físicos, químicos e biológicos de qualidade do so
 
 : {.striped .hover}
 
-![](../../../img/permeametro_fig3.jpg){fig-alt="Infiltração de água no solo" width="100%"}
+![](../../../../img/permeametro_fig3.jpg){fig-alt="Infiltração de água no solo" width="100%"}
 :::
 :::
 :::
@@ -112,9 +112,9 @@ Operacionalizar indicadores físicos, químicos e biológicos de qualidade do so
 
 ### Biológicos
 
-- **Carbono microbiano (Cmic)** — biomassa ativa.
-- **Respiração basal** — atividade metabólica.
-- **qCO₂** — eficiência do uso de C.
+- **Carbono microbiano (Cmic)** - biomassa ativa.
+- **Respiração basal** - atividade metabólica.
+- **qCO₂** - eficiência do uso de C.
 - **Fauna do solo** (minhocas, colembolas).
 - **Atividade enzimática** (fosfatase, urease).
 :::

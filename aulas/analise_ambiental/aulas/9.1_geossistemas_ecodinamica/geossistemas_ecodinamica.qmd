@@ -198,7 +198,7 @@ Fragilidade potencial **modificada pelo uso da terra**:
 - Floresta densa, agroflorestas → reduz fragilidade
 - Pastagem degradada, solo exposto, agricultura anual em alta declividade → amplifica fragilidade
 
-![](../../../img/salvaguarda_mapa_quilombos.png){fig-alt="Mapas temáticos de ocupação" width="100%"}
+![](../../../../img/salvaguarda_mapa_quilombos.png){fig-alt="Mapas temáticos de ocupação" width="100%"}
 :::
 
 ::: {.column width="50%"}

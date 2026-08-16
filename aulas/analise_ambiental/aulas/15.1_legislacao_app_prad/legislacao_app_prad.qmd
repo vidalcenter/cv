@@ -55,7 +55,7 @@ Apresentar o marco legal aplicável à recuperação ambiental e à gestão terr
 
 ::: {.columns}
 ::: {.column width="50%"}
-### Lei 6.938/1981 — Política Nacional do Meio Ambiente
+### Lei 6.938/1981 - Política Nacional do Meio Ambiente
 
 - Institui o **SISNAMA** (Sistema Nacional do Meio Ambiente).
 - CONAMA como órgão consultivo e normativo.
@@ -81,9 +81,9 @@ Três fases sequenciais (Res. CONAMA 237/1997):
 
 | Licença | Objeto | Validade |
 |---------|--------|----------|
-| **LP** — Licença Prévia | Concepção, viabilidade ambiental | Até 5 anos |
-| **LI** — Licença de Instalação | Implantação conforme PBA | Até 6 anos |
-| **LO** — Licença de Operação | Funcionamento + condicionantes | 4 a 10 anos |
+| **LP** - Licença Prévia | Concepção, viabilidade ambiental | Até 5 anos |
+| **LI** - Licença de Instalação | Implantação conforme PBA | Até 6 anos |
+| **LO** - Licença de Operação | Funcionamento + condicionantes | 4 a 10 anos |
 
 : {.striped .hover}
 
@@ -138,14 +138,14 @@ Três fases sequenciais (Res. CONAMA 237/1997):
 
 ::: {.columns}
 ::: {.column width="50%"}
-### CAR — Cadastro Ambiental Rural
+### CAR - Cadastro Ambiental Rural
 
 - Dec. 7.830/2012 + Inst. SFB.
 - Georreferencia: perímetro do imóvel, APP, RL, uso consolidado.
 - Base pública: [SICAR](https://www.car.gov.br/).
 - **Insumo fundamental** para qualquer análise ambiental rural brasileira.
 
-### PRA — Programa de Regularização Ambiental
+### PRA - Programa de Regularização Ambiental
 
 - Aderido p/ proprietários com déficit de APP e/ou RL em uso consolidado.
 - Compromete o(a) proprietário(a) a **PRADA** (Projeto de Recomposição de Área Degradada e Alterada).
@@ -155,7 +155,7 @@ Três fases sequenciais (Res. CONAMA 237/1997):
 
 ::: {.column width="50%"}
 ::: {.highlight-box}
-**PRAD — Plano de Recuperação de Área Degradada**
+**PRAD - Plano de Recuperação de Área Degradada**
 
 Estrutura mínima (IN MMA 04/2011):
 
@@ -166,7 +166,7 @@ Estrutura mínima (IN MMA 04/2011):
 
 > O PRAD converge AIA, bacia, morfopedologia, indicadores e bioengenharia em um único instrumento de gestão.
 
-![](../../../img/Revegetacao.JPEG){fig-alt="PRAD implementação" width="70%"}
+![](../../../../img/Revegetacao.JPEG){fig-alt="PRAD implementação" width="70%"}
 :::
 :::
 :::
@@ -181,12 +181,12 @@ Estrutura mínima (IN MMA 04/2011):
 
 | Instrumento | Marco |
 |-------------|-------|
-| **ZEE** — Zoneamento Ecológico-Econômico | Dec. 4.297/2002 |
-| **SNUC** — Unidades de Conservação | Lei 9.985/2000 |
-| **PNRH** — Recursos Hídricos | Lei 9.433/1997 |
-| **PNRS** — Resíduos Sólidos | Lei 12.305/2010 |
-| **PNMC** — Mudanças Climáticas | Lei 12.187/2009 |
-| **PNPCT** — Povos e Comunidades Tradicionais | Dec. 6.040/2007 |
+| **ZEE** - Zoneamento Ecológico-Econômico | Dec. 4.297/2002 |
+| **SNUC** - Unidades de Conservação | Lei 9.985/2000 |
+| **PNRH** - Recursos Hídricos | Lei 9.433/1997 |
+| **PNRS** - Resíduos Sólidos | Lei 12.305/2010 |
+| **PNMC** - Mudanças Climáticas | Lei 12.187/2009 |
+| **PNPCT** - Povos e Comunidades Tradicionais | Dec. 6.040/2007 |
 
 : {.striped .hover}
 :::
@@ -197,9 +197,9 @@ Estrutura mínima (IN MMA 04/2011):
 
 Tríplice responsabilidade pelo dano ambiental:
 
-- **Administrativa** — multas, embargos, suspensão.
-- **Civil** — obrigação de reparar (objetiva, integral, solidária).
-- **Penal** — crimes ambientais.
+- **Administrativa** - multas, embargos, suspensão.
+- **Civil** - obrigação de reparar (objetiva, integral, solidária).
+- **Penal** - crimes ambientais.
 
 A Análise Ambiental fornece **prova técnica** em processos administrativos, civis e penais.
 :::
@@ -212,5 +212,7 @@ A Análise Ambiental fornece **prova técnica** em processos administrativos, ci
 
 - BRASIL. **Lei nº 6.938, de 31 de agosto de 1981**. Política Nacional do Meio Ambiente.
 - BRASIL. **Lei nº 12.651, de 25 de maio de 2012**. Código Florestal Brasileiro.
+- BRASIL. **Resolução CONAMA nº 429, de 28 de fevereiro de 2011**. Metodologia de recuperação das Áreas de Preservação Permanente.
+- IBAMA. **Instrução Normativa nº 4, de 13 de abril de 2011**. Procedimentos para elaboração de Projeto de Recuperação de Área Degradada (PRAD).
 - BRASIL/MMA. **Procedimentos de licenciamento ambiental do Brasil**. Brasília: MMA, 2016.
 - SÁNCHEZ, L. E. **Avaliação de impacto ambiental**: conceitos e métodos. 2. ed. São Paulo: Oficina de Textos, 2013.

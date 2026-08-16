@@ -70,7 +70,7 @@ Examinar as abordagens ambientais no campo do pensamento geográfico moderno e d
 
 ::: {.column width="50%"}
 ::: {.highlight-box}
-**Geografia Física no Brasil — três tradições**
+**Geografia Física no Brasil - três tradições**
 
 1. **Climatologia geográfica** (Monteiro): clima como fator de organização do espaço.
 2. **Geomorfologia integradora** (Ab'Sáber, Ross, Casseti): relevo articulado a solos, vegetação e ação antrópica.
@@ -97,9 +97,9 @@ Examinar as abordagens ambientais no campo do pensamento geográfico moderno e d
 
 ### S↔A: leitura integrada
 
-Mendonça (2001) propõe ler "sociedade-natureza" (S-N) como **par indissociável** — não como soma de "sociedade + natureza".
+Mendonça (2001) propõe ler "sociedade-natureza" (S-N) como **par indissociável** - não como soma de "sociedade + natureza".
 
-![](../../../img/salvaguarda_fluxo.png){fig-alt="Esquema fluxo metodologia integrada" width="100%"}
+![](../../../../img/salvaguarda_fluxo.png){fig-alt="Esquema fluxo metodologia integrada" width="100%"}
 :::
 
 ::: {.column width="50%"}
@@ -177,12 +177,12 @@ As três categorias convergem em **unidades operacionais** de planejamento (Aula
 ::: {.info-box}
 **Estudo Orientado nº 2**
 
-Fichar BERTRAND (2004), aplicando ao território de estudo:
+Fichar MENDONÇA (2001), **Geografia socioambiental**, aplicando ao território de estudo:
 
-1. Identificar **componentes** do potencial ecológico.
-2. Caracterizar a **exploração biológica** (cobertura/uso).
-3. Apontar **ações antrópicas** dominantes.
-4. Indicar tensões e potenciais conflitos socioambientais.
+1. **Caracterização integrada**: como o físico-biótico e o socioespacial se articulam ali.
+2. **Identificação de conflitos**: quem produz e quem sofre os impactos.
+3. **Diagnóstico territorial**: que unidades emergem dessa articulação.
+4. **Proposição**: diretrizes que integrem justiça ambiental e funcionalidade ecológica.
 :::
 :::
 :::
@@ -191,5 +191,6 @@ Fichar BERTRAND (2004), aplicando ao território de estudo:
 
 ## Bibliografia da aula {.smaller-text}
 
-- MENDONÇA, F. Geografia socioambiental. **Terra Livre**, n. 16, p. 113-132, 2001.
+- LEFF, E. Interdisciplinaridade, ambiente e desenvolvimento sustentável. In: **Epistemologia ambiental**. São Paulo: Cortez, 2001. cap. 2.
+- MENDONÇA, F. Geografia socioambiental. **Terra Livre**, v. 1, n. 16, p. 113-132, 2001. DOI: [10.62516/terra_livre.2001.352](https://doi.org/10.62516/terra_livre.2001.352).
 - BERTRAND, G. Paisagem e geografia física global: esboço metodológico. **RA'E GA**, v. 8, p. 141-152, 2004. DOI: [10.5380/raega.v8i0.3389](https://doi.org/10.5380/raega.v8i0.3389).

@@ -38,6 +38,7 @@ execute:
 - [5]{.circle} Teoria dos sistemas e geossistema
 - [6]{.circle} Ecodinâmica: estabilidade e instabilidade
 - [7]{.circle} Fragilidade potencial e emergente
+- [8]{.circle} Entrega do Estudo Orientado nº 5
 :::
 
 ::: {.column width="50%"}
@@ -111,13 +112,13 @@ A supressão da cobertura **rompe** essa sequência funcional e desencadeia eros
 ::: {.info-box}
 **Erosividade e erodibilidade**
 
-- **Erosividade da chuva (R)** — capacidade da chuva de causar erosão (MJ·mm·ha⁻¹·h⁻¹·ano⁻¹).
-- **Erodibilidade do solo (K)** — susceptibilidade intrínseca do solo (Mg·h·MJ⁻¹·mm⁻¹).
+- **Erosividade da chuva (R)** - capacidade da chuva de causar erosão (MJ·mm·ha⁻¹·h⁻¹·ano⁻¹).
+- **Erodibilidade do solo (K)** - susceptibilidade intrínseca do solo (Mg·h·MJ⁻¹·mm⁻¹).
 - **MUSLE / RUSLE**: $A = R \cdot K \cdot LS \cdot C \cdot P$.
 
 > A combinação **R × K × LS** define a **fragilidade potencial**; **C × P** introduzem a ação antrópica e produzem a **fragilidade emergente** (Aula 9).
 
-![](../../../img/Cordao contorno 2.JPEG){fig-alt="Conservação do solo" width="100%"}
+![](../../../../img/Cordao contorno 2.JPEG){fig-alt="Conservação do solo" width="100%"}
 :::
 :::
 :::
@@ -140,7 +141,7 @@ A supressão da cobertura **rompe** essa sequência funcional e desencadeia eros
 
 : {.striped .hover}
 
-![](../../figuras/gully_erosion_nigeria.jpg){fig-alt="Voçorocamento profundo — Nigéria" width="100%"}
+![](../../figuras/gully_erosion_nigeria.jpg){fig-alt="Voçorocamento profundo - Nigéria" width="100%"}
 :::
 
 ::: {.column width="50%"}
@@ -155,12 +156,48 @@ A supressão da cobertura **rompe** essa sequência funcional e desencadeia eros
 
 : {.striped .hover}
 
-> A fragilidade da vertente resulta da interação entre morfometria, material de origem, regime hídrico e cobertura — eixos da morfopedologia e da ecodinâmica de Tricart.
+> A fragilidade da vertente resulta da interação entre morfometria, material de origem, regime hídrico e cobertura - eixos da morfopedologia e da ecodinâmica de Tricart.
+:::
+:::
+
+---
+
+## Assoreamento e fragilidade {.smaller-text}
+
+::: {.columns}
+::: {.column width="50%"}
+### Do processo erosivo ao canal
+
+- Sedimentos mobilizados nas vertentes são transportados para **canais, reservatórios e planícies**.
+- A deposição reduz a seção hidráulica, a capacidade de armazenamento e pode ampliar o risco de cheia.
+- O diagnóstico deve conectar a **área-fonte** (vertente) ao **local de deposição** (canal ou fundo de vale).
+
+### O que observar em campo
+
+1. Barras arenosas e alargamento do canal.
+2. Soterramento de margens e de vegetação ciliar.
+3. Ravinas, voçorocas ou solo exposto a montante.
+4. Mudanças na turbidez após eventos de chuva.
+:::
+
+::: {.column width="50%"}
+::: {.info-box}
+**Leitura integrada da fragilidade**
+
+A carta de fragilidade ambiental combina:
+
+- **Declividade** e forma da vertente;
+- **Tipo de solo** e erodibilidade (K);
+- **Chuva** e erosividade (R);
+- **Cobertura e manejo** (C × P);
+- **Conectividade** com a drenagem.
+
+> Quanto maior a conexão entre uma vertente frágil e o canal, maior a prioridade de intervenção preventiva.
 :::
 :::
 :::
 
-# [3  —  GEOSSISTEMAS E TEORIA DOS SISTEMAS]{.section-header}
+# [3  -  GEOSSISTEMAS E TEORIA DOS SISTEMAS]{.section-header}
 
 ## Da TGS ao geossistema {.smaller-text}
 
@@ -200,12 +237,12 @@ Unidade espaço-temporal que integra três componentes indissociáveis:
 
 : {.striped .hover}
 
-O **geossistema** é a escala operacional por excelência para o diagnóstico ambiental integrado — compatível com a bacia hidrográfica como unidade de análise (Aula 7).
+O **geossistema** é a escala operacional por excelência para o diagnóstico ambiental integrado - compatível com a bacia hidrográfica como unidade de análise (Aula 7).
 :::
 :::
 :::
 
-# [4  —  ECODNÂMICA E FRAGILIDADE]{.section-header}
+# [4  -  ECODNÂMICA E FRAGILIDADE]{.section-header}
 
 ## Ecodinâmica de Tricart (1977) {.smaller-text}
 
@@ -238,12 +275,12 @@ Classificar a área de estudo segundo Tricart permite hierarquizar setores quant
 | **R (erosividade)** | ✓ | ✓ |
 | **K (erodibilidade)** | ✓ | ✓ |
 | **LS (declividade)** | ✓ | ✓ |
-| **C (cobertura)** | — | ✓ |
-| **P (práticas)** | — | ✓ |
+| **C (cobertura)** | - | ✓ |
+| **P (práticas)** | - | ✓ |
 
 : {.striped .hover}
 
-> A **fragilidade potencial** é herdada do meio físico. A **fragilidade emergente** incorpora o efeito antrópico. A distância entre elas mede o **grau de intervenção humana** na paisagem — conceito central para planejamento e recuperação ambiental.
+> A **fragilidade potencial** é herdada do meio físico. A **fragilidade emergente** incorpora o efeito antrópico. A distância entre elas mede o **grau de intervenção humana** na paisagem - conceito central para planejamento e recuperação ambiental.
 :::
 :::
 :::
@@ -267,60 +304,31 @@ A articulação dos três eixos segue uma sequência em cascata:
 
 A leitura morfopedológica fornece a **base física**; o geossistema oferece o **enquadramento escalar e integrador**; a ecodinâmica entrega o **prognóstico de estabilidade**. Juntos, esses três eixos constituem o núcleo metodológico da análise ambiental aplicada a bacias hidrográficas e áreas degradadas.
 :::
-:::
-:::
 
-## Referências da Aula {.smaller-text}
+::: {.info-box}
+**Estudo Orientado nº 5**
 
-::: {.columns}
-::: {.column width="50%"}
-- BERTRAND, G. Paisagem e geografia física global: esboço metodológico. **RA'E GA**, v. 8, 2004. DOI: [10.5380/raega.v8i0.3389](https://doi.org/10.5380/raega.v8i0.3389).
-- ROSS, J. L. S. Análise empírica da fragilidade dos ambientes naturais e antropizados. **Revista do Departamento de Geografia**, v. 8, 1994. DOI: [10.7154/RDG.1994.0008.0006](https://doi.org/10.7154/RDG.1994.0008.0006).
-- TRICART, J. **Ecodinâmica**. Rio de Janeiro: IBGE-SUPREN, 1977.
-:::
+Fichar BERTRAND (2004), **Paisagem e geografia física global**, aplicando ao território de estudo:
 
-::: {.column width="50%"}
-- CUNHA, S. B.; GUERRA, A. J. T. (org.). **Geomorfologia**: exercícios, técnicas e aplicações. Rio de Janeiro: Bertrand Brasil, 1996.
-- CASSETI, V. **Elementos de Geomorfologia**. Goiânia: Editora UFG, 2005.
-- SALOMÃO, F. X. T. Controle e prevenção dos processos erosivos. In: GUERRA, A. J. T.; SILVA, A. S.; BOTELHO, R. G. M. (org.). **Erosão e conservação dos solos**. Rio de Janeiro: Bertrand Brasil, 1999.
-:::
-:::
-
-### Movimentos de massa
-
-| Tipo | Característica |
-|------|----------------|
-| Rastejo | Lento, contínuo, sem superfície definida |
-| Escorregamento | Plano de ruptura definido, evento rápido |
-| Queda de blocos | Vertentes íngremes, desabamento livre |
-| Corrida (debris flow) | Massa fluida com alta capacidade de transporte |
-:::
-
-::: {.column width="50%"}
-::: {.highlight-box}
-**Assoreamento e fragilidade**
-
-- Sedimentos erodidos são transportados e depositados em **canais, reservatórios e planícies**.
-- Reduz volume útil, eleva risco de cheia, degrada qualidade da água.
-- Indicadores de campo: barras arenosas em canal, soterramento de margens, mortandade de mata ciliária.
-
-### Síntese morfopedológica
-
-A caracterização morfopedológica produz a **carta de fragilidade ambiental** (Aula 9) ao cruzar:
-
-- Declividade
-- Tipo de solo (K)
-- Cobertura/uso da terra (C × P)
-- Pluviosidade (R)
-- Densidade de drenagem
+1. Identificar os componentes do **potencial ecológico** (clima, geomorfologia, hidrologia).
+2. Caracterizar a **exploração biológica** (solos, cobertura vegetal, fauna).
+3. Apontar as **ações antrópicas** dominantes (uso da terra, infraestrutura).
+4. Enquadrar a área na **hierarquia de Bertrand** e classificá-la segundo a ecodinâmica de Tricart.
 :::
 :::
 :::
+
 
 # [Referências]{.section-header}
 
 ## Bibliografia da aula {.smaller-text}
 
-- GUERRA, A. J. T. Geomorfologia e planejamento ambiental: conceitos e aplicações. **Revista Brasileira de Geomorfologia**, 2018.
-- CASSETI, V. **Geomorfologia**. Goiânia: UFG, 2007.
+- BERTALANFFY, L. von. **Teoria geral dos sistemas**: fundamentos, desenvolvimento e aplicações. 5. ed. Petrópolis: Vozes, 2010.
+- BERTRAND, G. Paisagem e geografia física global: esboço metodológico. **RA'E GA**, v. 8, p. 141-152, 2004. DOI: [10.5380/raega.v8i0.3389](https://doi.org/10.5380/raega.v8i0.3389).
+- TRICART, J. **Ecodinâmica**. Rio de Janeiro: IBGE-SUPREN, 1977. Catálogo: [Biblioteca IBGE](https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?id=466103&view=detalhes).
+- ROSS, J. L. S. Análise empírica da fragilidade dos ambientes naturais e antropizados. **Revista do Departamento de Geografia**, v. 8, 1994. DOI: [10.7154/RDG.1994.0008.0006](https://doi.org/10.7154/RDG.1994.0008.0006).
+- SALOMÃO, F. X. T. Controle e prevenção dos processos erosivos. In: GUERRA, A. J. T.; SILVA, A. S.; BOTELHO, R. G. M. (org.). **Erosão e conservação dos solos**. Rio de Janeiro: Bertrand Brasil, 1999.
+- CUNHA, S. B.; GUERRA, A. J. T. (org.). **Geomorfologia**: exercícios, técnicas e aplicações. Rio de Janeiro: Bertrand Brasil, 1996.
+- CASSETI, V. **Elementos de Geomorfologia**. Goiânia: Editora UFG, 2005. Acesso aberto: [PDF (UFPR)](https://docs.ufpr.br/~santos/Geomorfologia_Geologia/Geomorfologia_ValterCasseti.pdf).
+- GUERRA, A. J. T. Geomorfologia e planejamento ambiental: conceitos e aplicações. **Revista de Geografia**, Recife, v. 35, n. 4, p. 1-23, 2018. DOI: [10.51359/2238-6211.2018.238227](https://doi.org/10.51359/2238-6211.2018.238227).
 - ROSS, J. L. S. **Ecogeografia do Brasil**: subsídios para planejamento ambiental. São Paulo: Oficina de Textos, 2006.

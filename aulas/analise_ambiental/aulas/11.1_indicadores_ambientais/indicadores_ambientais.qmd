@@ -61,11 +61,11 @@ Selecionar e aplicar indicadores ambientais consistentes para o diagnóstico e o
 
 - Variável selecionada que **representa** um aspecto do sistema ambiental e permite comunicar tendência, condição ou efeito de gestão.
 - Bom indicador (OECD, 2003):
-  - **Relevância** — conecta-se a uma questão ambiental prioritária.
-  - **Validade científica** — lastreado em literatura.
-  - **Mensurabilidade** — dados existentes ou obteníveis.
-  - **Sensibilidade** — detecta mudanças.
-  - **Comunicabilidade** — interpretável por gestores e público.
+  - **Relevância** - conecta-se a uma questão ambiental prioritária.
+  - **Validade científica** - lastreado em literatura.
+  - **Mensurabilidade** - dados existentes ou obteníveis.
+  - **Sensibilidade** - detecta mudanças.
+  - **Comunicabilidade** - interpretável por gestores e público.
 
 ### Modelos conceituais
 
@@ -120,7 +120,7 @@ Selecionar e aplicar indicadores ambientais consistentes para o diagnóstico e o
 
 Use **conjuntos mínimos** de indicadores (5–10) que cubram **pressão**, **estado** e **resposta** de cada componente do sistema.
 
-![](../../../img/Montagem_análise_campo_Vetiver.png){fig-alt="Monitoramento em campo" width="100%"}
+![](../../../../img/Montagem_análise_campo_Vetiver.png){fig-alt="Monitoramento em campo" width="100%"}
 :::
 
 ::: {.column width="50%"}

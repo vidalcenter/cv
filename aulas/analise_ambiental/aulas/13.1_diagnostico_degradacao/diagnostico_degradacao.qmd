@@ -96,7 +96,7 @@ Até a fase de sulcos, a erosão ainda é **reversível com manejo agronômico**
 
 > Controle por **paliçadas permeáveis**, **drenos verdes** e **estabilização de cabeceiras** (Aula 14).
 
-![](../../../img/escavacao_canal.jpeg){fig-alt="Feições erosivas profundas" width="100%"}
+![](../../../../img/escavacao_canal.jpeg){fig-alt="Feições erosivas profundas" width="100%"}
 :::
 :::
 :::
@@ -216,6 +216,8 @@ O diagnóstico desta aula alimenta diretamente o **Plano de Recuperação de Ár
 
 ## Bibliografia da aula {.smaller-text}
 
+- GUERRA, A. J. T.; SILVA, A. S.; BOTELHO, R. G. M. (org.). **Erosão e conservação dos solos**: conceitos, temas e aplicações. Rio de Janeiro: Bertrand Brasil, 1999.
+- BERTONI, J.; LOMBARDI NETO, F. **Conservação do solo**. São Paulo: Ícone, 2012.
 - GUERRA, A. J. T.; CUNHA, S. B. (org.). **Geomorfologia e meio ambiente**. Rio de Janeiro: Bertrand Brasil, 1996.
 - ROSS, J. L. S. Análise empírica da fragilidade dos ambientes naturais e antropizados. **Revista do Departamento de Geografia**, v. 8, 1994. DOI: [10.7154/RDG.1994.0008.0006](https://doi.org/10.7154/RDG.1994.0008.0006).
 - CAVALCANTI, A. P. B. **Métodos e técnicas da análise ambiental**. Teresina: EDUFPI, 2006.
