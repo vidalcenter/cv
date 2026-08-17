@@ -207,12 +207,12 @@ Fragilidade potencial **modificada pelo uso da terra**:
 
 Procedimento sintético em SIG:
 
-1. Reclassificar declividade (1–5).
-2. Reclassificar tipo de solo (1–5).
-3. Reclassificar pluviosidade (1–5).
+1. Reclassificar declividade (1-5).
+2. Reclassificar tipo de solo (1-5).
+3. Reclassificar pluviosidade (1-5).
 4. Overlay ponderado → **fragilidade potencial**.
 5. Cruzar com **C × P** do uso da terra → **fragilidade emergente**.
-6. Mapa final 1–5 + estatísticas por UP.
+6. Mapa final 1-5 + estatísticas por UP.
 
 > A carta de fragilidade subsidia o ZEE, o licenciamento e os planos de bacia (Aula 15).
 :::

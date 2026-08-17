@@ -101,7 +101,7 @@ Operacionalizar indicadores físicos, químicos e biológicos de qualidade do so
 
 | Atributo | Faixa de referência |
 |----------|---------------------|
-| pH água | 5,5–6,5 (ideal cult.) |
+| pH água | 5,5-6,5 (ideal cult.) |
 | MO | > 25 g/kg (boa) |
 | CTC efetiva | > 6 cmolᴄ/dm³ (média) |
 | V% (sat. bases) | > 50% |
@@ -165,10 +165,10 @@ Funcionalidade edáfica = capacidade do solo de **prover serviços ecossistêmic
 
 Abordagem do Conjunto Mínimo de Dados (CMD; Karlen *et al.*, 1997):
 
-1. Selecionar atributos-chave (10–15 variáveis).
+1. Selecionar atributos-chave (10-15 variáveis).
 2. PCA para reduzir redundância.
 3. Atribuir pesos por critério.
-4. Normalizar para 0–1 (funções de pertinência).
+4. Normalizar para 0-1 (funções de pertinência).
 5. Calcular **IQS = Σ (pesoᵢ × scoreᵢ)**.
 
 IQS comparativo permite ranquear sistemas de manejo, tratamentos experimentais ou áreas de diagnóstico.

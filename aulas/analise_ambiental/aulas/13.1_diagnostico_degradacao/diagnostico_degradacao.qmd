@@ -62,7 +62,7 @@ Identificar, classificar e diagnosticar feições e processos de degradação am
 | Forma | Mecanismo | Profundidade |
 |-------|-----------|:------------:|
 | Splash | Impacto da gota → desagregação e selamento | mm |
-| Laminar | Escoamento difuso remove camada superficial | mm–cm |
+| Laminar | Escoamento difuso remove camada superficial | mm-cm |
 | Sulcos | Concentração do escoamento em fluxo linear | cm |
 
 : {.striped .hover}

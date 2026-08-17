@@ -88,7 +88,7 @@ Compreender a constituição moderna da questão ambiental e a forma como a Geog
 | Marco | Contribuição |
 |-------|--------------|
 | 1987 — *Our Common Future* | Formulação do desenvolvimento sustentável |
-| 1992 — Rio-92 | Agenda 21, CDB e Convenção do Clima |
+| 1992 - Rio-92 | Agenda 21, CDB e Convenção do Clima |
 | 2015 — Acordo de Paris + ODS | Metas globais territorializadas |
 
 : {.striped .hover}
@@ -98,7 +98,7 @@ Compreender a constituição moderna da questão ambiental e a forma como a Geog
 ::: {.info-box}
 **Como ler esta trajetória?**
 
-Os acordos globais definem compromissos amplos. A análise ambiental pergunta como eles se traduzem — ou não — em usos da terra, políticas públicas e conflitos concretos.
+Os acordos globais definem compromissos amplos. A análise ambiental pergunta como eles se traduzem  ou não, em usos da terra, políticas públicas e conflitos concretos.
 :::
 :::
 :::
@@ -176,7 +176,7 @@ Quando grupos diferentes nomeiam um lugar como “recurso”, “morada”, “�
 ::: {.highlight-box}
 **Por que isso importa para a análise ambiental?**
 
-A modalidade de apropriação define **quem decide** sobre o recurso - e, portanto, **qual racionalidade** orienta seu uso, conservação ou degradação. O diagnóstico ambiental deve identificar o regime de apropriação vigente antes de propor intervenções.
+A modalidade de apropriação define **quem decide** sobre o recurso - e, portanto, **qual racionalidade** orienta seu uso, conservação ou degradação. O diagnóstico ambiental deve identificar o regime de apropriação vigente antes de propor intervenções (Henri Lefebvre: apropriação humana e a dominação do espaço abstrato).
 :::
 
 ::: {.info-box}
@@ -197,7 +197,7 @@ A modalidade de apropriação define **quem decide** sobre o recurso - e, portan
 - Acesso desigual à água, terra e infraestrutura ambiental
 - Externalização de custos sobre territórios periféricos
 
-![](../../../../img/plantacao_sisal.jpeg){fig-alt="Plantação de sisal como exemplo de apropriação produtiva e uso do solo" width="85%"}
+![](../../figuras/latifundio.jpg){fig-alt="Latifúndio como exemplo de apropriação produtiva e uso do solo" width="85%"}
 :::
 
 ::: {.column width="48%"}

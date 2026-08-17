@@ -118,7 +118,7 @@ Selecionar e aplicar indicadores ambientais consistentes para o diagnóstico e o
 
 ### Recomendação prática
 
-Use **conjuntos mínimos** de indicadores (5–10) que cubram **pressão**, **estado** e **resposta** de cada componente do sistema.
+Use **conjuntos mínimos** de indicadores (5-10) que cubram **pressão**, **estado** e **resposta** de cada componente do sistema.
 
 ![](../../../../img/Montagem_análise_campo_Vetiver.png){fig-alt="Monitoramento em campo" width="100%"}
 :::

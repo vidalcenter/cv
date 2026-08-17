@@ -103,8 +103,8 @@ Três fases sequenciais (Res. CONAMA 237/1997):
 | Feição | Largura |
 |--------|---------|
 | Cursos d'água < 10 m | 30 m |
-| Cursos d'água 10–200 m | 50–100 m |
-| Cursos d'água > 200 m | 200–500 m |
+| Cursos d'água 10-200 m | 50-100 m |
+| Cursos d'água > 200 m | 200-500 m |
 | Nascentes e veredas | Raio de 50 m |
 | Encostas > 45° e topos | Integral / terço superior |
 

@@ -117,7 +117,7 @@ Verificar a integração dos conteúdos das Aulas 1 a 9 por meio de questões di
 ::: {.info-box}
 **Sugestões de estudo**
 
-1. Releia os fichamentos dos Estudos Orientados 1–4.
+1. Releia os fichamentos dos Estudos Orientados 1-4.
 2. Reorganize as cartas conceituais das aulas em mapa mental único.
 3. Pratique a articulação em dois eixos:
    - **Concepção** (autor, conceito, contexto)
@@ -140,7 +140,7 @@ A partir de Mendonça (2001) e Bertrand (2004), discuta como a abordagem socioam
 ::: {.highlight-box}
 **Exemplo 2 - aplicação**
 
-Selecione uma sub-bacia hipotética com declividades de 20–45%, solos rasos e pastagem extensiva. Aplique o método de fragilidade ambiental (Ross, 1994) descrevendo: variantes potencial e emergente, classificação esperada e implicações para a recomendação de uso.
+Selecione uma sub-bacia hipotética com declividades de 20-45%, solos rasos e pastagem extensiva. Aplique o método de fragilidade ambiental (Ross, 1994) descrevendo: variantes potencial e emergente, classificação esperada e implicações para a recomendação de uso.
 :::
 
 ::: {.info-box}

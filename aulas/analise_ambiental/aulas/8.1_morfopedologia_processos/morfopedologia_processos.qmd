@@ -98,11 +98,11 @@ A supressão da cobertura **rompe** essa sequência funcional e desencadeia eros
 
 | Classe | Declividade | Aptidão |
 |--------|:-----------:|---------|
-| Plano | 0–3% | Mecanização plena |
-| Suave ondulado | 3–8% | Mecanização com restrições |
-| Ondulado | 8–20% | Cultivo com práticas conservacionistas |
-| Forte ondulado | 20–45% | Pastagem, silvicultura, frutíferas |
-| Montanhoso | 45–75% | Proteção, reflorestamento |
+| Plano | 0-3% | Mecanização plena |
+| Suave ondulado | 3-8% | Mecanização com restrições |
+| Ondulado | 8-20% | Cultivo com práticas conservacionistas |
+| Forte ondulado | 20-45% | Pastagem, silvicultura, frutíferas |
+| Montanhoso | 45-75% | Proteção, reflorestamento |
 | Escarpado | > 75% | Proteção integral |
 
 : {.striped .hover}
@@ -134,9 +134,9 @@ A supressão da cobertura **rompe** essa sequência funcional e desencadeia eros
 | Feição | Profundidade | Indicador de evolução |
 |--------|:------------:|----------------------|
 | **Splash** (gotej.) | mm | Selamento, perda superficial |
-| **Laminar** | mm–cm | Truncamento de horizontes A |
+| **Laminar** | mm-cm | Truncamento de horizontes A |
 | **Sulcos** | cm | Concentração do escoamento |
-| **Ravinas** | 0,1–1 m | Incisão avançada, recuperação ainda viável |
+| **Ravinas** | 0,1-1 m | Incisão avançada, recuperação ainda viável |
 | **Voçorocas** | > 1 m | Atinge lençol freático, processo regressivo |
 
 : {.striped .hover}
@@ -229,10 +229,10 @@ Unidade espaço-temporal que integra três componentes indissociáveis:
 | Nível | Escala espacial | Exemplo |
 |-------|:---------------:|---------|
 | Zona | > 10⁶ km² | Zona tropical |
-| Domínio | 10⁴–10⁶ km² | Caatinga, Cerrado |
-| Região natural | 10²–10⁴ km² | Chapada Diamantina |
-| **Geossistema** | **1–10² km²** | **Bacia do rio Jacuípe** |
-| Geofácies | 10⁻¹–1 km² | Vertente, fundo de vale |
+| Domínio | 10⁴-10⁶ km² | Caatinga, Cerrado |
+| Região natural | 10²-10⁴ km² | Chapada Diamantina |
+| **Geossistema** | **1-10² km²** | **Bacia do rio Jacuípe** |
+| Geofácies | 10⁻¹-1 km² | Vertente, fundo de vale |
 | Geótopo | < 10⁻¹ km² | Voçoroca, nascente |
 
 : {.striped .hover}
@@ -285,7 +285,7 @@ Classificar a área de estudo segundo Tricart permite hierarquizar setores quant
 :::
 :::
 
-## Integração morfopedologia–geossistema–ecodinâmica {.smaller-text}
+## Integração morfopedologia-geossistema-ecodinâmica {.smaller-text}
 
 ::: {.columns}
 ::: {.column width="50%"}
@@ -295,7 +295,7 @@ A articulação dos três eixos segue uma sequência em cascata:
 
 - A **morfopedologia** entrega a unidade-cenário (vertente) e os processos atuantes (erosão, movimentos de massa).
 - O **geossistema** insere essa unidade na hierarquia escalar (Bertrand) e integra potencial ecológico, exploração biológica e ação antrópica.
-- A **ecodinâmica** (Tricart) classifica o balanço pedogênese–morfogênese e orienta a decisão: prevenir, mitigar ou recuperar.
+- A **ecodinâmica** (Tricart) classifica o balanço pedogênese-morfogênese e orienta a decisão: prevenir, mitigar ou recuperar.
 :::
 
 ::: {.column width="50%"}

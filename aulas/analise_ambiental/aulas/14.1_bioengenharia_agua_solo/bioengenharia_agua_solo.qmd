@@ -90,7 +90,7 @@ Bioengenharia de solos e água é o conjunto de técnicas que utilizam **plantas
 - Tempo de maturação.
 - Sensibilidade ao manejo pós-instalação.
 - Seleção adequada de espécies (nativas locais).
-- Requer monitoramento (2–3 ciclos hidrológicos).
+- Requer monitoramento (2-3 ciclos hidrológicos).
 :::
 :::
 :::

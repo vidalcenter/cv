@@ -62,8 +62,8 @@ Examinar as abordagens ambientais no campo do pensamento geográfico moderno e d
 | Possibilismo (Vidal de la Blache) | Início XX | Sociedade escolhe entre as possibilidades do meio |
 | Geografia Quantitativa | Anos 1950-60 | Modelos, análise espacial, *New Geography* |
 | Geografia Crítica | Anos 1970-80 | Espaço como produção social (Lefebvre, Santos) |
-| **Geografia Socioambiental** | Anos 1990– | Sociedade-natureza como totalidade |
-| Geografia da Complexidade | 2000– | Sistemas, redes, multiescalaridade |
+| **Geografia Socioambiental** | Anos 1990- | Sociedade-natureza como totalidade |
+| Geografia da Complexidade | 2000- | Sistemas, redes, multiescalaridade |
 
 : {.striped .hover}
 :::

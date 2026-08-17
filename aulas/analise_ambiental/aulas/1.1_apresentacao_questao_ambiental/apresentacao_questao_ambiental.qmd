@@ -92,9 +92,9 @@ A análise ambiental fundamenta AIA, planos de bacia, ZEE, PRAD e licenciamento.
 
 | Bloco | Aulas | Foco |
 |:-----:|:-----:|------|
-| **I - Fundamentos** | 1–5 | Sociedade-natureza, conceitos, AIA |
-| **II - Análise integrada** | 6–10 | Bacias, morfopedologia, geossistemas + 1ª Avaliação |
-| **III - Indicadores e intervenção** | 11–16 | Qualidade do solo, degradação, bioengenharia, legislação |
+| **I - Fundamentos** | 1-5 | Sociedade-natureza, conceitos, AIA |
+| **II - Análise integrada** | 6-10 | Bacias, morfopedologia, geossistemas + 1ª Avaliação |
+| **III - Indicadores e intervenção** | 11-16 | Qualidade do solo, degradação, bioengenharia, legislação |
 
 : {.striped .hover}
 :::
@@ -218,7 +218,7 @@ A hidrologia é uma **expressão integrada da paisagem**: solo, relevo, vegetaç
 
 ::: {.column width="50%"}
 ::: {.highlight-box}
-**Pergunta-guia para ler a imagem**
+**Pergunta-guia**
 
 Que mudança de cobertura ou de manejo ajuda a explicar a alteração observada no solo, na drenagem ou na vegetação?
 :::
@@ -240,7 +240,7 @@ Que mudança de cobertura ou de manejo ajuda a explicar a alteração observada 
 
 ::: {.columns}
 ::: {.column width="52%"}
-![](../../../../img/vista_aerea_bacias.jpeg){fig-alt="Vista aérea de bacias com mudanças de uso da terra e feições erosivas" width="100%"}
+![](../../figuras/solo_degradado.jpg){fig-alt="Vista aérea de bacias com mudanças de uso da terra e feições erosivas" width="100%"}
 
 > Observe a distribuição de solo exposto, vegetação, canais de drenagem e áreas de uso produtivo.
 :::
@@ -248,15 +248,13 @@ Que mudança de cobertura ou de manejo ajuda a explicar a alteração observada 
 ::: {.column width="48%"}
 ### O que a mudança pode produzir
 
-- Fragmentação de habitat (Aula 9)
-- Perda de conectividade hidrossedimentológica (Aula 7)
-- Redução do estoque de carbono no solo (Aula 12)
-- Aumento das feições erosivas (Aula 13)
+- Fragmentação de habitat - Perda de conectividade hidrossedimentológica - Redução do estoque de carbono no solo
+- Aumento das feições erosivas
 
 ::: {.highlight-box}
 **Do uso ao processo**
 
-Uma mudança de cobertura não é, por si só, o impacto. Ela altera fluxos de água, solo, matéria e organismos — que precisam ser demonstrados no diagnóstico.
+Uma mudança de cobertura não é, por si só, o impacto. Ela altera fluxos de água, solo, matéria e organismos, que precisam ser demonstrados no diagnóstico.
 :::
 :::
 :::
@@ -332,10 +330,10 @@ A Geografia oferece um **olhar integrador** para a questão ambiental porque ope
 
 ::: {.columns}
 ::: {.column width="55%"}
-- **Ambiente** - totalidade física, biótica e socioespacial em interação (Aula 4)
-- **Paisagem** - expressão integrada e visível dessas relações (Aulas 3 e 9)
-- **Território** - ambiente apropriado, normatizado e gerido (Aula 3)
-- **Bacia hidrográfica** - unidade analítica privilegiada (Aula 7)
+- **Ambiente** - totalidade física, biótica e socioespacial em interação
+- **Paisagem** - expressão integrada e visível dessas relações
+- **Território** - ambiente apropriado, normatizado e gerido
+- **Bacia hidrográfica** - unidade analítica privilegiada
 :::
 
 ::: {.column width="45%"}

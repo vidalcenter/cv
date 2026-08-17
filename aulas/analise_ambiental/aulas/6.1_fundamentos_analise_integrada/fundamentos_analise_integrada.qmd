@@ -125,10 +125,10 @@ Articular elementos físico-bióticos e antrópicos em diferentes escalas como b
 
 | Tempo | Processo |
 |-------|----------|
-| Inst. – horas | Eventos extremos, precipitação, escoamento |
-| Dias – meses | Sazonalidade, cultivos, fenologia |
-| Anos – décadas | Mudanças no uso, sucessão, erosão |
-| Séculos – milênios | Pedogênese, geomorfogênese |
+| Inst. - horas | Eventos extremos, precipitação, escoamento |
+| Dias - meses | Sazonalidade, cultivos, fenologia |
+| Anos - décadas | Mudanças no uso, sucessão, erosão |
+| Séculos - milênios | Pedogênese, geomorfogênese |
 
 : {.striped .hover}
 

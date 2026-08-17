@@ -147,7 +147,7 @@ MDE → Preenchimento → Direção/acúmulo de fluxo → Extração de canais �
 ::: {.highlight-box}
 **Áreas ripárias**
 
-- Interface terra-água: **APP** legal (30–500 m).
+- Interface terra-água: **APP** legal (30-500 m).
 - Funções:
   - Filtragem de sedimentos e nutrientes
   - Estabilização de margens
@@ -189,7 +189,7 @@ MDE → Preenchimento → Direção/acúmulo de fluxo → Extração de canais �
 | ANA/SNIRH | Séries fluviométricas e pluviométricas |
 | INMET | Estações meteorológicas |
 | EMBRAPA Hidrogeo | Dados hidrogeológicos |
-| INPE / TOPODATA | MDE SRTM – 30 m |
+| INPE / TOPODATA | MDE SRTM - 30 m |
 | ALOS PALSAR | DEM 12,5 m (NASA Earthdata) |
 | MapBiomas | Uso/cobertura anual |
 | SICAR | CAR - APP/RL declaradas |
