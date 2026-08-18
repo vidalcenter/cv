@@ -117,7 +117,7 @@ Verificar a integração dos conteúdos das Aulas 1 a 9 por meio de questões di
 ::: {.info-box}
 **Sugestões de estudo**
 
-1. Releia os fichamentos dos Estudos Orientados 1-4.
+1. Releia os fichamentos dos Estudos Orientados 1-5.
 2. Reorganize as cartas conceituais das aulas em mapa mental único.
 3. Pratique a articulação em dois eixos:
    - **Concepção** (autor, conceito, contexto)
