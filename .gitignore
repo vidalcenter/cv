@@ -7,6 +7,9 @@
 scripts/google_forms/credentials.json
 scripts/google_forms/token.json
 scripts/google_forms/formularios_criados.json
+teaching/scripts/google_forms/credentials.json
+teaching/scripts/google_forms/token.json
+teaching/scripts/google_forms/formularios_criados.json
 
 # Vídeos e HEIC (pesados demais para GitHub)
 *.MOV
