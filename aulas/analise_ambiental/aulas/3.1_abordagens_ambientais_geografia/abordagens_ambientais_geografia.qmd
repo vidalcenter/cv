@@ -95,9 +95,9 @@ Examinar as abordagens ambientais no campo do pensamento geográfico moderno e d
 - Foco em **problemas ambientais concretos** ancorados no território.
 - Engajamento com a **gestão e a política pública** ambiental.
 
-### S↔A: leitura integrada
+### S↔N: leitura integrada
 
-Mendonça (2001) propõe ler "sociedade-natureza" (S-N) como **par indissociável** - não como soma de "sociedade + natureza".
+Mendonça (2001) propõe ler a sociedade-natureza (S↔N) como **par indissociável**, em que cada componente só adquire sentido na relação com o outro.
 
 ![](../../../../img/salvaguarda_fluxo.png){fig-alt="Esquema fluxo metodologia integrada" width="100%"}
 :::
@@ -145,7 +145,8 @@ Mendonça (2001) propõe ler "sociedade-natureza" (S-N) como **par indissociáve
 2. Mapeio o **território** (propriedades, comunidades, normas, conflitos).
 3. Sintetizo o **ambiente** (interações físico-bióticas-sociais).
 
-As três categorias convergem em **unidades operacionais** de planejamento (Aulas 6, 9 e 15).
+As três categorias convergem em **unidades operacionais** de planejamento.
+
 :::
 :::
 :::
@@ -177,7 +178,7 @@ As três categorias convergem em **unidades operacionais** de planejamento (Aula
 ::: {.info-box}
 **Estudo Orientado nº 2**
 
-Fichar MENDONÇA (2001), **Geografia socioambiental**, aplicando ao território de estudo:
+Fichar MENDONÇA (2001), **Geografia socioambiental**, conforme o roteiro geral de fichamento (contexto e tese central, conceitos operacionais, aplicação, crítica e síntese). Na etapa de aplicação, executar as quatro tarefas da abordagem no território de estudo:
 
 1. **Caracterização integrada**: como o físico-biótico e o socioespacial se articulam ali.
 2. **Identificação de conflitos**: quem produz e quem sofre os impactos.

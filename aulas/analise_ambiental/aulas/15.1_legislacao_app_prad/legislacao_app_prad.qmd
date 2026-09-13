@@ -110,7 +110,7 @@ Três fases sequenciais (Res. CONAMA 237/1997):
 
 : {.striped .hover}
 
-> Demais hipóteses: art. 4º da Lei 12.651/2012. APP protege os meios ecodinamicamente instáveis (Tricart, Aula 8).
+> Demais hipóteses: art. 4º da Lei 12.651/2012. APP protege os meios ecodinamicamente instáveis (Tricart).
 :::
 
 ::: {.column width="50%"}

@@ -62,7 +62,7 @@ Apresentar o componente curricular e situar a análise ambiental no horizonte da
 | **Carga horária** | 64 h (16 encontros) |
 | **Período** | 2026.2 |
 | **Modalidade** | Presencial |
-| **Avaliações** | 1ª Teórica (Sem. 10) + 2ª Prática (Sem. 16) + 4 Estudos Orientados |
+| **Avaliações** | 1ª Teórica (Sem. 11) + 2ª Prática (Sem. 16) + 5 Estudos Orientados |
 
 : {.striped .hover}
 :::
@@ -103,7 +103,7 @@ A análise ambiental fundamenta AIA, planos de bacia, ZEE, PRAD e licenciamento.
 ::: {.info-box}
 **Estudos Orientados (1 a 5)**
 
-Fichamento de PORTO-GONÇALVES (nº 1, Sem. 2), MENDONÇA (nº 2, Sem. 3), SÁNCHEZ (nº 3, Sem. 4) e BERTRAND (nº 5, Sem. 8); no nº 4, análise de um EIA/RIMA público (Sem. 5). Roteiro dos fichamentos:
+Fichamento de PORTO-GONÇALVES (nº 1, Sem. 3), MENDONÇA (nº 2, Sem. 5), SÁNCHEZ (nº 3, Sem. 6) e BERTRAND (nº 5, Sem. 9); no nº 4, análise de um EIA/RIMA público (Sem. 7). Roteiro dos fichamentos:
 
 1. Contexto e tese central
 2. Conceitos operacionais

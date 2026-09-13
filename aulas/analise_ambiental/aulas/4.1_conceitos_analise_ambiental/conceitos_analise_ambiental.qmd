@@ -37,7 +37,7 @@ execute:
 - [4]{.circle} Risco e resiliência
 - [5]{.circle} Recuperação ambiental
 - [6]{.circle} Sustentabilidade
-- [7]{.circle} Entrega do Estudo Orientado nº 3
+- [7]{.circle} Estudo Orientado nº 3 (entrega na aula seguinte)
 :::
 
 ::: {.column width="50%"}
@@ -123,7 +123,7 @@ Processo de **redução cumulativa** das capacidades funcionais do sistema ambie
 
 : {.striped .hover}
 
-Na prática, a Análise Ambiental opera frequentemente com a **fragilidade emergente** (Ross) como expressão sintética para o planejamento (Aula 9).
+Na prática, a Análise Ambiental opera frequentemente com a **fragilidade emergente** (Ross) como expressão sintética para o planejamento.
 :::
 :::
 :::
@@ -188,7 +188,7 @@ Capacidade do sistema de **absorver perturbações** mantendo sua estrutura e fu
 
 : {.striped .hover}
 
-> No marco legal brasileiro, **PRAD** (Plano de Recuperação de Áreas Degradadas) é o instrumento operacional (Aula 15).
+> No marco legal brasileiro, **PRAD** (Plano de Recuperação de Áreas Degradadas) é o instrumento operacional.
 :::
 
 ::: {.column width="50%"}
@@ -199,9 +199,9 @@ Capacidade do sistema de **absorver perturbações** mantendo sua estrutura e fu
 - **Três pilares**: ecológico, econômico, social - e, mais recentemente, **cultural** e **institucional**.
 - **ODS (Agenda 2030)**: 17 objetivos territorializáveis (especialmente ODS 6, 13, 14, 15).
 
-### Estudo Orientado nº 3
+### Estudo Orientado nº 3 (entrega na aula seguinte)
 
-Fichar SÁNCHEZ (2013), cap. 1 - *Conceitos e definições* - e aplicar ao **território de estudo**: distinguir **degradação** de **impacto ambiental**, identificar os **processos ambientais** em curso e avaliar o potencial de **resiliência** e **recuperação**.
+Fichar SÁNCHEZ (2013), cap. 1, **Conceitos e definições**, conforme o roteiro geral de fichamento (contexto e tese central, conceitos operacionais, aplicação, crítica e síntese), aplicando ao **território de estudo**: distinguir **degradação** de **impacto ambiental**, identificar os **processos ambientais** em curso e avaliar o potencial de **resiliência** e **recuperação**.
 :::
 :::
 :::

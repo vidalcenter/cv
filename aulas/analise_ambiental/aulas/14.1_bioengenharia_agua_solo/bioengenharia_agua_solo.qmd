@@ -193,7 +193,7 @@ Sistema combinado:
 ::: {.column width="55%"}
 ### Etapas de projeto
 
-1. **Diagnóstico** (Aulas 7-13).
+1. **Diagnóstico**.
 2. **Concepção** - seleção de técnicas por tipo de feição.
 3. **Dimensionamento** - hidrológico, geotécnico, agronômico.
 4. **Lista de mat./espécies** - nativas, quantitativos, calendário.

@@ -80,8 +80,8 @@ Articular a leitura morfopedológica da vertente com a abordagem geossistêmica 
 
 - **Dossel**: dissipa energia cinética da chuva.
 - **Serrapilheira**: protege contra impacto direto e mantém umidade.
-- **Sistema radicular**: agrega o solo, fornece coesão adicional (Aula 14).
-- **Matéria orgânica**: estrutura solo, sustenta microbiota, retem água (Aula 12).
+- **Sistema radicular**: agrega o solo, fornece coesão adicional.
+- **Matéria orgânica**: estrutura solo, sustenta microbiota, retém água.
 
 A supressão da cobertura **rompe** essa sequência funcional e desencadeia erosão acelerada.
 :::
@@ -116,7 +116,7 @@ A supressão da cobertura **rompe** essa sequência funcional e desencadeia eros
 - **Erodibilidade do solo (K)** - susceptibilidade intrínseca do solo (Mg·h·MJ⁻¹·mm⁻¹).
 - **MUSLE / RUSLE**: $A = R \cdot K \cdot LS \cdot C \cdot P$.
 
-> A combinação **R × K × LS** define a **fragilidade potencial**; **C × P** introduzem a ação antrópica e produzem a **fragilidade emergente** (Aula 9).
+> A combinação **R × K × LS** define a **fragilidade potencial**; **C × P** introduzem a ação antrópica e produzem a **fragilidade emergente**.
 
 ![](../../../../img/Cordao contorno 2.JPEG){fig-alt="Conservação do solo" width="100%"}
 :::
@@ -237,7 +237,7 @@ Unidade espaço-temporal que integra três componentes indissociáveis:
 
 : {.striped .hover}
 
-O **geossistema** é a escala operacional por excelência para o diagnóstico ambiental integrado - compatível com a bacia hidrográfica como unidade de análise (Aula 7).
+O **geossistema** é a escala operacional por excelência para o diagnóstico ambiental integrado, compatível com a bacia hidrográfica como unidade de análise.
 :::
 :::
 :::

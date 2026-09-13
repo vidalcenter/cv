@@ -38,7 +38,7 @@ execute:
 - [5]{.circle} Medidas compensatórias
 - [6]{.circle} Programas de monitoramento
 - [7]{.circle} Recuperação ambiental
-- [8]{.circle} Entrega do Estudo Orientado nº 4
+- [8]{.circle} Entrega do Estudo Orientado nº 3
 :::
 
 ::: {.column width="50%"}
@@ -192,7 +192,7 @@ Natureza, magnitude, abrangência, duração, reversibilidade, sinergia, cumulat
 ### Plano de Monitoramento
 
 - Indicadores específicos para cada impacto previsto.
-- **Linha de base** estabelecida antes da implantação (Aula 11).
+- **Linha de base** estabelecida antes da implantação.
 - Frequência compatível com a dinâmica do processo monitorado.
 - Limiares de alerta e de ação corretiva.
 
@@ -207,7 +207,7 @@ Detalham as condicionantes da LP. Exemplos típicos:
 
 ::: {.column width="45%"}
 ::: {.info-box}
-**Estudo Orientado nº 4**
+**Estudo Orientado nº 4** (entrega na aula seguinte)
 
 Selecionar um EIA/RIMA público (SIBE/IBAMA ou órgão estadual) e identificar:
 

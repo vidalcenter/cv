@@ -44,7 +44,7 @@ execute:
 ::: {.info-box}
 **Objetivo da Avaliação**
 
-Verificar a integração dos conteúdos das Aulas 1 a 9 por meio de questões dissertativas que articulem fundamentação teórica e operacionalização conceitual em análise ambiental.
+Verificar a integração dos conteúdos da disciplina por meio de questões dissertativas que articulem fundamentação teórica e operacionalização conceitual em análise ambiental.
 :::
 :::
 :::
@@ -80,13 +80,13 @@ Verificar a integração dos conteúdos das Aulas 1 a 9 por meio de questões di
 ::: {.highlight-box}
 **Eixos avaliados**
 
-1. Modernidade e questão ambiental (Aulas 1-2)
-2. Geografia socioambiental (Aula 3)
-3. Conceitos operacionais (Aula 4)
-4. AIA e planejamento (Aula 5)
-5. Bacia hidrográfica e análise integrada (Aulas 6-7)
-6. Morfopedologia (Aula 8)
-7. Geossistemas, ecodinâmica e fragilidade (Aula 9)
+1. Modernidade e questão ambiental
+2. Geografia socioambiental
+3. Conceitos operacionais
+4. AIA e planejamento
+5. Bacia hidrográfica e análise integrada
+6. Morfopedologia
+7. Geossistemas, ecodinâmica e fragilidade
 :::
 :::
 :::

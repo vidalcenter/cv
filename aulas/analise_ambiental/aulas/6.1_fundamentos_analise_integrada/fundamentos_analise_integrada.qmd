@@ -38,6 +38,7 @@ execute:
 - [5]{.circle} Sistemas ambientais
 - [6]{.circle} Dinâmica geoambiental
 - [7]{.circle} Planejamento e ordenamento territorial
+- [8]{.circle} Entrega do Estudo Orientado nº 4
 :::
 
 ::: {.column width="50%"}
@@ -90,7 +91,7 @@ Articular elementos físico-bióticos e antrópicos em diferentes escalas como b
 
 : {.striped .hover}
 
-> Os três meios **não se somam** - se articulam em **sistemas ambientais** com propriedades emergentes (Aula 9).
+> Os três meios se articulam em **sistemas ambientais** com propriedades emergentes.
 :::
 :::
 :::
@@ -168,7 +169,7 @@ Função do diagnóstico integrado para subsidiar:
 - **Planos Diretores Municipais** - macrozoneamento, perimetro urbano
 - **Plano de Manejo de UCs** - zona de proteção integral, uso, amortecimento
 
-A Análise Ambiental fornece a **base territorial** para todos esses instrumentos (Aula 15).
+A Análise Ambiental fornece a **base territorial** para todos esses instrumentos.
 :::
 :::
 :::

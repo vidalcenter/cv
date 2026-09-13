@@ -131,7 +131,7 @@ Use **conjuntos mínimos** de indicadores (5-10) que cubram **pressão**, **esta
 |--------|-----------|
 | **IQA** (CETESB/ANA) | Qualidade da água bruta |
 | **Índice de Estado Trófico** | Lagos e reservatórios |
-| **IQS** (qualidade do solo) | Aula 12 |
+| **IQS** (qualidade do solo) | Aula seguinte |
 | **Fragilidade Ambiental (Ross)** | Suscet. física integrada |
 | **Índice Fuzzy de Sustentabilidade** | Sistemas multivariáveis com incerteza |
 | **IIC / dPC** | Conectividade da paisagem |

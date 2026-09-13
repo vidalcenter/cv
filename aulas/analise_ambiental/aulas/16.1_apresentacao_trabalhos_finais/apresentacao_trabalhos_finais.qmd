@@ -133,10 +133,10 @@ A discussão coletiva consolida o ferramental adquirido e ensaia decisões típi
 ::: {.column width="55%"}
 ### Cadeia analítica percorrida
 
-1. **Fundamentos** (1-5): questão ambiental, modernidade, Geografia socioambiental, conceitos, AIA.
-2. **Análise integrada** (6-9): meios, escala, bacia, morfopedologia, geossistemas, ecodinâmica, fragilidade.
-3. **Indicadores e intervenção** (11-15): indicadores, qualidade do solo, degradação, bioengenharia, legislação.
-4. **Síntese** (10 e 16): avaliação teórica + trabalho aplicado.
+1. **Fundamentos**: questão ambiental, modernidade, Geografia socioambiental, conceitos, AIA.
+2. **Análise integrada**: meios, escala, bacia, morfopedologia, geossistemas, ecodinâmica, fragilidade.
+3. **Indicadores e intervenção**: indicadores, qualidade do solo, degradação, bioengenharia, legislação.
+4. **Síntese**: avaliação teórica + trabalho aplicado.
 
 ### Competências consolidadas
 

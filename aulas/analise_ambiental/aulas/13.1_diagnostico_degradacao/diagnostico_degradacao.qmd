@@ -73,7 +73,7 @@ Até a fase de sulcos, a erosão ainda é **reversível com manejo agronômico**
 
 - Incisões lineares de 0,1 a 1 m de profundidade.
 - Concentram fluxo e evoluem regressivamente.
-- Necessitam **intervenção estrutural-vegetativa** (Aula 14).
+- Necessitam **intervenção estrutural-vegetativa**.
 :::
 
 ::: {.column width="50%"}
@@ -94,7 +94,7 @@ Até a fase de sulcos, a erosão ainda é **reversível com manejo agronômico**
 
 : {.striped .hover}
 
-> Controle por **paliçadas permeáveis**, **drenos verdes** e **estabilização de cabeceiras** (Aula 14).
+> Controle por **paliçadas permeáveis**, **drenos verdes** e **estabilização de cabeceiras**.
 
 ![](../../../../img/escavacao_canal.jpeg){fig-alt="Feições erosivas profundas" width="100%"}
 :::
@@ -173,8 +173,8 @@ Protocolo recomendado:
   - Redução do OD
   - Perda de filtragem (nutrientes, sedimentos, agrotóxicos)
   - Desconexão ecológica
-- Marco legal: APP do Código Florestal (Aula 15).
-- Recuperação: **plantio adensado de nativas** + **bioengenharia de margens** (Aula 14).
+- Marco legal: APP do Código Florestal.
+- Recuperação: **plantio adensado de nativas** + **bioengenharia de margens**.
 :::
 :::
 :::
@@ -187,8 +187,8 @@ Protocolo recomendado:
 ::: {.column width="55%"}
 ### Procedimento integrador
 
-1. **Indicadores físicos** (Aulas 8 e 12) → fragilidade potencial.
-2. **Indicadores de uso** (Aula 7) → cobertura, manejo, conflitos APP.
+1. **Indicadores físicos** → fragilidade potencial.
+2. **Indicadores de uso** → cobertura, manejo, conflitos APP.
 3. **Inventario de feições** → vetores e atributos.
 4. **Overlay em SIG** → mapa de **grau de degradação**.
 5. Critérios para classificação:
@@ -202,12 +202,12 @@ Protocolo recomendado:
 ::: {.info-box}
 **Entrada para o PRAD**
 
-O diagnóstico desta aula alimenta diretamente o **Plano de Recuperação de Áreas Degradadas** (Aula 15) ao identificar:
+O diagnóstico desta aula alimenta diretamente o **Plano de Recuperação de Áreas Degradadas** ao identificar:
 
 - Tipo de degradação predominante.
 - Causas associadas (uso, manejo, condições do meio físico).
 - Hierarquização de áreas prioritárias.
-- Seleção de técnicas (Aula 14).
+- Seleção de técnicas.
 :::
 :::
 :::

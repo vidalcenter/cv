@@ -79,7 +79,7 @@ Adotar a bacia hidrográfica como unidade integradora de análise, articulando t
 **Marco legal brasileiro**
 
 - **Lei 9.433/1997** (Política Nacional de Recursos Hídricos): institui a bacia como **unidade de planejamento**.
-- **Lei 12.651/2012** (Código Florestal): APPs de rios e nascentes (Aula 15).
+- **Lei 12.651/2012** (Código Florestal): APPs de rios e nascentes.
 - **ANA** + **órgãos estaduais** + **Comitês de Bacia**: governança tripartite.
 
 > A bacia articula a **Análise Ambiental** com a **gestão de recursos hídricos**.

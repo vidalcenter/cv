@@ -128,7 +128,7 @@ Unidades de paisagem (UPs) são **recortes territoriais relativamente homogêneo
 
 : {.striped .hover}
 
-As UPs são a base para o **diagnóstico integrado** (Aula 11) e o **planejamento territorial** (Aula 15).
+As UPs são a base para o **diagnóstico integrado** e o **planejamento territorial**.
 :::
 :::
 :::
@@ -155,14 +155,14 @@ Tricart (1977) classifica meios pela relação **pedogênese × morfogênese**:
 
 - Meios **estáveis** → aptos para uso intensivo com práticas conservacionistas.
 - Meios **intergrades** → uso restrito, monitoramento contínuo.
-- Meios **instáveis** → proteção, restauração ou bioengenharia (Aula 14).
+- Meios **instáveis** → proteção, restauração ou bioengenharia.
 :::
 
 ::: {.column width="50%"}
 ::: {.highlight-box}
 **Conexão com a legislação**
 
-As APPs do Código Florestal (Aula 15) protegem **exatamente os meios ecodinamicamente instáveis**:
+As APPs do Código Florestal protegem **exatamente os meios ecodinamicamente instáveis**:
 
 - Encostas > 45°
 - Topos de morros
@@ -214,7 +214,7 @@ Procedimento sintético em SIG:
 5. Cruzar com **C × P** do uso da terra → **fragilidade emergente**.
 6. Mapa final 1-5 + estatísticas por UP.
 
-> A carta de fragilidade subsidia o ZEE, o licenciamento e os planos de bacia (Aula 15).
+> A carta de fragilidade subsidia o ZEE, o licenciamento e os planos de bacia.
 :::
 :::
 :::
