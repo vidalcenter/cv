@@ -69,7 +69,7 @@ Operacionalizar o vocabulário conceitual da análise ambiental (impacto, degrad
 | Duração | Temporário / permanente |
 | Reversibilidade | Reversível / irreversível |
 | Distribuição | Local / regional / global |
-| Sinergia | Aditivo / cumulativo / sinérgico |
+| Interação | Aditivo / cumulativo / sinérgico |
 
 : {.striped .hover}
 :::
@@ -176,7 +176,7 @@ Capacidade do sistema de **absorver perturbações** mantendo sua estrutura e fu
 
 ::: {.columns}
 ::: {.column width="50%"}
-### Gradiente de intervenção (SER, 2004)
+### Gradiente de intervenção (SER, 2004; Sánchez, 2013)
 
 | Termo | Objetivo |
 |-------|----------|

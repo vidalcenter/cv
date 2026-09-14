@@ -74,7 +74,7 @@ Examinar as abordagens ambientais no campo do pensamento geográfico moderno e d
 
 1. **Climatologia geográfica** (Monteiro): clima como fator de organização do espaço.
 2. **Geomorfologia integradora** (Ab'Sáber, Ross, Casseti): relevo articulado a solos, vegetação e ação antrópica.
-3. **Análise sistêmica** (Bertrand, Tricart, Sotchava no Brasil): geossistemas e ecodinâmica.
+3. **Análise sistêmica** (Bertrand, Tricart, Sotchava): geossistemas e ecodinâmica.
 
 > Essas tradições convergem na **Geografia Socioambiental** como matriz para a Análise Ambiental contemporânea.
 :::
@@ -130,7 +130,7 @@ Mendonça (2001) propõe ler a sociedade-natureza (S↔N) como **par indissociá
 |-----------|--------|-------------------|
 | **Ambiente** | Totalidade físico-biótico-social em interação | Diagnóstico integrado, indicadores |
 | **Paisagem** | Expressão visível e integrada dos componentes | Mapas de unidades, métricas espaciais |
-| **Território** | Espaço apropriado, normatizado, gestado | Conflitos, zoneamentos, políticas |
+| **Território** | Espaço apropriado, normatizado, gerido | Conflitos, zoneamentos, políticas |
 | **Lugar** | Vivência, identidade, escala do cotidiano | Percepção, topofilia |
 | **Espaço** | Categoria geográfica maior, totalidade | Teoria social do espaço |
 
