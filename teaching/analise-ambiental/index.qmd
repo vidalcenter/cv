@@ -57,7 +57,7 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 
 : {.striped .hover}
 
-> **Observações:** (1) Aulas às **segundas-feiras** no turno da manhã. (2) **Feriados nas segundas:** 07/09 (Independência), 12/10 (N. Sra. Aparecida) e 02/11 (Finados) — sem atividade presencial. (3) **Viagem de campo em 26/10** — atividade obrigatória, substitui a aula presencial da semana. (4) A coluna **Slides** indica o material disponível por encontro; os arquivos serão publicados progressivamente nesta página.
+> **Observações:** (1) Aulas às **segundas-feiras** no turno da manhã. (2) **Feriados nas segundas:** 07/09 (Independência), 12/10 (N. Sra. Aparecida) e 02/11 (Finados) — sem atividade presencial. (3) **Viagem de campo em 26/10** — atividade obrigatória, substitui a aula presencial da semana. (4) A coluna **Slides** indica o material disponível por encontro; os arquivos serão publicados progressivamente nesta página. (5) **Aula extra:** 17.1 — Paisagem Cultural e Sistemas Agrícolas Tradicionais, disponível na grade de slides.
 :::
 
 ::: {.callout-tip collapse="true" icon=false}
@@ -226,6 +226,15 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 <div class="slide-info">
 <div class="card-title">Sem. 16 | 16.1 — Apresentação dos Trabalhos Finais</div>
 <p>Socialização dos diagnósticos; discussão dos indicadores; análise das propostas de intervenção e encerramento.</p>
+</div>
+</a>
+
+<!-- ══════ AULA EXTRA — 17.1 ══════ -->
+<a class="slide-card" href="../../aulas/analise_ambiental/aulas/17.1_paisagem_cultural_sistemas_tradicionais/paisagem_cultural_sistemas_tradicionais.html" target="_blank">
+<div class="slide-icon"><i class="fa-solid fa-display"></i></div>
+<div class="slide-info">
+<div class="card-title">Aula extra | 17.1 — Paisagem Cultural e Sistemas Agrícolas Tradicionais</div>
+<p>Percepção e valoração da paisagem; topofilia; roça de toco e coivara, cabruca, fundo de pasto, faxinais e quebradeiras de babaçu.</p>
 </div>
 </a>
 
