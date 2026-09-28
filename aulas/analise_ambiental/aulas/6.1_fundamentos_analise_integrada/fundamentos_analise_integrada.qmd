@@ -34,18 +34,19 @@ execute:
 - [1]{.circle} Elementos e fatores do meio físico
 - [2]{.circle} Meio biótico
 - [3]{.circle} Meio antrópico
-- [4]{.circle} Escala espacial e temporal
-- [5]{.circle} Sistemas ambientais
-- [6]{.circle} Dinâmica geoambiental
-- [7]{.circle} Planejamento e ordenamento territorial
-- [8]{.circle} Entrega do Estudo Orientado nº 4
+- [4]{.circle} Dados e indicadores do diagnóstico
+- [5]{.circle} Escala espacial e temporal
+- [6]{.circle} Sistemas ambientais
+- [7]{.circle} Dinâmica geoambiental
+- [8]{.circle} Planejamento e ordenamento territorial
+- [9]{.circle} Entrega do Estudo Orientado nº 4
 :::
 
 ::: {.column width="50%"}
 ::: {.info-box}
 **Objetivo da Aula**
 
-Articular elementos físico-bióticos e antrópicos em diferentes escalas como base operacional da análise integrada e do ordenamento territorial.
+Articular elementos físico-bióticos e antrópicos, dados primários e secundários e indicadores em diferentes escalas como base operacional da análise integrada, do diagnóstico ambiental e do ordenamento territorial.
 :::
 :::
 :::
@@ -92,6 +93,32 @@ Articular elementos físico-bióticos e antrópicos em diferentes escalas como b
 : {.striped .hover}
 
 > Os três meios se articulam em **sistemas ambientais** com propriedades emergentes.
+:::
+:::
+:::
+
+---
+
+## Dados e indicadores do diagnóstico {.smaller-text}
+
+::: {.columns}
+::: {.column width="50%"}
+### Dados primários e secundários
+
+- **Secundários**: estações climáticas, IBGE, mapas, imagens orbitais; exigem escala e atualização compatíveis com a pergunta.
+- **Primários**: coletas de campo (vegetação, fauna, qualidade da água, entrevistas).
+- No meio biótico, o **esforço amostral** segue a curva do coletor (espécies acumuladas por dia de campo).
+
+### Sensibilidade da área
+
+- A significância do impacto depende da **vulnerabilidade natural** (declividade, nascentes, solos frágeis) e da qualidade ambiental prévia.
+:::
+
+::: {.column width="50%"}
+::: {.info-box}
+**Indicadores**
+
+Cada impacto previsto exige indicadores específicos e mensuráveis (vazão, turbidez, riqueza de espécies, densidade demográfica), coletados com a mesma técnica e nos mesmos pontos ao longo do tempo, para permitir comparação multitemporal.
 :::
 :::
 :::
@@ -184,3 +211,4 @@ A Análise Ambiental fornece a **base territorial** para todos esses instrumento
 - DREW, D. **Processos interativos homem-meio ambiente**. Rio de Janeiro: Bertrand Brasil, 1989.
 - TAUK-TORNISIELO, S. M. (org.). **Análise ambiental**: uma visão multidisciplinar. 2. ed. São Paulo: Editora UNESP, 1996.
 - CASTRO, I. E. de. O problema da escala. In: CASTRO, I. E. de; GOMES, P. C. da C.; CORRÊA, R. L. (org.). **Geografia: conceitos e temas**. Rio de Janeiro: Bertrand Brasil, 1995.
+- SÁNCHEZ, L. E. **Avaliação de impacto ambiental**: conceitos e métodos. 2. ed. São Paulo: Oficina de Textos, 2013.
