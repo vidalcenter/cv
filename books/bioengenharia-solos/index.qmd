@@ -1,29 +1,25 @@
 # Sobre este livro {.unnumbered}
 
-Este é o site do livro "Bioengenharia de Solos em Regiões Tropicais: Fundamentos, Técnicas e Soluções Baseadas na Natureza", escrito por [Luiz Diego Vidal Santos](https://diegovidalcv.com.br/).
+Este é o site do livro "Soluções Baseadas na Natureza para Bioengenharia de Água e Solo: Fundamentos, Técnicas e Protocolos para Regiões Tropicais", organizado por [Luiz Diego Vidal Santos](https://diegovidalcv.com.br/) (UEFS), Francisco Sandro Rodrigues Holanda (UFS) e Emersson Guedes da Silva (UFS).
 
-A bioengenharia de solos combina princípios da engenharia, ecologia e pedologia para estabilizar e recuperar solos degradados utilizando materiais vivos e biodegradáveis. Em regiões tropicais, onde a intensidade das chuvas, a profundidade do intemperismo e a fragilidade dos solos impõem desafios únicos, as soluções baseadas na natureza (NBS) surgem como alternativas sustentáveis, eficientes e de baixo custo.
+A obra reúne contribuições de autoria coletiva. Os capítulos escritos por colaboradores externos à organização trazem a indicação de autoria logo abaixo do título, enquanto os demais são de responsabilidade dos organizadores.
 
-Este livro apresenta de forma integrada os fundamentos pedológicos, as técnicas construtivas e as inovações em materiais biodegradáveis aplicados à conservação e recuperação de solos em ambientes tropicais. Cada capítulo combina base teórica, equações de dimensionamento, exemplos práticos e estudos de caso reais.
+A bioengenharia de água e solo combina princípios da engenharia, da ecologia e da pedologia para estabilizar e recuperar terrenos degradados utilizando materiais vivos e biodegradáveis. A água fornece a energia que destaca e transporta a partícula e o solo fornece a resistência que se opõe a esse destacamento, de modo que toda feição erosiva expressa o desequilíbrio instantâneo entre uma solicitação hidráulica e uma resistência edáfica. Em regiões tropicais, onde a intensidade das chuvas, a profundidade do intemperismo e a fragilidade dos solos estreitam esse acoplamento, as soluções baseadas na natureza oferecem alternativas sustentáveis, eficientes e de baixo custo.
 
-O conteúdo está organizado em quatro partes:
+O livro apresenta de forma integrada os fundamentos pedológicos e hidrossedimentológicos, as técnicas construtivas, os protocolos de dimensionamento parametrizados em campo e as inovações em materiais biodegradáveis aplicados à conservação e à recuperação de áreas degradadas em ambientes tropicais. Cada capítulo combina base teórica, equações de dimensionamento com a matemática narrada passo a passo, exemplos resolvidos, roteiros de verificação de campo e questões para estudo.
 
-1. Fundamentos — Formação dos solos tropicais, intemperismo, processos erosivos e classificação de feições.
-2. Técnicas de Bioengenharia — Das paliçadas e bacias de captação aos gabiões vivos e paredes Krainer.
-3. Geotêxteis e Inovação — Geossintéticos, biotêxteis de fibras vegetais e biopolímeros superabsorventes.
-4. Projeto e Integração — Soluções baseadas na natureza e projeto integrador de bioengenharia.
+O conteúdo está organizado em seis partes. A Parte I estabelece o enquadramento conceitual das soluções baseadas na natureza e a integração entre água e solo. A Parte II apresenta os fundamentos do meio físico tropical, abrangendo formação dos solos, intemperismo, processos erosivos e classificação de feições. A Parte III desenvolve as técnicas construtivas, das paliçadas permeáveis e bacias de captação aos gabiões vivos e paredes Krainer, com três capítulos dedicados ao projeto, à execução e ao monitoramento de paliçadas. A Parte IV trata de geossintéticos, biotêxteis de fibras vegetais e biopolímeros superabsorventes, incluindo a caracterização físico-química dos materiais e tecnologias protegidas por patente. A Parte V amplia a escala da intervenção para a bacia hidrográfica e apresenta o roteiro de projeto integrador. A Parte VI reúne monitoramento tridimensional, análise de viabilidade econômica, adaptação climática e marco regulatório.
 
 ## Para quem é
 
-- Estudantes de graduação e pós-graduação em Engenharia Agronômica, Ambiental, Civil e Florestal
-- Profissionais de conservação do solo e recuperação de áreas degradadas
-- Pesquisadores em soluções baseadas na natureza (NBS)
-- Gestores de bacias hidrográficas e planejamento territorial
+A obra dirige-se a estudantes de graduação e pós-graduação em Engenharia Agronômica, Ambiental, Civil e Florestal, a profissionais de conservação do solo e recuperação de áreas degradadas, a pesquisadores em soluções baseadas na natureza e a gestores de bacias hidrográficas e de planejamento territorial.
 
 ## Como citar
 
-> Santos, L. D. V. (2026). *Bioengenharia de Solos em Regiões Tropicais: Fundamentos, Técnicas e Soluções Baseadas na Natureza*. Disponível em: <https://diegovidalcv.com.br/books/bioengenharia-solos/>
+> Santos, L. D. V.; Holanda, F. S. R.; Silva, E. G. (Orgs.). (2026). *Soluções Baseadas na Natureza para Bioengenharia de Água e Solo: Fundamentos, Técnicas e Protocolos para Regiões Tropicais*. Disponível em: <https://diegovidalcv.com.br/books/bioengenharia-solos/>
 
-## Licença
+Para citar um capítulo específico de autoria distinta, utilize a forma: Sobrenome, N. (2026). Título do capítulo. In: Santos, L. D. V.; Holanda, F. S. R.; Silva, E. G. (Orgs.). *Soluções Baseadas na Natureza para Bioengenharia de Água e Solo*.
 
-Este livro é disponibilizado sob licença [Creative Commons Atribuição-NãoComercial-CompartilhaIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+## Direitos autorais
+
+© 2026 Luiz Diego Vidal Santos, Francisco Sandro Rodrigues Holanda e Emersson Guedes da Silva. Todos os direitos reservados. Nenhuma parte desta obra pode ser reproduzida, armazenada, distribuída, adaptada ou transmitida por qualquer meio sem autorização prévia e por escrito dos autores. A disponibilização desta versão destina-se exclusivamente à leitura, e o conteúdo permanece inédito para fins de submissão editorial.

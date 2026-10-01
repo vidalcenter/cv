@@ -48,7 +48,7 @@ Lista completa de publicações extraídas automaticamente do Currículo Lattes,
 Licença CC BY-NC-SA 4.0
 </p>
 <p class="card-text text-muted">
-Bioengenharia de Solos em Regiões Tropicais, Propriedade Intelectual e Inovação na Agricultura e Análise da Paisagem, com capítulos, equações e estudos de caso.
+Soluções Baseadas na Natureza para Bioengenharia de Água e Solo, Propriedade Intelectual e Inovação na Agricultura e Análise da Paisagem, com capítulos, equações e estudos de caso.
 </p>
 <a href="livros.html" class="btn btn-success">
 <i class="fa-solid fa-arrow-right"></i> Ver livros

@@ -1,4 +1,4 @@
-﻿# Classificação de Feições Erosivas {#sec-classificacao-feicoes}
+# Classificação de Feições Erosivas {#sec-classificacao-feicoes}
 
 ## Importância da Classificação
 
@@ -6,7 +6,7 @@ A classificação precisa das feições erosivas é o primeiro passo para o dime
 
 O mapeamento das feições erosivas pode ser realizado por diferentes métodos, desde o reconhecimento visual em campo até o uso de tecnologias de sensoriamento remoto. A @fig-foto-aerea demonstra a capacidade dos sistemas RPAS (Remotely Piloted Aircraft Systems, popularmente chamados drones) para identificar e mapear feições erosivas com resolução espacial centimétrica.
 
-![Visão aérea de feições erosivas — o mapeamento por RPAS permite identificar e classificar ravinas com precisão espacial centimétrica.](../img/foto_aerea.png){#fig-foto-aerea fig-alt="Foto aérea de feições erosivas" width="85%"}
+![Visão aérea de feições erosivas — o mapeamento por RPAS permite identificar e classificar ravinas com precisão espacial centimétrica.](../img/foto_aerea.jpg){#fig-foto-aerea fig-alt="Foto aérea de feições erosivas" width="85%"}
 
 A partir de imagens como a da @fig-foto-aerea, é possível extrair informações geométricas detalhadas (largura, profundidade, comprimento, área da seção transversal) que alimentam os sistemas de classificação e orientam a seleção de técnicas de bioengenharia.
 
@@ -54,7 +54,7 @@ As imagens a seguir ilustram dois aspectos complementares do levantamento. A @fi
 ::: {layout-ncol=2}
 ![Detalhe de ravina — parâmetros geométricos podem ser medidos em campo ou pelo modelo digital gerado por drone.](../img/ravina_detalhe.jpg){#fig-ravina-detalhe fig-alt="Detalhe de ravina em solo tropical"}
 
-![Perfil de solo exposto pela erosão — a análise dos horizontes auxilia no dimensionamento das intervenções.](../img/perfil_solo_feicoes.jpg){#fig-perfil-feicoes fig-alt="Perfil de solo exposto por erosão"}
+![Perfil exposto pela erosão com os horizontes A, AB, BAc e Bt delimitados e a escala métrica ao lado, leitura que fornece a profundidade de cada camada e orienta o dimensionamento da ancoragem das estruturas.](../img/perfil_horizontes_feicao.jpg){#fig-perfil-feicoes fig-alt="Perfil de solo exposto por erosão"}
 :::
 
 ### Fluxo de Trabalho com VANT

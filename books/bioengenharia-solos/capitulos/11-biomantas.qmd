@@ -1,4 +1,4 @@
-﻿# Biomantas e Geossintéticos Biodegradáveis {#sec-biomantas}
+# Biomantas e Geossintéticos Biodegradáveis {#sec-biomantas}
 
 ## Biomantas
 
@@ -9,9 +9,9 @@ O mecanismo de proteção é triplo. Primeiro, a biomanta absorve a energia cin�
 A @fig-biomanta-talude mostra uma biomanta de fibra de coco instalada em um talude, evidenciando a cobertura uniforme da superfície e a fixação com grampos metálicos, enquanto a @fig-biomanta-grama demonstra o estágio seguinte do processo, com a vegetação emergindo através das aberturas da manta, consolidando a proteção biológica que substituirá progressivamente a proteção mecânica da biomanta à medida que esta se biodegrada.
 
 ::: {layout-ncol=2}
-![Biomanta instalada em talude — proteção imediata contra erosão enquanto a vegetação se estabelece.](../img/geotextil_talude.jpg){#fig-biomanta-talude fig-alt="Biomanta instalada em talude"}
+![Instalação de biomanta em talude recém-conformado, com o rolo desdobrado no sentido do escoamento e ancorado na crista antes da primeira chuva erosiva.](../img/biomanta_instalacao_talude.jpg){#fig-biomanta-talude fig-alt="Biomanta instalada em talude"}
 
-![Vegetação emergindo através da biomanta — a grama se estabelece através das aberturas da manta.](../img/biomanta_grama.jpg){#fig-biomanta-grama fig-alt="Grama crescendo através de biomanta"}
+![Plântula emergindo através da malha da biomanta, situação em que a manta já cumpriu a proteção imediata contra o impacto da gota e cede função à cobertura vegetal que se instala pelas aberturas da trama.](../img/biomanta_brotacao.jpg){#fig-biomanta-grama fig-alt="Grama crescendo através de biomanta"}
 :::
 
 ## Classificação
@@ -29,6 +29,8 @@ A escolha do tipo de biomanta depende da durabilidade requerida pelo projeto (qu
 | Biomanta mista | Coco + palha | 1–3 anos | Uso geral (melhor custo-benefício) |
 
 : Tipos de biomantas e suas características. {#tbl-biomantas .striped .hover}
+
+A durabilidade indicada para cada fibra decorre da sua composição lignocelulósica, uma vez que a lignina retarda simultaneamente a foto-oxidação e a colonização microbiológica, enquanto a fração hemicelulósica amorfa constitui a fase preferencialmente hidrolisada em campo, comportamento verificado em ensaios de degradação de geotêxteis naturais sob exposição tropical [@holanda_2024_resistance_of_the_fiber_der; @santos_2025_analysis_of_fracture_charact]. A caracterização físico-química que sustenta essa interpretação é apresentada em @sec-biotexteis.
 
 A biomanta de coco é a mais versátil e robusta para condições tropicais brasileiras, combinando alta resistência mecânica das fibras de mesocarpo do coco (1 m de comprimento, Ø 0,1–0,3 mm) com excelente retenção hídrica e degradação lenta (2–4 anos), que coincide com o tempo necessário para a vegetação atingir plena maturidade radicular em solos tropicais.
 

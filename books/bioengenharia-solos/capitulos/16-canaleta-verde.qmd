@@ -1,4 +1,4 @@
-﻿# Canaleta Verde {#sec-canaleta-verde}
+# Canaleta Verde {#sec-canaleta-verde}
 
 ## Canaleta Verde
 
@@ -10,7 +10,7 @@ A canaleta verde (*vegetated swale* ou *bioswale*) é um canal de drenagem abert
 
 A canaleta verde desempenha cinco funções hidráulicas e ambientais simultâneas, o que justifica sua classificação como técnica de infraestrutura verde multifuncional. A primeira é a condução controlada do escoamento superficial, substituindo tubulações enterradas por um canal aberto que pode ser inspecionado visualmente e mantido com baixo custo operacional. A segunda é a infiltração para recarga do aquífero, com taxas que dependem da permeabilidade do solo subjacente e da altura da vegetação (canaletas em solos arenosos podem infiltrar 30–60% do volume escoado). A terceira é a filtração de sedimentos e nutrientes pela interação entre o escoamento e a vegetação densa, que funciona como filtro biológico com eficiência de remoção de 60–85% para sólidos suspensos. A quarta é o amortecimento do pico de cheia por laminação, em que a rugosidade vegetal retarda o escoamento e distribui o hidrograma ao longo de um período mais prolongado. A quinta é a integração paisagística com geração de serviços ecossistêmicos (habitat para polinizadores, corredor ecológico, sequestro de carbono). A @fig-canaleta-hidro mostra a integração entre a canaleta verde e a técnica de hidrossemeadura (ver @sec-hidrossemeadura), utilizada para o estabelecimento rápido da cobertura vegetal protetora no canal recém-construído.
 
-![Canaleta verde com hidrossemeadura — integração de drenagem naturalizada com revegetação por hidrossemeadura para estabelecimento rápido da cobertura vegetal.](../img/canaleta_hidrossemeadura.png){#fig-canaleta-hidro fig-alt="Canaleta verde com hidrossemeadura" width="80%"}
+![Canaleta verde com hidrossemeadura — integração de drenagem naturalizada com revegetação por hidrossemeadura para estabelecimento rápido da cobertura vegetal.](../img/canaleta_hidrossemeadura.jpg){#fig-canaleta-hidro fig-alt="Canaleta verde com hidrossemeadura" width="80%"}
 
 ## Dimensionamento Hidráulico
 

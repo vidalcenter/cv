@@ -1,4 +1,4 @@
-﻿# Cordões Vegetativos e Fascinas {#sec-cordoes-fascinas}
+# Cordões Vegetativos e Fascinas {#sec-cordoes-fascinas}
 
 ## Cordões Vegetativos
 
@@ -8,21 +8,21 @@ Os cordões vegetativos são faixas de vegetação densa (1–3 m de largura) di
 
 O mecanismo de funcionamento opera em duas escalas. Em escala superficial, a vegetação densa reduz a velocidade do escoamento laminar por aumento da rugosidade hidráulica, promovendo a deposição dos sedimentos transportados a montante do cordão. Ao longo dos anos, essa deposição acumula uma camada de solo que eleva progressivamente o nível do terreno a montante, criando terraços naturais (fenômeno denominado *sediment wedge*) que suavizam a declividade original da encosta. Em escala subsuperficial, o sistema radicular profundo e denso das espécies utilizadas (particularmente o vetiver, com raízes de até 4 m) aumenta a coesão do solo e a resistência ao cisalhamento, reduzindo a suscetibilidade a deslizamentos rasos. A @fig-cordao mostra a construção de um cordão vegetativo por entrelaçamento de ramos, evidenciando a técnica de implantação que combina elementos vivos e mortos para obter barreira funcional desde o primeiro dia.
 
-![Construção de cordão vegetativo com entrelaçamento de ramos — barreira biológica que retarda o escoamento superficial.](../img/cordao_vegetativo.jpg){#fig-cordao fig-alt="Construção de cordão vegetativo" width="80%"}
+![Cordão vegetativo implantado em curva de nível, cuja touceira densa funciona como barreira biológica que reduz a velocidade do escoamento laminar e retém o sedimento a montante.](../img/cordao_vegetativo_campo.jpg){#fig-cordao fig-alt="Construção de cordão vegetativo" width="62%"}
 
 Técnicas complementares de estabilização biológica são também utilizadas em contextos semelhantes. A @fig-fascina apresenta uma cerca de fascina construída com salgueiro, estrutura biodegradável que estabiliza taludes por entrelaçamento de ramos vivos, enquanto a @fig-barreira mostra uma barreira de salgueiro em estágio avançado, com as estacas já brotando e formando um cordão vegetativo consolidado.
 
 ::: {layout-ncol=2}
-![Cerca de fascina com salgueiro — estrutura biodegradável que estabiliza taludes por entrelaçamento de ramos.](../img/fascina_serbia.jpg){#fig-fascina fig-alt="Fascina de salgueiro"}
+![Arranjo construtivo das fascinas vivas, com (a) perspectiva isométrica das unidades justapostas, (b) vista em planta de uma unidade com os trechos de leitura de 0,50 m e (c) seção transversal da unidade assentada na vala rasa.](../img/fascina_arranjo_leito.png){#fig-fascina fig-alt="Fascina de salgueiro"}
 
-![Barreira de salgueiro — cordão vegetativo em estágio avançado com brotamento das estacas.](../img/barreira_salgueiro.jpg){#fig-barreira fig-alt="Barreira de salgueiro"}
+![Brotamento das estacas em barreira já instalada, evidência de que o material construtivo enraizou e passou a somar ancoragem biológica à resistência mecânica inicial.](../img/barreira_brotamento.jpg){#fig-barreira fig-alt="Barreira de salgueiro"}
 :::
 
 ### Espécies
 
 A seleção da espécie é determinante para o sucesso do cordão vegetativo, devendo-se considerar a profundidade e a densidade do sistema radicular, a capacidade de formar barreira densa e impenetrável pelo fluxo, a tolerância a condições edáficas extremas e a facilidade de propagação. A @fig-vetiver demonstra o sistema radicular excepcionalmente profundo e denso do vetiver em análise de campo, onde se observam raízes que penetram até 4 m de profundidade, conferindo ancoragem e coesão ao maciço de solo.
 
-![Análise de campo do sistema radicular de vetiver — raízes profundas (até 4 m) que conferem alta resistência à tração.](../img/vetiver_analise.png){#fig-vetiver fig-alt="Análise de raízes de vetiver" width="80%"}
+![Análise de campo do sistema radicular de vetiver — raízes profundas (até 4 m) que conferem alta resistência à tração.](../img/vetiver_analise.png){#fig-vetiver fig-alt="Análise de raízes de vetiver" width="65%"}
 
 A espécie mais utilizada mundialmente para cordões vegetativos é o vetiver (*Vetiveria zizanioides*), que reúne características excepcionais para a bioengenharia: sistema radicular vertical e profundo (até 4 m), com raízes individuais de resistência à tração de 40–120 MPa (comparável à de aços estruturais de baixa resistência); formação de barreira densa e impenetrável pelo fluxo a partir de 4–6 meses após o plantio; e extrema tolerância a condições adversas, suportando pH de 3 a 11, seca prolongada, encharcamento temporário, salinidade e metais pesados.
 

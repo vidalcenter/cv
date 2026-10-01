@@ -3,22 +3,34 @@ project:
   output-dir: _book
 
 book:
-  title: "Bioengenharia de Solos em Regiões Tropicais"
-  subtitle: "Fundamentos, Técnicas e Soluções Baseadas na Natureza"
+  title: "Soluções Baseadas na Natureza para Bioengenharia de Água e Solo"
+  subtitle: "Fundamentos, Técnicas e Protocolos para Regiões Tropicais"
   author:
     - name: "Luiz Diego Vidal Santos"
       url: https://diegovidalcv.com.br/
       orcid: 0000-0001-8659-8557
+      roles: [conceptualization, writing, editor]
       affiliation:
         - name: "Universidade Estadual de Feira de Santana (UEFS)"
           url: https://www.uefs.br/
-  date: "2026-02-15"
+    - name: "Francisco Sandro Rodrigues Holanda"
+      roles: [editor]
+      affiliation:
+        - name: "Universidade Federal de Sergipe (UFS)"
+          url: https://www.ufs.br/
+    - name: "Emersson Guedes da Silva"
+      roles: [editor]
+      affiliation:
+        - name: "Universidade Federal de Sergipe (UFS)"
+          url: https://www.ufs.br/
+  date: "2026-09-30"
   date-format: "DD/MM/YYYY"
   description: |
-    Livro-texto sobre bioengenharia de solos aplicada a regiões tropicais,
-    integrando fundamentos pedológicos, técnicas de estabilização biológica
-    e soluções baseadas na natureza (NBS) para conservação e recuperação
-    de solos degradados.
+    Livro-texto sobre soluções baseadas na natureza aplicadas à bioengenharia
+    de água e solo em regiões tropicais, integrando fundamentos pedológicos e
+    hidrossedimentológicos, protocolos de dimensionamento parametrizados em
+    campo, técnicas de estabilização biológica e inovação em biomateriais para
+    conservação e recuperação de áreas degradadas.
   cover-image: img/capa_bioengenharia_de_solos.png
   favicon: img/capa_bioengenharia_de_solos.png
   reader-mode: true
@@ -30,25 +42,31 @@ book:
   search: true
   
   page-footer:
-    left: "© Luiz Diego Vidal Santos, 2026. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)"
+    left: "© 2026 Luiz Diego Vidal Santos, Francisco Sandro Rodrigues Holanda e Emersson Guedes da Silva. Todos os direitos reservados."
     right: "Feito com [Quarto](https://quarto.org)"
 
   chapters:
     - index.qmd
     - prefacio.qmd
 
-    - part: "Parte I — Fundamentos"
+    - part: "Parte I — Enquadramento: Soluções Baseadas na Natureza"
       chapters:
         - capitulos/01-introducao.qmd
+        - capitulos/01a-nbs-enquadramento.qmd
+
+    - part: "Parte II — Fundamentos: Solo, Água e Erosão nos Trópicos"
+      chapters:
         - capitulos/02-solos-tropicais.qmd
         - capitulos/03-intemperismo.qmd
         - capitulos/04-erosao.qmd
         - capitulos/05-classificacao-feicoes.qmd
 
-    - part: "Parte II — Técnicas de Bioengenharia"
+    - part: "Parte III — Técnicas de Bioengenharia de Água e Solo"
       chapters:
         - capitulos/06-revegetacao.qmd
         - capitulos/07-palicadas.qmd
+        - capitulos/07a-palicadas-protocolo.qmd
+        - capitulos/07b-palicadas-execucao.qmd
         - capitulos/08-bacias-captacao.qmd
         - capitulos/09-feixes-drenos.qmd
         - capitulos/10-hidrossemeadura.qmd
@@ -59,20 +77,21 @@ book:
         - capitulos/15-parede-krainer.qmd
         - capitulos/16-canaleta-verde.qmd
 
-    - part: "Parte III — Geotêxteis e Inovação"
+    - part: "Parte IV — Geotêxteis, Biotêxteis e Biomateriais"
       chapters:
         - capitulos/17-geotexteis.qmd
         - capitulos/18-biotexteis.qmd
         - capitulos/19-biopolimeros.qmd
 
-    - part: "Parte IV — Projeto e Integração"
+    - part: "Parte V — Escala de Bacia e Projeto Integrador"
       chapters:
-        - capitulos/20-nbs.qmd
+        - capitulos/23-bioengenharia-agua.qmd
         - capitulos/21-projeto-integrador.qmd
 
-    - part: "Parte V — Monitoramento e Análise"
+    - part: "Parte VI — Monitoramento, Viabilidade e Governança"
       chapters:
         - capitulos/22-modelagem-3d.qmd
+        - capitulos/20-nbs.qmd
 
     - referencias.qmd
 
@@ -96,7 +115,10 @@ format:
     toc: true
     number-sections: true
     colorlinks: true
-    include-in-header: cover.tex
+    fig-pos: 'htbp'
+    include-in-header:
+      - preamble-floats.tex
+      - cover.tex
     geometry:
       - top=2.5cm
       - bottom=2.5cm

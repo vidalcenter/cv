@@ -1,63 +1,11 @@
-﻿# Soluções Baseadas na Natureza {#sec-nbs}
+# Viabilidade, Clima e Governança das NBS {#sec-nbs-viabilidade}
 
-## Definição
+::: {.callout-note}
+## Objetivos de aprendizagem
+Ao final deste capítulo, o leitor deverá ser capaz de comparar soluções de bioengenharia e de engenharia convencional por valor presente líquido em horizonte compatível com o amadurecimento da vegetação, incorporar cobenefícios de sequestro de carbono e de regulação hídrica à análise de viabilidade, dimensionar o retaludamento vegetado por fator de segurança com incremento de coesão radicular, ajustar a chuva de projeto às projeções de precipitação extrema em regiões tropicais, e identificar as normas técnicas e os instrumentos legais que condicionam o licenciamento e o financiamento de projetos no Brasil.
+:::
 
-As Soluções Baseadas na Natureza (*Nature-based Solutions*, NBS) são definidas pela IUCN como
-
-> Ações para proteger, gerenciar de forma sustentável e restaurar ecossistemas naturais ou modificados, que abordam desafios sociais de forma eficaz e adaptativa, fornecendo simultaneamente benefícios para o bem-estar humano e para a biodiversidade. [@iucn2020]
-
-Essa definição estabelece que uma intervenção somente se qualifica como NBS quando opera simultaneamente em dois eixos: resolver um desafio social concreto (controle de erosão, mitigação de enchentes, segurança hídrica) e gerar ganho líquido para a biodiversidade. A bioengenharia de solos, conforme apresentada ao longo deste livro, atende integralmente a esse duplo requisito, pois utiliza elementos vivos (vegetação, raízes, fibras naturais) como componentes estruturais que, ao mesmo tempo em que estabilizam taludes e controlam feições erosivas, criam habitat, promovem ciclagem de nutrientes e sequestram carbono.
-
-## Enquadramento Conceitual
-
-O diagrama a seguir posiciona a bioengenharia de solos no campo mais amplo das NBS, evidenciando que ela é uma vertente da engenharia ecológica (aplicação de princípios ecológicos ao projeto de intervenções de engenharia), que por sua vez integra o guarda-chuva conceitual das NBS juntamente com a restauração de ecossistemas, a infraestrutura verde e a adaptação baseada em ecossistemas.
-
-```{dot}
-//| fig-width: 7.5
-digraph {
-    rankdir=TB
-    bgcolor="transparent"
-    node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=10, margin="0.25,0.12", penwidth=0.8]
-    edge [color="#555555", penwidth=1.0]
-
-    NBS [label="Soluções Baseadas\nna Natureza (NBS)", fillcolor="#2E7D32", fontcolor="white", color="#1B5E20", penwidth=1.5]
-    A [label="Restauração de\necossistemas", fillcolor="#E8F5E9", color="#2E7D32"]
-    B [label="Engenharia\necológica", fillcolor="#E8F5E9", color="#2E7D32"]
-    C [label="Infraestrutura\nverde", fillcolor="#E8F5E9", color="#2E7D32"]
-    D [label="Adaptação baseada\nem ecossistemas", fillcolor="#E8F5E9", color="#2E7D32"]
-    E [label="Reflorestamento\nRevegetação", fillcolor="#C8E6C9", color="#2E7D32"]
-    F [label="Bioengenharia\nde solos", fillcolor="#C8E6C9", color="#2E7D32"]
-    G [label="Canaletas verdes\nTelhados verdes", fillcolor="#C8E6C9", color="#2E7D32"]
-    H [label="Proteção costeira\nManejo de bacias", fillcolor="#C8E6C9", color="#2E7D32"]
-
-    NBS -> {A B C D}
-    A -> E
-    B -> F
-    C -> G
-    D -> H
-}
-```
-
-## Critérios IUCN para NBS
-
-A IUCN estabelece 8 critérios que qualificam uma intervenção como NBS [@iucn2020], e cada um deles pode ser diretamente associado às técnicas de bioengenharia de solos apresentadas nos capítulos anteriores. A @tbl-criterios-iucn sintetiza cada critério e apresenta um exemplo concreto de como a bioengenharia de solos o satisfaz.
-
-| # | Critério | Aplicação em bioengenharia de solos |
-|---|----------|-------------------------------------|
-| 1 | Aborda desafios sociais | O controle de erosão protege estradas, infraestrutura e comunidades rurais a jusante |
-| 2 | Design em escala de paisagem | O projeto integrado de bacias hidrográficas (@sec-bacias-captacao) considera a conectividade hidrossedimentológica |
-| 3 | Ganho líquido para biodiversidade | Espaços entre pedras de enrocamento e células de gabiões criam habitat (@sec-enrocamento, @sec-gabiao-vivo) |
-| 4 | Economicamente viável | Custos 3–5× menores que engenharia civil convencional (@tbl-custos-nbs) |
-| 5 | Governança inclusiva | A fabricação de biotêxteis em comunidades rurais gera renda local (@sec-biotexteis) |
-| 6 | Equilíbrio entre trade-offs | O dimensionamento equilibra estabilidade mecânica e permeabilidade hidráulica |
-| 7 | Gestão adaptativa | O monitoramento contínuo permite ajustes nas técnicas ao longo do tempo |
-| 8 | Sustentável e integrada | Após 3–5 anos de consolidação, a vegetação assume a função protetora sem necessidade de manutenção |
-
-: Critérios IUCN aplicados à bioengenharia de solos, com exemplos de atendimento para cada critério. {#tbl-criterios-iucn .striped}
-
-## Bioengenharia como NBS
-
-A bioengenharia de solos se qualifica plenamente como NBS porque opera exclusivamente com processos naturais como motores de estabilização, em contraste com a engenharia convencional que depende de materiais inertes (concreto, aço) cuja função é estritamente mecânica. O crescimento radicular incrementa a coesão efetiva do solo (ver modelo de Wu-Waldron em @sec-gabiao-vivo), a interceptação vegetal da chuva reduz a energia cinética do splash, a ciclagem hidrológica pela evapotranspiração reduz a poropressão e estabiliza taludes, e a deposição de serrapilheira cria uma camada orgânica que protege a superfície e alimenta a atividade biológica do solo. Esses processos geram múltiplos co-benefícios (estabilidade geotécnica, conservação de biodiversidade, sequestro de carbono, valorização paisagística) e são autossustentáveis após a fase de consolidação (3–5 anos): diferentemente de um muro de concreto, que se deteriora progressivamente, uma encosta estabilizada por bioengenharia ganha resistência ao longo do tempo à medida que o sistema radicular se expande e a coesão do solo aumenta.
+O enquadramento conceitual das Soluções Baseadas na Natureza e a tipologia das técnicas foram estabelecidos em @sec-nbs. Este capítulo trata das condições que determinam se uma intervenção conceitualmente adequada se converte em obra executada, abrangendo a comparação econômica com as alternativas convencionais, a valoração de cobenefícios, a adequação do dimensionamento às projeções climáticas e o marco regulatório que disciplina o licenciamento e o acesso a financiamento.
 
 ## Análise Econômica
 
@@ -74,7 +22,9 @@ A @tbl-custos-nbs apresenta uma análise comparativa de custos para estabilizaç
 | Paliçadas + revegetação (@sec-palicadas) | 50–150 | 5–10 | 10–20 | 80–250 |
 | Biomantas + hidrossemeadura (@sec-biomantas, @sec-hidrossemeadura) | 30–80 | 2–8 | 3–8 | 45–130 |
 
-: Análise comparativa de custos para estabilização de encostas — valores referenciais para condições tropicais brasileiras. {#tbl-custos-nbs .striped .hover}
+: Análise comparativa de custos para estabilização de encostas, com valores referenciais para condições tropicais brasileiras. {#tbl-custos-nbs .striped .hover}
+
+Os valores de paliçadas na @tbl-custos-nbs correspondem ao conjunto formado pela estrutura e pela revegetação do patamar, razão pela qual superam a faixa de 35--70 R$/m² atribuída à barreira isolada em @sec-palicadas. A comparação entre as duas tabelas exige, portanto, atenção ao escopo do serviço precificado em cada uma.
 
 ### Co-benefícios valorizáveis
 
@@ -89,7 +39,7 @@ Quando os co-benefícios são contabilizados pelo método de Análise de Custo-B
 
 O retaludamento vegetado é uma técnica de NBS que combina a reconfiguração geométrica do talude (redução do ângulo de inclinação) com a revegetação integrada das superfícies reconformadas, unindo princípios de geotecnia clássica (estabilidade por peso e geometria) com processos biológicos (coesão radicular, interceptação, evapotranspiração). A @fig-talude mostra um talude em campo antes da intervenção, com superfície exposta susceptível à erosão, ilustrando a condição típica que demanda reconfiguração geométrica seguida de revegetação.
 
-![Talude em campo antes da intervenção — superfície exposta susceptível à erosão laminar e concentrada, demandando reconfiguração geométrica e revegetação para estabilização.](../img/talude_campo.jpg){#fig-talude fig-alt="Talude em campo" width="80%"}
+![Talude em campo antes da intervenção — superfície exposta susceptível à erosão laminar e concentrada, demandando reconfiguração geométrica e revegetação para estabilização.](../img/talude_campo.jpg){#fig-talude fig-alt="Talude em campo" width="56%"}
 
 ### Princípios
 

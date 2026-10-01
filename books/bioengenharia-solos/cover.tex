@@ -1,7 +1,16 @@
+\usepackage{eso-pic}
 \AtBeginDocument{%
-\thispagestyle{empty}%
-\newgeometry{margin=0pt}%
-\noindent\includegraphics[width=\paperwidth,height=\paperheight]{img/capa_bioengenharia_de_solos.png}%
-\restoregeometry%
-\clearpage%
+  % capa em sangria total na primeira pagina
+  \AddToShipoutPictureBG*{%
+    \put(0,0){\includegraphics[width=\paperwidth,height=\paperheight]{img/capa_bioengenharia_de_solos.png}}%
+  }%
+  \thispagestyle{empty}%
+  \null%
+  \clearpage%
+  % edicao digital: evita paginas em branco de verso
+  \let\cleardoublepage\clearpage%
+  \let\cleardoubleoddpage\clearpage%
+  \let\cleardoubleevenpage\clearpage%
+  \let\cleardoubleoddpageusingstyle\clearpage%
+  \let\cleardoublestandardpage\clearpage%
 }

@@ -1,4 +1,4 @@
-﻿# Geotêxteis no Controle de Erosão {#sec-geotexteis}
+# Geotêxteis no Controle de Erosão {#sec-geotexteis}
 
 ## Geotêxteis
 
@@ -11,7 +11,7 @@ Os geotêxteis são produtos têxteis permeáveis utilizados em contato direto c
 Os geotêxteis podem ser classificados segundo dois critérios fundamentais: o processo de fabricação (que define a estrutura interna e as propriedades mecânicas) e a matéria-prima (que define a durabilidade e a pegada ambiental). A caracterização laboratorial dessas propriedades requer ensaios normatizados conduzidos em equipamentos específicos. A @fig-maquina ilustra uma máquina universal de ensaios mecânicos, utilizada para determinar a resistência à tração e ao puncionamento, enquanto a @fig-camara mostra uma câmara de degradação acelerada que simula envelhecimento por radiação UV e intempéries para avaliar a durabilidade em campo.
 
 ::: {layout-ncol=2}
-![Máquina universal de ensaios — equipamento para medição de resistência à tração e perfuração dos geotêxteis conforme normas ABNT e ASTM.](../img/maquina_ensaio.png){#fig-maquina fig-alt="Máquina universal de ensaios"}
+![Máquina universal de ensaios — equipamento para medição de resistência à tração e perfuração dos geotêxteis conforme normas ABNT e ASTM.](../img/maquina_ensaio.jpg){#fig-maquina fig-alt="Máquina universal de ensaios"}
 
 ![Câmara de degradação acelerada — simulação de envelhecimento UV e intempéries para avaliar durabilidade em condições de exposição contínua.](../img/camara_degradacao.png){#fig-camara fig-alt="Câmara de degradação"}
 :::
@@ -22,7 +22,7 @@ Os geotêxteis tecidos são fabricados pelo entrelaçamento de fibras em trama r
 
 ### Por Matéria-Prima
 
-Os geotêxteis sintéticos são fabricados a partir de polímeros derivados do petróleo, principalmente polipropileno (PP), poliéster (PET) e polietileno (PE), com durabilidade de 50–100+ anos em condições de aterramento (ausência de UV). Os geotêxteis naturais (ou biogeotêxteis) são fabricados a partir de fibras vegetais como coco, juta, sisal e taboa (*Typha*), com tempo de biodegradação de 1–5 anos conforme a fibra e as condições ambientais (ver @sec-biotexteis). A biodegradabilidade não é uma desvantagem, mas uma característica de projeto: em aplicações de controle de erosão, o geotêxtil deve durar apenas o tempo necessário para o estabelecimento da cobertura vegetal (tipicamente 6–24 meses), após o qual a vegetação assume a função protetora e o material se incorpora ao solo como matéria orgânica.
+Os geotêxteis sintéticos são fabricados a partir de polímeros derivados do petróleo, principalmente polipropileno (PP), poliéster (PET) e polietileno (PE), com durabilidade de 50–100+ anos em condições de aterramento (ausência de UV). Os geotêxteis naturais (ou biogeotêxteis) são fabricados a partir de fibras vegetais como coco, juta, sisal e taboa (*Typha*), com tempo de biodegradação de 1–5 anos conforme a fibra e as condições ambientais (ver @sec-biotexteis). A biodegradabilidade constitui característica de projeto, uma vez que em aplicações de controle de erosão o geotêxtil deve durar apenas o tempo necessário para o estabelecimento da cobertura vegetal, tipicamente 6–24 meses, após o qual a vegetação assume a função protetora e o material se incorpora ao solo como matéria orgânica. A velocidade dessa biodegradação é governada pela arquitetura química da fibra, em particular pela razão entre lignina e celulose, cuja determinação experimental é apresentada em @sec-biotexteis [@holanda_2026_weibull_inpress].
 
 ## Funções Geotécnicas
 
@@ -69,7 +69,7 @@ que garante a passagem de água sem acúmulo de poropressões (critério de perm
 
 A experiência de campo no Baixo São Francisco constitui um dos estudos de caso mais abrangentes sobre biogeotêxteis em ambiente tropical no Brasil. A aplicação de biotêxteis de fibras de coco, juta e sisal na proteção de taludes marginais do rio São Francisco em Sergipe e Alagoas, monitorada ao longo de múltiplos ciclos hidrológicos, demonstrou resultados expressivos. A @fig-coleta apresenta a coleta de dados em campo, ilustrando o protocolo de monitoramento da performance dos geotêxteis em taludes marginais sujeitos à variação de nível do rio. Os resultados indicaram redução de 90–95% na perda de solo no primeiro ano de instalação, cobertura vegetal superior a 80% em 90 dias sob biomantas de fibra de coco, biodegradação controlada em 2–5 anos (período suficiente para o pleno estabelecimento vegetal) e custo 40–60% inferior ao gabião metálico para a mesma extensão protegida.
 
-![Coleta de dados em campo no Baixo São Francisco — monitoramento da performance dos geotêxteis em taludes marginais do rio.](../img/coleta_campo.png){#fig-coleta fig-alt="Coleta de campo no Baixo São Francisco" width="80%"}
+![Coleta de dados em campo no Baixo São Francisco — monitoramento da performance dos geotêxteis em taludes marginais do rio.](../img/coleta_campo.jpg){#fig-coleta fig-alt="Coleta de campo no Baixo São Francisco" width="80%"}
 
 ## Ensaios Normatizados
 
@@ -88,5 +88,5 @@ A caracterização dos geotêxteis é regulamentada por normas técnicas da ABNT
 
 ::: {.callout-note}
 ## Tendência
-A substituição progressiva de geossintéticos sintéticos por naturais (biogeotêxteis) em aplicações de controle de erosão é uma tendência global alinhada com os princípios de economia circular e soluções baseadas na natureza (ver @sec-nbs). Em aplicações temporárias (proteção de taludes durante o estabelecimento vegetal), a biodegradabilidade do biogeotêxtil é uma vantagem funcional, não uma limitação.
+A substituição progressiva de geossintéticos sintéticos por naturais (biogeotêxteis) em aplicações de controle de erosão é uma tendência global alinhada com os princípios de economia circular e soluções baseadas na natureza (ver @sec-nbs). Em aplicações temporárias, como a proteção de taludes durante o estabelecimento vegetal, a biodegradabilidade do biogeotêxtil opera como vantagem funcional, porque sincroniza o fim da vida útil do material com o início da função protetora da vegetação.
 :::

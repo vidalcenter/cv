@@ -37,16 +37,16 @@ Mis libros y ebooks, disponibles en formato digital.
 <div class="book-card">
   <div class="book-cover">
     <a href="../books/bioengenharia-solos/">
-      <img src="../books/bioengenharia-solos/img/capa_bioengenharia_de_solos.png" alt="Portada del ebook Bioingeniería de Suelos en Regiones Tropicales">
+      <img src="../books/bioengenharia-solos/img/capa_bioengenharia_de_solos.png" alt="Portada del ebook Soluciones Basadas en la Naturaleza para Bioingeniería de Agua y Suelo">
     </a>
   </div>
   <div class="book-info">
-    <p class="book-author">Luiz Diego Vidal Santos</p>
-    <h4 class="book-title">Bioingeniería de Suelos en Regiones Tropicales</h4>
-    <p class="book-subtitle">Fundamentos, Técnicas y Aplicaciones</p>
-    <p class="book-desc">Manual técnico-científico con 21 capítulos organizados en 4 partes, abarcando desde fundamentos de formación de suelos y erosión hasta técnicas de estabilización con materiales vivos, innovaciones en geotextiles y biopolímeros superabsorbentes. Incluye ecuaciones de dimensionamiento, tablas comparativas y estudios de caso.</p>
+    <p class="book-author">Organizadores: Luiz Diego Vidal Santos, Francisco Sandro Rodrigues Holanda y Emersson Guedes da Silva</p>
+    <h4 class="book-title">Soluciones Basadas en la Naturaleza para Bioingeniería de Agua y Suelo</h4>
+    <p class="book-subtitle">Fundamentos, Técnicas y Protocolos para Regiones Tropicales</p>
+    <p class="book-desc">Libro de texto con 26 capítulos organizados en 6 partes, desde el encuadre conceptual de las soluciones basadas en la naturaleza hasta los fundamentos de suelo, agua y erosión, las técnicas de estabilización con materiales vivos, los biomateriales y la escala de cuenca. Incluye el protocolo hidrogeotécnico de dimensionamiento de empalizadas permeables, la caracterización fisicoquímica de fibras naturales, ejemplos resueltos de dimensionamiento, listas de verificación de campo y preguntas de estudio.</p>
     <div class="book-meta">
-      <span><i class="bi bi-journal-text"></i> 21 capítulos</span>
+      <span><i class="bi bi-journal-text"></i> 26 capítulos</span>
       <span><i class="bi bi-unlock"></i> CC BY-NC-SA 4.0</span>
     </div>
     <div class="book-actions">

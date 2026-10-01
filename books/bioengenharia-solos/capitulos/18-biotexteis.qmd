@@ -1,4 +1,4 @@
-﻿# Biotêxteis de Fibras Vegetais {#sec-biotexteis}
+# Biotêxteis de Fibras Vegetais {#sec-biotexteis}
 
 ## Biotêxteis
 
@@ -14,11 +14,11 @@ Os biotêxteis são geotêxteis fabricados exclusivamente a partir de fibras veg
 
 ### Desenvolvimento
 
-O geotêxtil tecido tipo *geogrid* de taboa é uma inovação protegida por patente INPI BR1020230222110 (concedida 2025), desenvolvida pelo autor e colaboradores. A taboa (*Typha domingensis* Pers.) é uma macrófita aquática cosmopolita que coloniza áreas úmidas, várzeas e margens de reservatórios em todo o território brasileiro, frequentemente considerada planta invasora por sua capacidade de rápida proliferação vegetativa. O aproveitamento de suas folhas fibrosas como matéria-prima para biotêxteis transforma um passivo ambiental (biomassa invasora) em insumo produtivo com valor agregado.
+O geotêxtil tecido tipo *geogrid* de taboa é uma inovação protegida por patente INPI BR1020230222110, concedida em 2025, desenvolvida pelo autor e colaboradores e descrita em divulgação técnica dedicada [@santos_et_al_2024_geogrid_typha]. A taboa (*Typha domingensis* Pers.) é uma macrófita aquática cosmopolita que coloniza áreas úmidas, várzeas e margens de reservatórios em todo o território brasileiro, frequentemente considerada planta invasora por sua capacidade de rápida proliferação vegetativa. O aproveitamento de suas folhas fibrosas como matéria-prima para biotêxteis transforma um passivo ambiental (biomassa invasora) em insumo produtivo com valor agregado.
 
 ### Características
 
-O geotêxtil de taboa é produzido a partir de folhas de *Typha domingensis* Pers., que são colhidas, secas e tramadas em padrão tela simples (*plain weave*) formando uma malha aberta tipo geogrid com abertura ajustável de 10–30 mm. A abertura da malha é um parâmetro de projeto definido em função da granulometria do solo a ser protegido e da função desejada (aberturas menores para filtração, maiores para intertravamento mecânico). A massa por área varia de 300 a 800 g/m² (ajustável pela espessura e espaçamento das fibras), a resistência à tração situa-se entre 2 e 8 kN/m (inferior aos sintéticos, mas adequada para proteção superficial e reforço leve), e a biodegradação ocorre em 12–36 meses, controlável por tratamento com bioresinas que retardam a decomposição sem comprometer a compostabilidade final.
+O geotêxtil de taboa é produzido a partir de folhas de *Typha domingensis* Pers., que são colhidas, secas e tramadas em padrão tela simples (*plain weave*) formando uma malha aberta tipo geogrid com abertura ajustável de 10–30 mm. A abertura da malha é um parâmetro de projeto definido em função da granulometria do solo a ser protegido e da função desejada (aberturas menores para filtração, maiores para intertravamento mecânico). A massa por área varia de 300 a 800 g/m² (ajustável pela espessura e espaçamento das fibras), a resistência à tração situa-se entre 2 e 8 kN/m (inferior aos sintéticos, mas adequada para proteção superficial e reforço leve), e a biodegradação ocorre em 12–36 meses, controlável por tratamento com bioresinas que retardam a decomposição sem comprometer a compostabilidade final. A base físico-química desse comportamento, abrangendo composição lignocelulósica, assinatura espectroscópica, estabilidade térmica e confiabilidade mecânica das fibras, é apresentada adiante neste capitulo.
 
 ### Mecanismo de Intertravamento
 
@@ -35,6 +35,50 @@ onde $c_a$ é a adesão aparente na interface (kPa), $\sigma_n$ é a tensão nor
 ### Vantagens
 
 O geotêxtil de taboa apresenta um conjunto de vantagens que o posicionam como alternativa competitiva aos geotêxteis de fibra de coco (padrão de mercado para biotêxteis). A matéria-prima é abundante em todo o território brasileiro (Typha coloniza áreas úmidas naturais e antropizadas), e sua colheita regular funciona como controle biológico de uma espécie invasora. O custo de produção é 50–70% inferior ao dos geotêxteis sintéticos equivalentes, com pegada de carbono negativa (a planta sequestra CO₂ durante o crescimento e o material se decompõe sem liberar microplásticos). A produção pode ser descentralizada em comunidades rurais, gerando renda local e valorização de áreas úmidas atualmente subutilizadas.
+
+## Caracterização físico-química das fibras
+
+A classificação de um material natural para uso em geotêxteis exige, antes de qualquer ensaio mecânico, a determinação da sua arquitetura química, porque a composição lignocelulósica governa simultaneamente a rigidez inicial, a afinidade pela água e a velocidade de degradação em campo. Os dados reunidos nesta seção provêm dos ensaios conduzidos pelo grupo de Bioengenharia de Solos da Universidade Federal de Sergipe em fibras de taboa (*Typha domingensis*), junco (*Eleocharis* sp.), ouricuri (*Syagrus coronata*) e rami (*Boehmeria nivea*), nas mesmas condições tropicais tratadas neste livro [@holanda_2024_naoh_typha; @holanda_2024_resistance_of_the_fiber_der; @santos_2025_analysis_of_fracture_charact; @holanda_2026_weibull_inpress].
+
+### Composição lignocelulósica e razão lignina/celulose
+
+A fração celulósica responde pela resistência à tração e pela rigidez da fibra, a hemicelulose constitui a fase amorfa preferencialmente atacada por hidrólise e por radicais foto-oxidativos, e a lignina atua como barreira natural à radiação ultravioleta e à colonização microbiológica. A razão entre lignina e celulose, designada razão L/C, sintetiza esse arranjo em um único indicador de durabilidade esperada (@tbl-composicao-fibras).
+
+| Espécie | Celulose (%) | Hemicelulose (%) | Lignina (%) | Razão L/C | Implicação funcional |
+|---|:---:|:---:|:---:|:---:|---|
+| *Typha domingensis* (taboa) | ~48 | n.d. | ~22 | 0,46 | Barreira ultravioleta natural elevada, com rigidez moderada |
+| *Agave sisalana* (sisal) | ~65 | ~12 | ~10 | 0,15 | Rigidez estrutural superior, com menor proteção ultravioleta intrínseca |
+
+: Composição lignocelulósica e razão lignina/celulose das fibras caracterizadas pelo grupo de pesquisa, com a implicação funcional de cada arranjo químico [@holanda_2026_weibull_inpress; @ferraz_almeida_silva_2025_sisal]. {#tbl-composicao-fibras .striped .hover}
+
+A leitura comparativa da @tbl-composicao-fibras tem consequência direta de formulação. A razão L/C de 0,46 da taboa confere proteção intrínseca à radiação ultravioleta que a fibra de sisal, com razão de 0,15, não possui, de modo que geocompostos formulados com sisal demandam maior proporção de resina protetora ou a incorporação de bloqueador ultravioleta natural para alcançar a mesma janela de vida útil. A maior fração celulósica do sisal, por sua vez, confere rigidez estrutural superior ao núcleo, propriedade vantajosa quando a função exigida é reforço estrutural em lugar de proteção superficial.
+
+### Identificação espectroscópica por FTIR
+
+A espectroscopia no infravermelho por transformada de Fourier confirma a integridade das frações poliméricas após o processamento mecânico e estabelece a linha de base contra a qual alterações por fotodegradação podem ser avaliadas. O espectro de transmitância das fibras de *T. domingensis* processadas mecanicamente exibe o estiramento O--H em banda larga centrada em 3340 cm^-1^, os modos de estiramento C--H assimétrico e simétrico em 2918 e 2850 cm^-1^, a absorção de carbonila C=O em 1735 cm^-1^ atribuída a grupos acetil da hemicelulose e a ligações éster da lignina, as vibrações do esqueleto aromático da lignina em 1605 e 1510 cm^-1^, e o estiramento glicosídico C--O--C em 1030 cm^-1^, característico da celulose [@santos_2025_analysis_of_fracture_charact]. A resolução nítida do pico em 1735 cm^-1^ indica que as frações polissacarídicas amorfas permaneceram quimicamente intactas após a rota de desfibramento mecânico, resultado que valida o processamento adotado na produção artesanal.
+
+### Estabilidade térmica por análise termogravimétrica
+
+O perfil termogravimétrico das mesmas fibras revela três estágios de perda de massa consistentes com fibras naturais ricas em lignina. A perda de umidade ocorre abaixo de 105 °C, seguida por um ombro de decomposição da hemicelulose entre 220 e 300 °C e por um pico dominante de degradação da celulose no intervalo de 310 a 380 °C, com temperatura de início de degradação próxima de 220 °C [@santos_2025_analysis_of_fracture_charact]. A posição desses limiares bem acima da temperatura máxima de processamento usualmente empregada, de 105 °C na secagem em estufa, confirma a integridade térmica da matriz fibrosa e fornece o perfil de referência dos biopolímeros constituintes antes de qualquer exposição ambiental.
+
+### Efeito do tratamento alcalino
+
+O tratamento com hidróxido de sódio remove frações amorfas de lignina e hemicelulose da superfície da fibra, elevando a cristalinidade da fase celulósica e, com ela, a rigidez, com a contrapartida de redução da flexibilidade [@holanda_2024_naoh_typha]. Fibras de *T. domingensis* tratadas em soluções alcalinas a 3%, 6% e 9% e expostas por 180 dias em taludes experimentais mantiveram estabilidade ao longo de todo o período, demonstrando resiliência à degradação de campo superior a 180 dias, ainda que com redução inicial de resistência em relação ao controle não tratado.
+
+A escolha da concentração constitui, portanto, decisão de projeto condicionada pela função exigida do geotêxtil. A concentração de 6% maximizou a resistência à tração, posicionando-se como escolha preferencial para geotêxteis biodegradáveis destinados a reforço. Concentrações de 6% a 9% são recomendadas quando a resistência à punção é determinante, condição corrente em geotêxteis para controle de erosão submetidos a impacto e ao tráfego de implantação. A concentração de 3% preserva a deformabilidade ao longo dos 180 dias de exposição, comportamento desejável em tramas que precisam acompanhar a deformação do solo sem ruptura frágil [@holanda_2024_naoh_typha].
+
+### Confiabilidade mecânica e janela de vida útil
+
+A avaliação da vida útil funcional de um biotêxtil exige tratamento probabilístico, porque a ruptura de materiais fibrosos é governada pela distribuição espacial de defeitos críticos, condição em que um valor único de resistência descreve mal o comportamento do material. A distribuição de Weibull fornece esse tratamento, com o parâmetro de forma $\beta$ medindo a dispersão da propriedade e o parâmetro de escala $\eta$ representando a resistência característica.
+
+Em biocompósito multicamada montado com núcleo de *T. domingensis* e grade estrutural de *B. nivea*, ambos impregnados com resina de poliuretano de óleo de mamona e submetidos a 120 ciclos de envelhecimento acelerado, totalizando 720 h de exposição com aproximadamente 570 h de radiação ultravioleta efetiva, a resistência à tração permaneceu estável em média de 2,92 kN m^-1^, enquanto a capacidade de deformação declinou de modo significativo, resultado que identifica a ductilidade como a propriedade mais sensível à fotodegradação [@holanda_2026_weibull_inpress]. A análise de confiabilidade forneceu parâmetro de forma de 3,477 para a resistência à tração e de 2,217 para a deformação de ruptura, com resistência característica à punção de 1.784,19 N e percentil de 10% em 1.077,54 N. A resistência à punção não apresentou degradação temporal significativa, com coeficiente de variação de 8,67% em 90 ciclos contra 10,3--49,5% nos parâmetros de tração, comportamento que reflete falha mais uniforme sob carregamento multiaxial.
+
+::: {.callout-important}
+## Janela funcional de 60 ciclos
+O biocompósito preservou mais de 85% da resistência inicial à punção e desempenho estável de tração ao longo dos primeiros 60 ciclos, equivalentes a cerca de dois meses de exposição de campo, intervalo que define a janela de adequação funcional verificada em laboratório [@holanda_2026_weibull_inpress]. A correspondência entre essa janela e o período crítico de estabelecimento da cobertura vegetal é o critério que deve orientar a especificação do material, uma vez que o biotêxtil precisa manter integridade até que a vegetação assuma a função protetora, conforme a lógica de transição funcional discutida em @sec-introducao.
+:::
+
+Comparações entre geotêxteis de *T. domingensis*, *Eleocharis* sp. e *S. coronata* sob resina impermeabilizante indicam que a composição da fibra e o revestimento condicionam conjuntamente a trajetória de perda de resistência, com a degradação microbiológica e a foto-oxidação atuando de modo complementar conforme o tempo de exposição [@santos_2025_analysis_of_fracture_charact; @holanda_2025_syagrus_waterproof; @holanda_santos_melo_2025_influence]. Ensaios de degradação de campo com geotêxtil de taboa confirmam que a perda de resistência à tração acompanha o tempo de exposição de maneira progressiva, sem ruptura abrupta, condição favorável ao planejamento de reposição programada [@holanda_2024_resistance_of_the_fiber_der].
 
 ## Geocomposto Híbrido
 

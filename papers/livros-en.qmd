@@ -37,16 +37,16 @@ My books and ebooks, available in digital format.
 <div class="book-card">
   <div class="book-cover">
     <a href="../books/bioengenharia-solos/">
-      <img src="../books/bioengenharia-solos/img/capa_bioengenharia_de_solos.png" alt="Cover of Soil Bioengineering in Tropical Regions ebook">
+      <img src="../books/bioengenharia-solos/img/capa_bioengenharia_de_solos.png" alt="Cover of the Nature-based Solutions for Soil and Water Bioengineering ebook">
     </a>
   </div>
   <div class="book-info">
-    <p class="book-author">Luiz Diego Vidal Santos</p>
-    <h4 class="book-title">Soil Bioengineering in Tropical Regions</h4>
-    <p class="book-subtitle">Fundamentals, Techniques and Applications</p>
-    <p class="book-desc">Technical-scientific manual with 21 chapters organized in 4 parts, ranging from soil formation fundamentals and erosion to stabilization techniques with living materials, innovations in geotextiles and superabsorbent biopolymers. Includes sizing equations, comparative tables and case studies.</p>
+    <p class="book-author">Editors: Luiz Diego Vidal Santos, Francisco Sandro Rodrigues Holanda and Emersson Guedes da Silva</p>
+    <h4 class="book-title">Nature-based Solutions for Soil and Water Bioengineering</h4>
+    <p class="book-subtitle">Fundamentals, Techniques and Protocols for Tropical Regions</p>
+    <p class="book-desc">Textbook with 26 chapters organized in 6 parts, from the conceptual framing of nature-based solutions to the fundamentals of soil, water and erosion, stabilization techniques with living materials, biomaterials and catchment-scale design. Includes the hydrogeotechnical design protocol for permeable bamboo check-dams, physicochemical characterization of natural fibers, worked sizing examples, field verification checklists and study questions.</p>
     <div class="book-meta">
-      <span><i class="bi bi-journal-text"></i> 21 chapters</span>
+      <span><i class="bi bi-journal-text"></i> 26 chapters</span>
       <span><i class="bi bi-unlock"></i> CC BY-NC-SA 4.0</span>
     </div>
     <div class="book-actions">

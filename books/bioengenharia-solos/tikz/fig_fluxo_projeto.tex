@@ -1,0 +1,66 @@
+\documentclass[border=8pt,tikz]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric,calc,fit,backgrounds,decorations.pathreplacing}
+
+\definecolor{verdeEsc}{HTML}{1B5E20}
+\definecolor{verde}{HTML}{2E7D32}
+\definecolor{verdeClaro}{HTML}{EDF5EE}
+\definecolor{verdeMed}{HTML}{CFE6D2}
+\definecolor{azul}{HTML}{1565C0}
+\definecolor{azulClaro}{HTML}{E3EEFA}
+\definecolor{laranja}{HTML}{E65100}
+\definecolor{laranjaClaro}{HTML}{FBE9D8}
+\definecolor{ambar}{HTML}{B07300}
+\definecolor{ambarClaro}{HTML}{FBF3DA}
+\definecolor{vermelho}{HTML}{B3261E}
+\definecolor{vermelhoClaro}{HTML}{F8E2E0}
+\definecolor{cinza}{HTML}{4A5560}
+
+\tikzset{
+  caixa/.style={draw=verde, fill=verdeClaro, rounded corners=1.5pt, line width=.6pt,
+                align=center, inner sep=4pt, font=\small, minimum height=9mm},
+  destaque/.style={caixa, fill=verdeMed, draw=verdeEsc, line width=1pt},
+  raiz/.style={caixa, fill=verde, draw=verdeEsc, text=white, line width=1pt, font=\small\bfseries},
+  decisao/.style={draw=ambar, fill=ambarClaro, diamond, aspect=1.7, align=center,
+                  inner sep=1pt, font=\footnotesize, line width=.6pt},
+  azulbox/.style={caixa, fill=azulClaro, draw=azul},
+  laranjabox/.style={caixa, fill=laranjaClaro, draw=laranja},
+  vermelhobox/.style={caixa, fill=vermelhoClaro, draw=vermelho},
+  seta/.style={-{Latex[length=2.4mm,width=1.8mm]}, draw=cinza, line width=.6pt},
+  setaverde/.style={seta, draw=verdeEsc},
+  setavermelha/.style={seta, draw=vermelho},
+  rot/.style={font=\scriptsize, inner sep=1.5pt, fill=white},
+  grupo/.style={draw=cinza, dashed, rounded corners=3pt, line width=.5pt, inner sep=7pt},
+  titulogrupo/.style={font=\footnotesize\bfseries, text=cinza}
+}
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\tolerance=9999
+\emergencystretch=3em
+
+\begin{document}
+
+\begin{tikzpicture}[node distance=7mm]
+  \node[caixa, text width=38mm] (A) {1. Diagnóstico\\ {\scriptsize campo e SIG}};
+  \node[caixa, text width=38mm, below=7mm of A] (B) {2. Classificação\\ de feições erosivas};
+  \node[caixa, text width=38mm, below=7mm of B] (C) {3. Seleção\\ de técnicas};
+  \node[caixa, text width=38mm, below=7mm of C] (D) {4. Dimensionamento\\ de estruturas};
+  \node[caixa, text width=38mm, below=7mm of D] (E) {5. Projeto executivo};
+  \node[caixa, text width=38mm, below=7mm of E] (F) {6. Implantação};
+  \node[caixa, text width=38mm, below=7mm of F] (G) {7. Monitoramento\\ e manutenção};
+  \node[decisao, below=9mm of G, text width=16mm] (H) {Metas\\ atingidas?};
+  \node[destaque, text width=32mm, below=9mm of H] (J) {Consolidação\\ e entrega};
+  \node[vermelhobox, text width=32mm, right=24mm of H] (I) {Gestão adaptativa};
+
+  \foreach \i/\j in {A/B,B/C,C/D,D/E,E/F,F/G,G/H} {\draw[seta] (\i) -- (\j);}
+  \draw[setaverde] (H) -- node[rot, right] {sim} (J);
+  \draw[setavermelha] (H) -- node[rot, above] {não} (I);
+  \draw[setavermelha, dashed] (I.north) |- ([yshift=0mm]C.east);
+\end{tikzpicture}
+
+\end{document}

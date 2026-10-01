@@ -1,4 +1,4 @@
-﻿# Bacias de Captação e Barraginhas {#sec-bacias-captacao}
+# Bacias de Captação e Barraginhas {#sec-bacias-captacao}
 
 ## Bacias de Captação
 
@@ -15,7 +15,7 @@ As bacias de captação desempenham quatro funções hidrológicas e geomorfoló
 A @fig-barraginha2 permite observar o funcionamento hidráulico da bacia após um evento chuvoso, com a água retida infiltrando gradualmente no solo, enquanto a @fig-mapa-decliv demonstra como o planejamento espacial das barraginhas é orientado por critérios topográficos, com a declividade do terreno determinando o espaçamento e o posicionamento ideal das estruturas.
 
 ::: {layout-ncol=2}
-![Detalhe de barraginha após chuva — a água é retida e infiltra gradualmente no solo.](../img/barraginha_2.jpg){#fig-barraginha2 fig-alt="Barraginha após chuva"}
+![Barraginha logo após um evento de chuva, com a lâmina represada no fundo da bacia e o canal de entrada marcado pelo sedimento depositado, o que mostra a retenção do escoamento antes que ele alcance o talvegue.](../img/barraginha_apos_chuva.jpg){#fig-barraginha2 fig-alt="Barraginha após chuva"}
 
 ![Mapa de declividade para planejamento de barraginhas — a localização é definida por critérios topográficos.](../img/mapa_declividade.jpg){#fig-mapa-decliv fig-alt="Mapa de declividade"}
 :::

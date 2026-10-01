@@ -1,4 +1,4 @@
-﻿# Solos Tropicais: Formação e Propriedades {#sec-solos-tropicais}
+# Solos Tropicais: Formação e Propriedades {#sec-solos-tropicais}
 
 ## O Solo como Sistema Aberto
 
@@ -10,7 +10,7 @@ Em regiões tropicais, a intensidade dessas trocas é amplificada pela temperatu
 
 A formação do solo é um fenômeno complexo cuja compreensão exige considerar múltiplos fatores atuando simultaneamente. A equação fatorial proposta por @jenny1941 sintetiza esse entendimento, conforme ilustrado na @fig-jenny.
 
-![Fatores de formação do solo segundo Jenny (1941): Clima, Organismos, Relevo, Material de Origem e Tempo.](../img/jenny_fatores.png){#fig-jenny fig-alt="Diagrama dos fatores de formação do solo de Jenny" width="80%"}
+![Os cinco fatores de formação atuando sobre uma mesma vertente, com **(a)** o clima, que impõe o regime de água e de temperatura, **(b)** os organismos, que incorporam carbono e revolvem o perfil, **(c)** o relevo, que redistribui água e sedimento ao longo da encosta, **(d)** o material de origem, que fornece os minerais primários, e **(e)** o tempo, que integra os demais fatores; note que o manto de alteração adelgaça no topo convexo e espessa na meia-encosta, onde a água permanece mais tempo em contato com o material.](../img/jenny_fatores.jpg){#fig-jenny fig-alt="Diagrama dos fatores de formação do solo de Jenny" width="85%"}
 
 Matematicamente, qualquer propriedade do solo ($S$) pode ser expressa como função dos cinco fatores de formação:
 
@@ -31,7 +31,7 @@ O acrônimo ClORPT é uma forma didática de memorizar os fatores de formação 
 
 Para entender por que os solos tropicais são tão diferentes dos solos de regiões frias, é útil pensar no solo como um reator biogeoquímico, conforme esquematizado na @fig-reator.
 
-![O solo como reator biogeoquímico: processos simultâneos de adição, remoção, transformação e translocação.](../img/reator_biogeoquimico.png){#fig-reator fig-alt="Esquema do solo como reator biogeoquímico" width="80%"}
+![O solo tratado como reator, em bloco seccionado onde **(a)** marca as entradas de água, serapilheira e gases pela superfície, **(b)** as transformações que ocorrem dentro do volume, **(c)** a translocação de material entre horizontes e **(d)** as saídas por percolação na base e por fluxo lateral na face exposta.](../img/reator_biogeoquimico.jpg){#fig-reator fig-alt="Esquema do solo como reator biogeoquímico" width="68%"}
 
 Neste reator, quatro processos fundamentais operam simultaneamente. O processo de adição incorpora matéria orgânica pela deposição de serrapilheira, poeira atmosférica e solutos trazidos pela chuva. O processo de remoção retira material por lixiviação (percolação de água que dissolve e carrega íons), erosão superficial e extração por colheitas agrícolas. A transformação converte minerais primários em minerais secundários (argilas e óxidos) por reações de hidrólise, oxidação e redução, além de decompor matéria orgânica em húmus. Por fim, a translocação redistribui materiais internamente, movendo argilas de horizontes superiores para inferiores (fenômeno chamado eluviação/iluviação) e revolvendo o solo por atividade de organismos (bioturbação por minhocas, cupins e formigas).
 
@@ -43,11 +43,11 @@ Um conceito essencial para quem projeta intervenções de bioengenharia é o de 
 
 A @fig-perfil apresenta um perfil típico de solo tropical, onde é possível observar a transição gradual desde a matéria orgânica superficial até o material parental inalterado em profundidade.
 
-![Perfil de solo tropical com horizontes bem definidos, mostrando a transição da matéria orgânica superficial até a rocha-mãe.](../img/perfil_solo.jpg){#fig-perfil fig-alt="Perfil de solo tropical com horizontes" width="70%"}
+![Perfil de um solo tropical profundo com escala métrica até dois metros, no qual **(a)** é o horizonte orgânico superficial, **(b)** o horizonte A escurecido pela matéria orgânica, **(c)** o horizonte B espesso e homogêneo, cuja ausência de contraste textural é o traço que define o solo bem evoluído, e **(d)** o horizonte C com fragmentos da rocha em alteração.](../img/perfil_solo.jpg){#fig-perfil fig-alt="Perfil de solo tropical com horizontes" width="68%"}
 
 A representação esquemática dos horizontes e suas transições é detalhada na @fig-horizontes, que permite visualizar as nomenclaturas padronizadas utilizadas em levantamentos de solo.
 
-![Representação esquemática dos horizontes do solo e suas transições.](../img/horizontes_solo.jpg){#fig-horizontes fig-alt="Esquema dos horizontes do solo" width="70%"}
+![Sequência completa de horizontes usada como referência na descrição de campo, com **(a)** a serapilheira ainda reconhecível, **(b)** o horizonte A, **(c)** o horizonte E empobrecido pela eluviação, **(d)** o horizonte B de acumulação, onde as películas de argila revestem as faces dos agregados, **(e)** o horizonte C de saprolito e **(f)** a rocha consolidada.](../img/horizontes_solo.jpg){#fig-horizontes fig-alt="Esquema dos horizontes do solo" width="85%"}
 
 O perfil típico de um solo tropical bem drenado apresenta a sequência descrita na @tbl-perfil. Note que a espessura total do perfil pode ultrapassar 10 metros em Latossolos, enquanto em Neossolos Litólicos (solos rasos de encostas íngremes) pode ser inferior a 50 cm, condição que exige estratégias de bioengenharia completamente distintas.
 
@@ -61,7 +61,7 @@ O perfil típico de um solo tropical bem drenado apresenta a sequência descrita
 
 : Perfil esquemático de um solo tropical profundo (Latossolo). {#tbl-perfil .striped}
 
-![Carta de cores de Munsell — ferramenta padrão para determinação objetiva da cor do solo em campo, utilizada na descrição morfológica de horizontes.](../img/cores_munsell.jpg){#fig-munsell fig-alt="Carta de cores de Munsell para descrição de solos" width="70%"}
+![A notação de Munsell organizada como sistema de três coordenadas, em que **(a)** é o arco de matiz que percorre as famílias de cor, **(b)** o eixo vertical de valor, do preto ao branco, e **(c)** o eixo radial de croma, que mede o afastamento do cinza neutro; ao lado, a página da caderneta mostra como a amostra é comparada por trás das aberturas até que a correspondência seja encontrada.](../img/cores_munsell.jpg){#fig-munsell fig-alt="Carta de cores de Munsell para descrição de solos" width="85%"}
 
 Para a bioengenharia, a distinção entre horizontes é crítica. O horizonte A, rico em matéria orgânica e raízes, é o que se busca preservar ou reconstituir. O horizonte B, frequentemente espesso e laterizado, pode apresentar coesão aparente (estável quando seco, mas colapsável quando saturado), o que torna fundamental o controle da drenagem superficial e subsuperficial. Quando a erosão atinge o horizonte C ou mesmo o R, a recuperação é muito mais complexa e onerosa.
 
@@ -71,7 +71,7 @@ Para a bioengenharia, a distinção entre horizontes é crítica. O horizonte A,
 
 A textura do solo (proporção relativa de areia, silte e argila) é uma das propriedades mais importantes para o projeto de bioengenharia, pois influencia diretamente a erodibilidade, a capacidade de infiltração e a resistência ao cisalhamento. A classificação textural é realizada com auxílio do triângulo textural, apresentado na @fig-triangulo.
 
-![Triângulo textural para classificação de solos segundo a proporção de areia, silte e argila.](../img/triangulo_textural.jpg){#fig-triangulo fig-alt="Triângulo textural de classificação de solos" width="65%"}
+![Triângulo textural adotado pela Sociedade Brasileira de Ciência do Solo, em que a classe de uma amostra é lida pelo cruzamento das três frações: a percentagem de argila é projetada na escala da esquerda, a de silte na escala da direita e a de areia na base, que cresce da direita para a esquerda. As fronteiras entre classes marcam os limites de comportamento hidráulico e mecânico que interessam ao dimensionamento, e não divisões arbitrárias.](../img/triangulo_textural.jpg){#fig-triangulo fig-alt="Triângulo textural de classificação de solos" width="85%"}
 
 Para interpretar o triângulo textural, localiza-se o ponto de interseção entre as três frações granulométricas (obtidas por ensaio de granulometria em laboratório), e a classe textural resultante orienta as decisões de projeto. Os solos arenosos (fração areia > 70%) apresentam alta taxa de infiltração (> 50 mm/h), porém baixa coesão entre partículas, tornando-os altamente susceptíveis ao desenvolvimento de ravinas por escoamento concentrado. Os solos argilosos (fração argila > 35%), em contrapartida, possuem baixa taxa de infiltração (< 10 mm/h) e alta coesão quando secos, mas oferecem risco de deslizamento quando saturados, pois a água nos poros gera poropressão positiva que reduz a tensão efetiva. Já os solos siltosos são considerados os mais erodíveis, pois combinam baixa coesão entre partículas com baixa permeabilidade, o que gera escoamento superficial intenso capaz de transportar grandes volumes de sedimento.
 
@@ -132,17 +132,13 @@ A relação entre $K_s$ e a intensidade da chuva de projeto ($i$) determina o me
 
 ## Principais Classes de Solos Tropicais
 
-A classificação do solo é uma ferramenta fundamental para o engenheiro que projeta intervenções de bioengenharia, pois cada classe de solo apresenta comportamento geotécnico, erodibilidade e resposta hidrológica distintos. No Brasil, o Sistema Brasileiro de Classificação de Solos (SiBCS) identifica dezenas de classes, mas seis delas concentram a maioria dos desafios enfrentados em projetos de estabilização e controle de erosão. A @fig-latossolo e a @fig-argissolo ilustram as duas classes mais frequentes em projetos de bioengenharia no Brasil tropical.
+A classificação do solo é uma ferramenta fundamental para o engenheiro que projeta intervenções de bioengenharia, pois cada classe de solo apresenta comportamento geotécnico, erodibilidade e resposta hidrológica distintos. No Brasil, o Sistema Brasileiro de Classificação de Solos (SiBCS) identifica dezenas de classes, mas seis delas concentram a maioria dos desafios enfrentados em projetos de estabilização e controle de erosão. A @fig-latossolo-argissolo compara as duas classes mais frequentes em projetos de bioengenharia no Brasil tropical.
 
-::: {layout-ncol=2}
-![Latossolo Amarelo — solo profundo e bem drenado, típico de planaltos tropicais.](../img/latossolo_amarelo.png){#fig-latossolo fig-alt="Perfil de Latossolo Amarelo"}
+![Comparação entre perfis tropicais: **(a)** Latossolo profundo, homogêneo e com estrutura granular; **(b)** Argissolo com transição abrupta para o horizonte B argiloso, estrutura prismática e fluxo lateral na interface.](../img/latossolo_argissolo.jpg){#fig-latossolo-argissolo fig-alt="Comparação técnica entre um perfil homogêneo de Latossolo e um perfil de Argissolo com gradiente textural abrupto" width="85%"}
 
-![Argissolo Vermelho-Amarelo — gradiente textural com risco de deslizamento em encostas.](../img/argissolo.png){#fig-argissolo fig-alt="Perfil de Argissolo Vermelho-Amarelo"}
-:::
+O Latossolo, representado no painel **a** da @fig-latossolo-argissolo, é o solo mais representativo dos planaltos tropicais brasileiros, ocupando cerca de 39% do território nacional. Trata-se de um solo profundo (frequentemente > 5 m), homogêneo, bem drenado e com alta agregação conferida pelos óxidos de ferro e alumínio. Apesar de sua estabilidade estrutural, quando desprovido de cobertura vegetal, o Latossolo é altamente erodível pela exposição direta ao impacto das gotas de chuva, que desagregam os microagregados superficiais. Em projetos de bioengenharia, a prioridade é a proteção da superfície (cobertura vegetal, biomantas, palhada) e a reconstrução da camada orgânica.
 
-O Latossolo (@fig-latossolo) é o solo mais representativo dos planaltos tropicais brasileiros, ocupando cerca de 39% do território nacional. Trata-se de um solo profundo (frequentemente > 5 m), homogêneo, bem drenado e com alta agregação conferida pelos óxidos de ferro e alumínio. Apesar de sua estabilidade estrutural, quando desprovido de cobertura vegetal, o Latossolo é altamente erodível pela exposição direta ao impacto das gotas de chuva, que desagregam os microagregados superficiais. Em projetos de bioengenharia, a prioridade é a proteção da superfície (cobertura vegetal, biomantas, palhada) e a reconstrução da camada orgânica.
-
-O Argissolo (@fig-argissolo) apresenta um gradiente textural acentuado entre os horizontes A e B, com aumento expressivo no teor de argila em profundidade. Esse gradiente cria uma descontinuidade hidráulica que pode gerar lençol suspenso em períodos chuvosos, condição que favorece deslizamentos translacionais. A interface entre os horizontes A e B concentra a maior parte das rupturas, e o projeto de bioengenharia deve priorizar a drenagem subsuperficial e a ancoragem radicular profunda.
+O Argissolo, representado no painel **b** da @fig-latossolo-argissolo, apresenta um gradiente textural acentuado entre os horizontes A e B, com aumento expressivo no teor de argila em profundidade. Esse gradiente cria uma descontinuidade hidráulica que pode gerar lençol suspenso em períodos chuvosos, condição que favorece deslizamentos translacionais. A interface entre os horizontes A e B concentra a maior parte das rupturas, e o projeto de bioengenharia deve priorizar a drenagem subsuperficial e a ancoragem radicular profunda.
 
 A @tbl-classes sintetiza as seis principais classes de solos tropicais e suas implicações para projetos de bioengenharia, servindo como referência rápida para a seleção de técnicas adequadas a cada situação de campo.
 

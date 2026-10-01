@@ -1,4 +1,4 @@
-﻿# Feixes Vivos e Drenos Verdes {#sec-feixes-drenos}
+# Feixes Vivos e Drenos Verdes {#sec-feixes-drenos}
 
 ## Feixes Vivos (*Fascines*)
 
@@ -8,14 +8,14 @@ Os feixes vivos (*fascines* ou *wattle fences*) são amarrados de ramos vivos e 
 
 A grande vantagem dos feixes em relação a cordões de pedra ou leiras de terra é que, sendo compostos por ramos vivos, enraízam e brotam após a instalação, transformando-se progressivamente em sebes vivas que mantêm e até ampliam sua função de barreira ao longo do tempo, sem necessidade de reposição. Essa transição de estrutura morta para estrutura viva é o mecanismo central que confere sustentabilidade à técnica. A @fig-feixes-campo mostra feixes vivos recém-instalados em campo, onde se observam os amarrados de ramos posicionados em valas rasas e fixados com estacas verticais.
 
-![Feixes vivos em campo — amarrados de ramos vivos instalados em valas para interceptar o escoamento e promover a infiltração.](../img/feixes_vivos_campo.jpg){#fig-feixes-campo fig-alt="Feixes vivos instalados em campo" width="80%"}
+![Feixes vivos confeccionados com fibras naturais, mostrando (a) o rolo pronto com o núcleo vegetal confinado, (b) as unidades alinhadas antes do assentamento e (c) a instalação em campo sobre a superfície erodível.](../img/feixe_vivo_campo.jpg){#fig-feixes-campo fig-alt="Feixes vivos instalados em campo" width="80%"}
 
 A @fig-feixe-diagrama apresenta o diagrama em corte transversal do feixe instalado na vala, detalhando as proporções entre profundidade de enterramento, diâmetro do feixe e altura exposta acima da superfície. Já a @fig-estacas mostra em detalhe o material vegetativo utilizado como estacas de fixação, evidenciando os pontos de brotação que garantem o enraizamento futuro da estrutura.
 
 ::: {layout-ncol=2}
-![Diagrama de feixe vivo — vista em corte transversal mostrando a instalação em vala rasa.](../img/feixes_diagrama.png){#fig-feixe-diagrama fig-alt="Diagrama de feixe vivo"}
+![Painel construtivo do feixe vivo, com (a) vista superior e (b) seção transversal do rolo, (c) vista lateral e (d) perspectiva isométrica, (e) detalhe do fechamento da extremidade, (f) seção longitudinal do preenchimento e (g) exemplo de instalação em campo.](../img/feixe_vivo_painel.png){#fig-feixe-diagrama fig-alt="Diagrama de feixe vivo"}
 
-![Estacas vivas detalhadas — material vegetativo utilizado para fixação dos feixes.](../img/estacas_vivas.jpeg){#fig-estacas fig-alt="Estacas vivas para feixes"}
+![Estaca viva enterrada que emitiu brotos após a instalação, condição que define o material como vivo e permite que o feixe passe a ser ancorado por raízes.](../img/estaca_viva_brotacao.jpg){#fig-estacas fig-alt="Estacas vivas para feixes"}
 :::
 
 ### Materiais
@@ -49,7 +49,7 @@ O dreno superficial vegetado consiste em um canal trapezoidal revestido com gram
 
 O dreno subsuperficial biodegradável consiste em um tubo ou camada drenante composta por materiais vegetais (feixes de bambu, cascas de coco, fibras de palmeira) enterrados a 30–60 cm de profundidade, envolvidos em geotêxtil biodegradável (ver @sec-biotexteis). Essa configuração cria uma zona preferencial de percolação que drena o excesso de umidade do solo sem necessidade de tubulação plástica, degradando-se naturalmente em 3–5 anos, período no qual a drenagem se estabelece por caminhos preferenciais consolidados no solo.
 
-![Dispositivo de coluna drenante — esquema construtivo do dreno subsuperficial biodegradável com camadas de materiais vegetais envolvidos em geotêxtil.](../img/dispositivo_coluna.png){#fig-dispositivo-coluna fig-alt="Esquema de dispositivo de coluna drenante biodegradável" width="75%"}
+![Dispositivo de coluna drenante — esquema construtivo do dreno subsuperficial biodegradável com camadas de materiais vegetais envolvidos em geotêxtil.](../img/dispositivo_coluna.png){#fig-dispositivo-coluna fig-alt="Esquema de dispositivo de coluna drenante biodegradável" width="54%"}
 
 ### Dimensionamento do Dreno Superficial
 
@@ -85,6 +85,6 @@ Drenos verdes são especialmente eficazes em áreas periurbanas (loteamentos, ca
 
 A combinação de feixes vivos ao longo de curvas de nível com drenos verdes nos talvegues cria um sistema integrado de manejo de enxurrada que opera em três escalas funcionais complementares. Na escala de encosta, os feixes interceptam o escoamento laminar difuso, reduzindo sua velocidade e promovendo a deposição de sedimentos finos, de modo que a água que atinge os talvegues já chega com menor carga sólida e menor energia cinética. Na escala dos talvegues, os drenos verdes recebem o escoamento concentrado remanescente e o conduzem de forma controlada até o exutório, infiltrando 30–60% do volume e filtrando 50–80% dos sedimentos restantes. Na escala de bacia, a integração dos dois sistemas reduz a conectividade hidrossedimentológica entre as vertentes e os corpos d'água receptores, diminuindo simultaneamente o pico de vazão (amortecimento) e a carga sólida total exportada.
 
-![Arranjo em espinha de peixe (*herringbone*) — disposição espacial dos feixes vivos em curvas de nível combinados com drenos verdes nos talvegues, formando o sistema integrado de manejo de enxurrada.](../img/espinha_peixe.png){#fig-espinha-peixe fig-alt="Diagrama de arranjo em espinha de peixe combinando feixes e drenos" width="80%"}
+![Arranjo em espinha de peixe visto em planta: os feixes vivos são assentados inclinados em relação às curvas de nível, de modo que cada segmento conduz o escoamento laminar para o dreno verde instalado no talvegue, onde a vazão chega concentrada mas já amortecida pela sucessão de barreiras.](../img/fig_espinha_peixe.png){#fig-espinha-peixe fig-alt="Diagrama de arranjo em espinha de peixe combinando feixes e drenos" width="71%"}
 
 A complementaridade dos dois sistemas é sinérgica: os feixes protegem os drenos de obstrução por excesso de sedimentos, enquanto os drenos protegem os feixes de sobrecarga por concentração de escoamento, garantindo que cada componente opere dentro de sua faixa de projeto. Esse arranjo integrado é particularmente eficaz em encostas longas (> 100 m de comprimento de rampa) onde nenhuma das duas técnicas, isoladamente, seria suficiente para controlar o escoamento e a erosão de forma satisfatória.

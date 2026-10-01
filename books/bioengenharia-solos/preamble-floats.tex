@@ -1,0 +1,27 @@
+% ---------------------------------------------------------------------------
+% Controle de posicionamento de figuras e tabelas
+% Mantem os flutuantes proximos do texto que os cita e evita o acumulo de
+% figuras em paginas exclusivas de flutuantes.
+% ---------------------------------------------------------------------------
+\usepackage{float}
+\usepackage[section]{placeins}
+
+% quantos flutuantes o LaTeX aceita por pagina
+\setcounter{topnumber}{2}
+\setcounter{bottomnumber}{1}
+\setcounter{totalnumber}{3}
+
+% fracoes de pagina que podem ser ocupadas por flutuantes
+\renewcommand{\topfraction}{0.85}
+\renewcommand{\bottomfraction}{0.70}
+\renewcommand{\textfraction}{0.10}
+\renewcommand{\floatpagefraction}{0.85}
+
+% espacamento ao redor dos flutuantes
+\setlength{\floatsep}{14pt plus 3pt minus 3pt}
+\setlength{\textfloatsep}{18pt plus 4pt minus 4pt}
+\setlength{\intextsep}{14pt plus 3pt minus 3pt}
+
+% evita quebras de pagina com linhas orfas e viuvas ao redor das figuras
+\widowpenalty=10000
+\clubpenalty=10000

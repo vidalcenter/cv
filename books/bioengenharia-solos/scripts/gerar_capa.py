@@ -1,5 +1,5 @@
 """
-Gera a capa para "Bioengenharia de Solos em Regiões Tropicais"
+Gera a capa para "Soluções Baseadas na Natureza para Bioengenharia de Água e Solo"
 Tema forte em raízes, camadas de solo e sustentação biológica.
 """
 
@@ -149,28 +149,36 @@ def draw_spaced(draw, txt, xc, y, f, fill, sp):
         draw.text((x,y), c, font=f, fill=fill)
         x += w + sp
 
-draw_spaced(draw, "BIOENGENHARIA", W//2, 80, font_t, WHITE, 12)
-draw_spaced(draw, "DE SOLOS", W//2, 185, font_t, c_light_green, 15)
+font_k = get_font("calibri", 42, bold=True)
+draw_spaced(draw, "SOLUÇÕES BASEADAS NA NATUREZA", W//2, 55, font_k, c_light_green, 6)
+draw_spaced(draw, "BIOENGENHARIA", W//2, 120, font_t, WHITE, 12)
+draw_spaced(draw, "DE ÁGUA E SOLO", W//2, 230, font_t, c_light_green, 12)
 
-draw.line([(W//2 - 300, 320), (W//2 + 300, 320)], fill=(c_light_green[0], c_light_green[1], c_light_green[2], 150), width=2)
+draw.line([(W//2 - 300, 365), (W//2 + 300, 365)], fill=(c_light_green[0], c_light_green[1], c_light_green[2], 150), width=2)
 # Subtítulo na box
 sub_bg = Image.new("RGBA", (W, 140), (0,0,0,0))
 ImageDraw.Draw(sub_bg).rounded_rectangle([W//2-500, 5, W//2+500, 135], radius=15, fill=(5,15,10, 180))
-img.paste(Image.alpha_composite(Image.new("RGBA", (W, 140), (0,0,0,0)), sub_bg), (0, 350), sub_bg)
+img.paste(Image.alpha_composite(Image.new("RGBA", (W, 140), (0,0,0,0)), sub_bg), (0, 395), sub_bg)
 draw = ImageDraw.Draw(img)
 
 def center_t(draw, text, y, font, fill):
     bb = font.getbbox(text)
     draw.text(((W-(bb[2]-bb[0]))//2, y), text, font=font, fill=fill)
 
-center_t(draw, "Fundamentos, Técnicas e Soluções", 365, font_st, WHITE)
-center_t(draw, "Baseadas na Natureza", 420, font_st, WHITE)
+center_t(draw, "Fundamentos, Técnicas e Protocolos", 410, font_st, WHITE)
+center_t(draw, "para Regiões Tropicais", 465, font_st, WHITE)
 
-# Autor e detalhes em baixo
-draw.line([(W//2 - 350, 1420), (W//2 + 350, 1420)], fill=c_light_green+(120,), width=2)
-center_t(draw, "Luiz Diego Vidal Santos", 1470, font_a, WHITE)
-center_t(draw, "Universidade Estadual de Feira de Santana", 1545, font_i, SUBTLE)
-center_t(draw, "2026  •  CC BY-NC-SA 4.0", 1610, font_s, SUBTLE)
+# Organizadores e detalhes em baixo
+font_org = get_font("calibri", 44, bold=True)
+font_lbl = get_font("calibri", 28)
+
+draw.line([(W//2 - 350, 1375), (W//2 + 350, 1375)], fill=c_light_green+(120,), width=2)
+draw_spaced(draw, "ORGANIZADORES", W//2, 1400, font_lbl, c_light_green, 5)
+center_t(draw, "Luiz Diego Vidal Santos", 1455, font_org, WHITE)
+center_t(draw, "Francisco Sandro Rodrigues Holanda", 1512, font_org, WHITE)
+center_t(draw, "Emersson Guedes da Silva", 1569, font_org, WHITE)
+center_t(draw, "UEFS  •  UFS", 1640, font_i, SUBTLE)
+center_t(draw, "2026  •  CC BY-NC-SA 4.0", 1700, font_s, SUBTLE)
 
 # Salvar
 out = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "img", "capa_bioengenharia_de_solos.png"))

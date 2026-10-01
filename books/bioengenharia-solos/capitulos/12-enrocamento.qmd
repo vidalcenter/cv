@@ -1,4 +1,4 @@
-﻿# Enrocamento Vegetado {#sec-enrocamento}
+# Enrocamento Vegetado {#sec-enrocamento}
 
 ## Enrocamento Vegetado
 
@@ -9,7 +9,7 @@ O princípio de funcionamento baseia-se na complementaridade temporal entre dois
 ::: {layout-ncol=2}
 ![Enrocamento em margem fluvial — pedras protegem a base enquanto a vegetação se estabelece entre os interstícios.](../img/riprap_rio.jpg){#fig-riprap-rio fig-alt="Enrocamento em margem de rio"}
 
-![Enrocamento vegetado — combinação de proteção mecânica e biológica em estágio avançado de consolidação.](../img/riprap_vegetado.jpg){#fig-riprap-vegetado fig-alt="Enrocamento vegetado consolidado"}
+![Recuperação de margem fluvial no Baixo São Francisco por enrocamento vegetado, com (a) a grade de troncos montada sobre o talude reperfilado, (b) o lançamento das pedras entre as longarinas, (c) a margem protegida logo após a obra e (d) a mesma margem com a cobertura vegetal estabelecida sobre os interstícios.](../img/enrocamento_vegetado_sequencia.jpg){#fig-riprap-vegetado fig-alt="Enrocamento vegetado consolidado"}
 :::
 
 ## Componentes

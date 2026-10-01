@@ -1,10 +1,10 @@
-﻿# Biopolímeros Superabsorventes {#sec-biopolimeros}
+# Biopolímeros Superabsorventes {#sec-biopolimeros}
 
 ## Biopolímeros Superabsorventes
 
 Os biopolímeros superabsorventes (Bio-SAP, do inglês *Superabsorbent Biopolymer*) são materiais de origem vegetal capazes de absorver e reter grandes volumes de água (100–500 vezes seu peso seco), liberando-a gradualmente para a zona radicular das plantas à medida que o potencial matricial do solo diminui por evapotranspiração. Diferentemente dos hidrogéis sintéticos (poliacrilatos de sódio), os Bio-SAPs são integralmente biodegradáveis e não geram resíduos de microplásticos no solo. Essa característica os torna especialmente relevantes para aplicações de bioengenharia de solos em regiões semiáridas, onde o déficit hídrico no período pós-plantio é o principal fator de mortalidade de mudas em taludes recuperados. A @fig-taboa mostra o material vegetal de taboa (*Typha domingensis*) que constitui a matéria-prima do Bio-SAP, cuja polpa celulósica é processada quimicamente para adquirir propriedades superabsorventes.
 
-![Material de taboa (*Typha domingensis*) utilizado na produção do Bio-SAP — polpa celulósica das folhas processada quimicamente para conferir propriedades superabsorventes.](../img/taboa_material.png){#fig-taboa fig-alt="Material de taboa para Bio-SAP" width="80%"}
+![Fontes de fibra vegetal empregadas nos biotêxteis e a confecção manual da manta, com (a) a palmeira ouricuri, (b) a taboa (*Typha domingensis*) em ambiente alagado, (c) o junco e (d) a manta já tramada sendo fixada ao solo com grampos, etapa em que a abertura da malha define a fração de superfície diretamente protegida.](../img/taboa_fibra_trama.jpg){#fig-taboa fig-alt="Material de taboa para Bio-SAP" width="80%"}
 
 ## Bio-SAP de Taboa
 
@@ -14,32 +14,15 @@ O Bio-SAP de taboa (*Typha domingensis*) é uma inovação desenvolvida a partir
 
 ### Processo de Produção
 
-O fluxograma abaixo sintetiza as etapas de produção do Bio-SAP, desde a colheita da taboa em campo até a obtenção do produto granulado pronto para aplicação.
+O encadeamento das etapas de produção (@fig-biosap-processo) vai da colheita da taboa em campo até a obtenção do produto granulado pronto para aplicação, com as duas reações químicas concentradas no trecho intermediário da linha.
 
-```{dot}
-//| fig-width: 7
-digraph {
-    rankdir=LR
-    bgcolor="transparent"
-    node [shape=box, style="rounded,filled", fillcolor="#E8F5E9", color="#2E7D32", fontname="Helvetica", fontsize=10, margin="0.25,0.12", penwidth=0.8]
-    edge [color="#2E7D32", penwidth=1.2]
-
-    A [label="Colheita\nda taboa"]
-    B [label="Extração\nda polpa"]
-    C [label="Carboximetilação\n(NaOH + ácido\nmonocloroacético)"]
-    D [label="Reticulação\n(epicloridrina)"]
-    E [label="Secagem e\nmoagem"]
-    F [label="Bio-SAP\ngranulado", fillcolor="#A5D6A7", color="#1B5E20", penwidth=1.5]
-
-    A -> B -> C -> D -> E -> F
-}
-```
+![Etapas de produção do Bio-SAP de taboa, da colheita ao granulado, com as duas reações químicas que conferem a capacidade superabsorvente.](../img/fig_biosap_processo.png){#fig-biosap-processo fig-alt="Etapas de produção do Bio-SAP de taboa, da colheita ao granulado, com as duas reações químicas que conferem a capacidade superabsorvente" width="90%"}
 
 ### Propriedades
 
 A microestrutura do Bio-SAP pode ser observada na @fig-mev, que apresenta imagens de microscopia eletrônica de varredura (MEV) comparando o material antes e após a absorção de água. No estado seco, o Bio-SAP exibe uma superfície rugosa e compacta com microporos colapsados; após a absorção, a estrutura se expande dramaticamente, revelando uma rede tridimensional de poros interconectados que retêm a água por capilaridade e pressão osmótica. A @tbl-biosap quantifica as principais propriedades do material.
 
-![Microscopia eletrônica de varredura (MEV) do Bio-SAP — comparação da microestrutura antes (superfície compacta com microporos colapsados) e após absorção de água (rede tridimensional expandida).](../img/mev_comparacao.png){#fig-mev fig-alt="MEV do Bio-SAP" width="80%"}
+![Microscopia eletrônica de varredura das fibras de taboa antes e depois do tratamento químico: a fibra bruta exibe superfície recoberta por ceras e material amorfo, enquanto a fibra tratada mostra as microfibrilas expostas, condição que aumenta a área de contato disponível para a absorção de água.](../img/mev_comparacao.jpg){#fig-mev fig-alt="MEV do Bio-SAP" width="80%"}
 
 | Propriedade | Valor | Significado prático |
 |-------------|-------|---------------------|
@@ -51,6 +34,14 @@ A microestrutura do Bio-SAP pode ser observada na @fig-mev, que apresenta imagen
 | Granulometria | 0,5–2,0 mm | Compatível com mistura em substrato |
 
 : Propriedades do Bio-SAP de taboa. {#tbl-biosap .striped}
+
+### Núcleo hidrorretentivo por consolidação morfoquímica
+
+A rota de fabricação validada para *Typha domingensis* pelo grupo de Bioengenharia de Solos da Universidade Federal de Sergipe produz um núcleo hidrorretentivo por consolidação morfoquímica, no qual o particulado e as fibras da macrófita são aglutinados por resina bicomponente de poliuretano de óleo de mamona, na proporção de duas partes de isocianato para uma de poliol, com D-limoneno como solvente natural e espessantes de origem vegetal [@santosHolanda2026]. A formulação consolidada emprega 24% de particulado, 20% de fibras, 20% de resina bicomponente, 6% de D-limoneno e 30% de espessantes naturais, arranjo em que a fração de resina responde simultaneamente pela rigidez do núcleo e pela proteção da fibra contra fotodegradação.
+
+O desempenho hidráulico e térmico do núcleo estabelece a janela funcional do material em campo. A capacidade de retenção hídrica mantém-se superior a 80% após 72 h de saturação, condição que caracteriza o núcleo como reservatório poroso temporário capaz de absorver água durante eventos de irrigação ou de chuva e liberá-la gradualmente sob gradiente de potencial hídrico, enquanto a estabilidade térmica alcança 285 °C, valor muito acima das temperaturas de superfície registradas em taludes expostos e que descarta perda de integridade por aquecimento solar direto [@santosHolanda2026]. A estabilidade mecânica do conjunto montado como geocomposto multicamada, com o núcleo acoplado a geogrelhas de *Boehmeria nivea*, preservou mais de 85% da resistência à punção ao longo de 60 ciclos de envelhecimento ultravioleta acelerado, resultado que confirma adequação funcional dentro da janela de estabelecimento vegetal e cuja análise de confiabilidade é apresentada em @sec-biotexteis [@santosMechanical2026].
+
+A composição lignocelulósica da matéria-prima governa a formulação. A razão lignina/celulose de 0,46 da taboa fornece barreira ultravioleta intrínseca que permite operar com 20% de resina, enquanto matérias-primas com razão inferior, caso do sisal com 0,15, exigem elevação dessa fração para cerca de 26% ou a incorporação de bloqueador ultravioleta natural para alcançar vida útil equivalente [@santosMechanical2026]. Essa dependência converte a caracterização química da fibra, tratada em @sec-biotexteis, em etapa obrigatória do projeto de formulação.
 
 ## Geocompostos Hidrorretentores Typha-Rami
 
@@ -86,7 +77,9 @@ onde $\theta_r$ e $\theta_s$ são os teores de água residual e saturado (cm³/c
 
 A @fig-alelopatia apresenta ensaios de alelopatia e germinação com Bio-SAP, demonstrando que o biopolímero não exerce efeito inibitório sobre a germinação e o desenvolvimento de plântulas, condição essencial para sua aplicação em projetos de revegetação.
 
-![Ensaio de alelopatia e germinação com Bio-SAP — avaliação do efeito do biopolímero sobre o crescimento de plântulas, demonstrando ausência de fitotoxicidade.](../img/alelopatia_germinacao.jpg){#fig-alelopatia fig-alt="Ensaio de germinação com Bio-SAP" width="75%"}
+![Ensaio de alelopatia e germinação com Bio-SAP — avaliação do efeito do biopolímero sobre o crescimento de plântulas, demonstrando ausência de fitotoxicidade.](../img/alelopatia_germinacao.jpg){#fig-alelopatia fig-alt="Ensaio de germinação com Bio-SAP" width="53%"}
+
+O ensaio de fitotoxicidade com rúcula (*Eruca sativa*) quantifica essa ausência de efeito inibitório. O Bio-SAP de taboa elevou a germinação a 98%, contra 92,6% do controle, e ampliou o comprimento do hipocótilo em 106,6% e a biomassa fresca em 158,5%, sem evidência de fitotoxicidade aguda [@santosHolanda2026]. O ganho de biomassa acima do controle indica que a liberação gradual de água pelo núcleo opera como vantagem fisiológica mensurável na fase de germinação.
 
 Em projetos de recuperação de encostas, o Bio-SAP é instalado sob biomantas (ver @sec-biomantas) ou incorporado à pasta de hidrossemeadura (ver @sec-hidrossemeadura), retendo a água da chuva na zona radicular e reduzindo a necessidade de irrigação em 50–70% nos primeiros 90 dias, fator crítico em regiões semiáridas com déficit hídrico prolongado. Na revegetação de taludes em áreas de mineração, onde os substratos são altamente degradados (pH extremo, ausência de matéria orgânica, baixa capacidade de retenção hídrica), a combinação de Bio-SAP com composto orgânico cria condições mínimas para o estabelecimento vegetal ao fornecer um reservatório hídrico e nutricional que compensa as deficiências edáficas. Na produção de mudas em viveiros, a incorporação de Bio-SAP ao substrato reduz a frequência de irrigação em 40–60% e aumenta a taxa de sobrevivência no transplante para campo, reduzindo o estresse hídrico na fase de adaptação.
 

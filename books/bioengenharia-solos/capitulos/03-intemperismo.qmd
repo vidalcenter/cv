@@ -1,4 +1,4 @@
-﻿# Intemperismo e Transformação do Solo {#sec-intemperismo}
+# Intemperismo e Transformação do Solo {#sec-intemperismo}
 
 ## Conceito de Intemperismo
 
@@ -8,7 +8,7 @@ Em regiões tropicais, o intemperismo é mais intenso e profundo do que em qualq
 
 ## Intemperismo Físico
 
-![Agentes do intemperismo atuando sobre a rocha: processos físicos, químicos e biológicos que transformam a rocha em solo.](../img/agentes_ativos.png){#fig-agentes fig-alt="Agentes ativos do intemperismo" width="80%"}
+![Os três conjuntos de agentes atuando sobre um mesmo maciço rochoso, com **(a)** os processos físicos, que abrem fraturas por dilatação térmica e por cunhamento, **(b)** os processos químicos, em que a água percola pelas juntas e forma a auréola de alteração que avança para dentro da parede da fratura, e **(c)** os processos biológicos, com a raiz cunhando a junta e a crosta de liquens sobre a superfície; na base, a rocha sã grada para cima até o saprolito.](../img/agentes_ativos.jpg){#fig-agentes fig-alt="Agentes ativos do intemperismo" width="85%"}
 
 O intemperismo físico fragmenta mecanicamente a rocha sem alterar sua composição mineralógica. Trata-se da "quebra" da rocha em pedaços cada vez menores, aumentando a superfície específica exposta e, com isso, acelerando o ataque químico subsequente. É importante compreender que o intemperismo físico não atua sozinho; ele prepara o terreno para o intemperismo químico, que será o agente dominante nos trópicos. Os principais mecanismos em regiões tropicais são descritos a seguir.
 
@@ -16,7 +16,7 @@ O intemperismo físico fragmenta mecanicamente a rocha sem alterar sua composiç
 
 Quando rochas formadas em grande profundidade (sob pressão de quilômetros de material sobrejacente) são gradualmente expostas à superfície pela remoção erosiva das camadas superiores, a descompressão gera fraturas subparalelas à topografia, fenômeno conhecido como *sheet joints* ou *sheeting*. Esse processo é visível na @fig-alivio.
 
-![Fraturas geradas por alívio de pressão em rochas graníticas — a descompressão gera sistemas de fraturas subparalelas à superfície.](../img/alivio_pressao.png){#fig-alivio fig-alt="Alívio de pressão em rocha granítica" width="70%"}
+![A geração de fraturas por alívio de pressão, mostrada em dois estágios do mesmo corpo granítico: em **(a)** a rocha está soterrada e submetida à carga litostática, sem fraturas internas, e em **(b)** a remoção da cobertura por erosão descomprime o maciço e gera **(c)** o sistema de fraturas subparalelas à superfície, mais próximas entre si junto à exposição e progressivamente mais espaçadas em profundidade.](../img/alivio_pressao.jpg){#fig-alivio fig-alt="Alívio de pressão em rocha granítica" width="85%"}
 
 Esse mecanismo é particularmente importante em maciços graníticos e gnáissicos nos inselbergs do Nordeste brasileiro, onde as fraturas geradas pelo alívio de pressão criam caminhos preferenciais para a infiltração da água, acelerando o intemperismo químico nos planos de descontinuidade. Em termos práticos, encostas rochosas com *sheeting* bem desenvolvido são mais suscetíveis a desprendimentos de lajes e blocos, o que deve ser considerado no projeto de intervenções.
 
@@ -24,7 +24,7 @@ Esse mecanismo é particularmente importante em maciços graníticos e gnáissic
 
 A variação diurna de temperatura causa expansão e contração diferencial dos minerais que compõem a rocha. Como cada mineral tem um coeficiente de dilatação térmica diferente, os ciclos de aquecimento e resfriamento geram tensões internas heterogêneas que, com o tempo, produzem microfissuras e fraturam progressivamente a rocha. A @fig-termoclastia ilustra esse processo.
 
-![Variação de temperatura diurna em superfícies rochosas — a amplitude térmica gera tensões de expansão e contração nos minerais.](../img/termoclastia.png){#fig-termoclastia fig-alt="Termoclastia e amplitude térmica" width="65%"}
+![O mecanismo da termoclastia em dois momentos do ciclo diário, com **(a)** o aquecimento, em que os grãos minerais se dilatam de forma desigual porque cada espécie tem coeficiente de dilatação próprio, e **(b)** o resfriamento, que contrai o conjunto e deixa microfissuras abertas ao longo dos contatos entre grãos; o detalhe ampliado em **(c)** mostra a água penetrando na microfissura recém-aberta, etapa que acopla o processo físico ao químico.](../img/termoclastia.jpg){#fig-termoclastia fig-alt="Termoclastia e amplitude térmica" width="85%"}
 
 Em regiões semiáridas tropicais (como a Caatinga brasileira), a amplitude térmica superficial pode alcançar 60 °C (rocha exposta ao sol a 70 °C versus ar noturno a 10 °C), gerando tensões suficientes para fraturar até rochas muito competentes. A termoclastia é um dos fatores que explicam a produção de cascalho e areia grossa nos pedimentos semiáridos, materiais que podem ser aproveitados como agregados em estruturas de bioengenharia.
 
@@ -112,9 +112,9 @@ Os produtos finais do intemperismo nos trópicos são um conjunto restrito de mi
 
 ### Caulinita
 
-A caulinita é uma argila do tipo 1:1 (uma lâmina tetraédrica de sílica ligada a uma lâmina octaédrica de alumina), com espaçamento basal de 7,2 Å. Trata-se do argilomineral mais abundante nos solos tropicais bem drenados, sendo o produto direto da hidrólise dos feldspatos conforme discutido acima. A @fig-caulinita mostra a aparência característica desse mineral ao microscópio.
+A caulinita é uma argila do tipo 1:1 (uma lâmina tetraédrica de sílica ligada a uma lâmina octaédrica de alumina), com espaçamento basal de 7,2 Å. Trata-se do argilomineral mais abundante nos solos tropicais bem drenados, sendo o produto direto da hidrólise dos feldspatos conforme discutido acima. A @fig-caulinita mostra a organização das lâminas, as ligações de hidrogênio que bloqueiam a entrada de água no espaço interlamelar e o hábito em plaquetas.
 
-![Caulinita — argilomineral 1:1 dominante nos solos tropicais bem drenados, com baixa CTC e expansibilidade.](../img/caulinita.jpg){#fig-caulinita fig-alt="Caulinita mineral" width="60%"}
+![Estrutura 1:1 da caulinita: **(a)** lâmina tetraédrica de sílica; **(b)** lâmina octaédrica de alumina; **(c)** espaço interlamelar fixado por ligações de hidrogênio, que impede a entrada de água; **(d)** hábito em plaqueta hexagonal.](../img/caulinita.jpg){#fig-caulinita fig-alt="Estrutura em camadas da caulinita e bloqueio do espaço interlamelar" width="85%"}
 
 Para a bioengenharia, as propriedades da caulinita têm implicações diretas. Sua baixa capacidade de troca catiônica (CTC ≈ 3–15 cmolc/kg, contra 80–150 cmolc/kg em argilas montmoriloníticas) significa que solos cauliníticos retêm poucos nutrientes, exigindo adição de matéria orgânica para sustentar o crescimento vegetal. Sua baixa expansibilidade (não incha nem contrai com variações de umidade, diferentemente das argilas 2:1) confere estabilidade volumétrica ao solo, o que é vantajoso para estruturas construídas sobre ele. Sua coesão moderada explica a estabilidade aparente dos solos tropicais secos, mas a perda rápida de resistência quando saturados.
 
@@ -124,9 +124,9 @@ A goethita é o óxido de ferro responsável pela cor amarela dos solos tropicai
 
 ### Hematita (Fe₂O₃)
 
-A hematita é o óxido de ferro que confere a cor vermelha intensa aos solos tropicais, sendo o resultado da desidratação da goethita em condições de boa drenagem e estação seca definida. A @fig-hematita ilustra a coloração característica desse mineral.
+A hematita é o óxido de ferro que confere a cor vermelha intensa aos solos tropicais, sendo o resultado da desidratação da goethita em condições de boa drenagem e estação seca definida. A @fig-hematita relaciona o revestimento por óxidos à cimentação das partículas e à estabilidade dos agregados.
 
-![Hematita — óxido de ferro que confere a coloração vermelha característica dos solos tropicais bem drenados.](../img/hematita.png){#fig-hematita fig-alt="Hematita mineral" width="60%"}
+![Óxidos de ferro em solos tropicais: **(a)** agregado granular revestido; **(b)** ponte de óxido cimentando partículas; **(c)** hábitos cristalinos contrastantes.](../img/hematita.jpg){#fig-hematita fig-alt="Agregado de solo, ponte cimentante de óxido e hábitos cristalinos de óxidos de ferro" width="85%"}
 
 A hematita possui papel fundamental na microagregação dos solos tropicais (Latossolos). Ela atua como agente cimentante entre partículas de caulinita, formando microagregados esféricos de 0,1–1,0 mm de diâmetro que conferem ao solo uma estrutura granular extremamente estável e, paradoxalmente, fazem com que solos com 60–80% de argila se comportem hidraulicamente como areias (alta permeabilidade, baixa plasticidade). Essa microagregação é benéfica para a bioengenharia por facilitar a infiltração e o enraizamento, mas é destruída por compactação ou erosão superficial intensa.
 

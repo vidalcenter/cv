@@ -1,4 +1,4 @@
-﻿# Revegetação e Espécies para Bioengenharia {#sec-revegetacao}
+# Revegetação e Espécies para Bioengenharia {#sec-revegetacao}
 
 ## Princípios da Revegetação
 
@@ -6,7 +6,7 @@ A revegetação é a técnica fundamental e mais antiga da bioengenharia de solo
 
 O sistema radicular é o componente-chave dessa proteção. A @fig-vetiver-raizes apresenta o sistema radicular do vetiver (*Vetiveria zizanioides*), considerado o padrão de referência em bioengenharia tropical, cujas raízes podem ultrapassar 3 m de profundidade em solos bem drenados.
 
-![Sistema radicular de vetiver — raízes profundas que conferem coesão e ancoragem ao solo, mecanismo fundamental da revegetação em bioengenharia.](../img/vetiver_1.png){#fig-vetiver-raizes fig-alt="Sistema radicular de vetiver" width="70%"}
+![Sistema radicular de vetiver — raízes profundas que conferem coesão e ancoragem ao solo, mecanismo fundamental da revegetação em bioengenharia.](../img/vetiver_1.png){#fig-vetiver-raizes fig-alt="Sistema radicular de vetiver" width="60%"}
 
 Conforme ilustrado na @fig-vetiver-raizes, a densidade e a profundidade das raízes do vetiver criam uma malha tridimensional que reforça mecanicamente o solo. As plantas protegem o solo por seis mecanismos simultâneos e complementares. A interceptação da energia cinética das gotas de chuva pela copa e pelas folhas reduz em até 90% o impacto direto sobre a superfície, eliminando o efeito *splash* (desprendimento por impacto). A proteção superficial pelo acúmulo de serrapilheira (folhas mortas, restos vegetais) cria uma camada amortecedora que reduz a velocidade do escoamento e protege os agregados do solo contra desagregação. O reforço radicular aumenta a coesão do solo em 5–40 kPa, conforme demonstrado pelo modelo de Wu-Waldron discutido no @sec-solos-tropicais, sendo o incremento proporcional à densidade e à resistência à tração das raízes. A drenagem biológica por evapotranspiração remove água do solo, reduzindo a poropressão e aumentando a tensão efetiva, o que estabiliza encostas suscetíveis a deslizamentos. A criação de macroporos pelo crescimento e pela decomposição das raízes eleva a permeabilidade do solo em 2 a 10 vezes, favorecendo a infiltração (que reduz o escoamento superficial) e melhorando a drenagem interna. Por fim, as raízes pivotantes ancoram camadas superficiais instáveis a substratos estáveis em profundidade, funcionando como tirantes naturais.
 
@@ -71,6 +71,8 @@ Além de seu papel direto na proteção do solo, as plantas tropicais fornecem f
 | *Musa* spp. | Bananeira | 54–136 | Geodrenos |
 
 : Fibras vegetais tropicais e suas propriedades mecânicas. {#tbl-fibras .striped .hover}
+
+A resistência à tração registrada na @tbl-fibras expressa apenas uma das dimensões relevantes para a seleção do material. A durabilidade da fibra em campo depende da arquitetura química, em particular da razão entre lignina e celulose, que governa a barreira natural à radiação ultravioleta e à colonização microbiológica, e a caracterização físico-química correspondente, com composição lignocelulósica, assinatura espectroscópica e estabilidade térmica determinadas em ensaios próprios do grupo de pesquisa, é apresentada em @sec-biotexteis.
 
 ## Métodos de Implantação
 

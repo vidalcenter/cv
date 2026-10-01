@@ -4,21 +4,9 @@
 
 A quantificação da contribuição mecânica das raízes na estabilidade de taludes é um dos pilares da bioengenharia de solos. Conforme discutido nos capítulos anteriores, os modelos de Wu (@sec-solos-tropicais) e Waldron dependem fundamentalmente de dois parâmetros: a resistência à tração das raízes ($\overline{t_R}$) e a razão de área radicular (*Root Area Ratio* — RAR). Tradicionalmente, o RAR é estimado por métodos bidimensionais — análise de perfis expostos em trincheiras ou contagem de raízes em quadrículas —, que subestimam o volume radicular em 20–40% por não capturarem a distribuição tridimensional das raízes.
 
-A fotogrametria digital *Structure from Motion* (SfM) representa uma alternativa acessível e precisa para superação dessas limitações [@westoby2012]. A técnica permite reconstruir a geometria 3D completa de objetos a partir de múltiplas fotografias tomadas de ângulos diferentes, utilizando algoritmos de correspondência de pontos homólogos e triangulação. A @fig-fluxo-sfm ilustra o fluxo de trabalho completo, desde a captura fotográfica até a extração de parâmetros geotécnicos.
+A fotogrametria digital *Structure from Motion* (SfM) representa uma alternativa acessível e precisa para superação dessas limitações [@westoby2012]. A técnica permite reconstruir a geometria 3D completa de objetos a partir de múltiplas fotografias tomadas de ângulos diferentes, utilizando algoritmos de correspondência de pontos homólogos e triangulação. O encadeamento completo do protocolo, da captura fotográfica à extração de parâmetros geotécnicos, aparece sintetizado na @fig-fluxo-sfm.
 
-```{mermaid}
-%%| label: fig-fluxo-sfm
-%%| fig-cap: "Fluxograma do protocolo de fotogrametria SfM para modelagem de sistemas radiculares: da captura fotográfica ao cálculo do Fator de Segurança."
-flowchart LR
-  A["📷 Captura\nfotográfica\n(80-120 fotos)"] --> B["🔍 Feature\nExtraction\n(SIFT)"]
-  B --> C["🔗 Feature\nMatching"]
-  C --> D["📐 Structure\nfrom Motion"]
-  D --> E["☁️ Nuvem de\npontos densa"]
-  E --> F["🧹 Limpeza\n(CloudCompare)"]
-  F --> G["✂️ Cortes\ntransversais"]
-  G --> H["📊 Cálculo\ndo RAR"]
-  H --> I["🛡️ Δcr e Fator\nde Segurança"]
-```
+![Fluxograma do protocolo de fotogrametria SfM para modelagem de sistemas radiculares, da captura fotográfica ao cálculo do fator de segurança.](../img/fig_fluxo_sfm.png){#fig-fluxo-sfm fig-alt="Fluxograma do protocolo de fotogrametria SfM para modelagem de sistemas radiculares, da captura fotográfica ao cálculo do fator de segurança" width="90%"}
 
 As vantagens da SfM para aplicação em bioengenharia incluem baixo custo (câmera de celular com ≥ 12 MP), portabilidade (uso direto em campo), disponibilidade de software livre (Meshroom, CloudCompare) e resolução submilimétrica (0,1–1,0 mm), suficiente para detectar raízes finas de gramíneas como o vetiver.
 
@@ -117,7 +105,7 @@ A escala é calibrada pela ferramenta *Point Picking* (Tools → Point Picking),
 
 A distribuição vertical das raízes é visualizada pela ferramenta *Height Ramp* (Edit → Colors → Height Ramp), com coloração no eixo Z e paleta Blue-Green-Yellow-Red (azul = superficial, vermelho = profundo). A @fig-cloud-compare-exemplo ilustra o resultado típico.
 
-![Exemplo de nuvem de pontos de sistema radicular de vetiver no CloudCompare, com coloração por profundidade (Height Ramp): azul indica raízes superficiais e vermelho indica raízes profundas.](../img/cloudcompare_raizes_vetiver.png){#fig-cloud-compare-exemplo fig-alt="Nuvem de pontos colorida por profundidade no CloudCompare" width="80%"}
+![Nuvem de pontos sintética de um sistema radicular de vetiver com 218 mil pontos, apresentada em perspectiva, em vista frontal e em planta, arranjo que permite medir a distribuição vertical das raízes antes de aplicar o procedimento às nuvens obtidas em campo.](../img/cloudcompare_raizes_vetiver.jpg){#fig-cloud-compare-exemplo fig-alt="Nuvem de pontos colorida por profundidade no CloudCompare" width="80%"}
 
 ## Extração do RAR por Cortes Transversais
 

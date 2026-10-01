@@ -6,9 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Livro-texto sobre bioengenharia de solos aplicada a regiões tropicais, integrando fundamentos pedológicos, técnicas de estabilização biológica e soluções baseadas na natureza (NBS) para conservação e recuperação de solos degradados.">
+<meta name="description" content="Livro-texto sobre soluções baseadas na natureza aplicadas à bioengenharia de água e solo em regiões tropicais, integrando fundamentos pedológicos e hidrossedimentológicos, protocolos de dimensionamento parametrizados em campo, técnicas de estabilização biológica e inovação em biomateriais para conservação e recuperação de áreas degradadas.">
 
-<title>8&nbsp; Paliçadas – Bioengenharia de Solos em Regiões Tropicais</title>
+<title>8&nbsp; Paliçadas Permeáveis: Princípios e Materiais – Soluções Baseadas na Natureza para Bioengenharia de Água e Solo</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,7 +21,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -31,7 +51,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<link href="../capitulos/08-bacias-captacao.html" rel="next">
+<link href="../capitulos/07a-palicadas-protocolo.html" rel="next">
 <link href="../capitulos/06-revegetacao.html" rel="prev">
 <link href="../img/capa_bioengenharia_de_solos.png" rel="icon" type="image/png">
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
@@ -114,7 +134,7 @@ window.Quarto = {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../capitulos/06-revegetacao.html">Parte II — Técnicas de Bioengenharia</a></li><li class="breadcrumb-item"><a href="../capitulos/07-palicadas.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Paliçadas</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../capitulos/06-revegetacao.html">Parte III — Técnicas de Bioengenharia de Água e Solo</a></li><li class="breadcrumb-item"><a href="../capitulos/07-palicadas.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Paliçadas Permeáveis: Princípios e Materiais</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Procurar" onclick="window.quartoOpenSearch();">
@@ -131,10 +151,10 @@ window.Quarto = {
       <a href="../index.html" class="sidebar-logo-link">
       </a>
     <div class="sidebar-title mb-0 py-0">
-      <a href="../">Bioengenharia de Solos em Regiões Tropicais</a> 
+      <a href="../">Soluções Baseadas na Natureza para Bioengenharia de Água e Solo</a> 
         <div class="sidebar-tools-main tools-wide">
     <a href="https://github.com/ldvsantos/cv/" title="Código fonte" class="quarto-navigation-tool px-1" aria-label="Código fonte"><i class="bi bi-github"></i></a>
-    <a href="../Bioengenharia-de-Solos-em-Regiões-Tropicais.pdf" title="Baixar PDF" class="quarto-navigation-tool px-1" aria-label="Baixar PDF"><i class="bi bi-file-pdf"></i></a>
+    <a href="../Soluções-Baseadas-na-Natureza-para-Bioengenharia-de-Água-e-Solo.pdf" title="Baixar PDF" class="quarto-navigation-tool px-1" aria-label="Baixar PDF"><i class="bi bi-file-pdf"></i></a>
     <div class="dropdown">
       <a href="" title="Compartilhar" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" role="link" aria-label="Compartilhar"><i class="bi bi-share"></i></a>
       <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
@@ -182,13 +202,13 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../prefacio.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">prefacio.html</span></span></a>
+ <span class="menu-text">Prefácio</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
- <span class="menu-text">Parte I — Fundamentos</span></a>
+ <span class="menu-text">Parte I — Enquadramento: Soluções Baseadas na Natureza</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Alternar seção">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -197,31 +217,13 @@ window.Quarto = {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../capitulos/01-introducao.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">O que é Bioengenharia de Solos?</span></span></a>
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introdução à Bioengenharia de Água e Solo</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/02-solos-tropicais.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">O Solo como Sistema Aberto</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/03-intemperismo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Conceito de Intemperismo</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/04-erosao.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Conceito e Magnitude</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/05-classificacao-feicoes.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Importância da Classificação</span></span></a>
+  <a href="../capitulos/01a-nbs-enquadramento.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Soluções Baseadas na Natureza para Água e Solo</span></span></a>
   </div>
 </li>
       </ul>
@@ -229,7 +231,7 @@ window.Quarto = {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
- <span class="menu-text">Parte II — Técnicas de Bioengenharia</span></a>
+ <span class="menu-text">Parte II — Fundamentos: Solo, Água e Erosão nos Trópicos</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Alternar seção">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -237,68 +239,26 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/06-revegetacao.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Princípios da Revegetação</span></span></a>
+  <a href="../capitulos/02-solos-tropicais.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Solos Tropicais: Formação e Propriedades</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/07-palicadas.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Paliçadas</span></span></a>
+  <a href="../capitulos/03-intemperismo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Intemperismo e Transformação do Solo</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/08-bacias-captacao.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Bacias de Captação</span></span></a>
+  <a href="../capitulos/04-erosao.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Erosão do Solo: Tipos e Processos</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/09-feixes-drenos.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Feixes Vivos (<em>Fascines</em>)</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/10-hidrossemeadura.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Hidrossemeadura</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/11-biomantas.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Biomantas</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/12-enrocamento.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Enrocamento Vegetado</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/13-cordoes-fascinas.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Cordões Vegetativos</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/14-gabiao-vivo.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Gabião Vivo</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/15-parede-krainer.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Parede Krainer</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../capitulos/16-canaleta-verde.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Canaleta Verde</span></span></a>
+  <a href="../capitulos/05-classificacao-feicoes.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Classificação de Feições Erosivas</span></span></a>
   </div>
 </li>
       </ul>
@@ -306,7 +266,7 @@ window.Quarto = {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
- <span class="menu-text">Parte III — Geotêxteis e Inovação</span></a>
+ <span class="menu-text">Parte III — Técnicas de Bioengenharia de Água e Solo</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Alternar seção">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -314,20 +274,80 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/17-geotexteis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Geotêxteis</span></span></a>
+  <a href="../capitulos/06-revegetacao.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Revegetação e Espécies para Bioengenharia</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/18-biotexteis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Biotêxteis</span></span></a>
+  <a href="../capitulos/07-palicadas.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Paliçadas Permeáveis: Princípios e Materiais</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/19-biopolimeros.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Biopolímeros Superabsorventes</span></span></a>
+  <a href="../capitulos/07a-palicadas-protocolo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Protocolo Hidrogeotécnico para Dimensionamento de Paliçadas</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/07b-palicadas-execucao.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Paliçadas: Execução, Estruturas Vivas e Monitoramento</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/08-bacias-captacao.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Bacias de Captação e Barraginhas</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/09-feixes-drenos.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Feixes Vivos e Drenos Verdes</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/10-hidrossemeadura.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">13</span>&nbsp; <span class="chapter-title">Hidrossemeadura</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/11-biomantas.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">14</span>&nbsp; <span class="chapter-title">Biomantas e Geossintéticos Biodegradáveis</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/12-enrocamento.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">15</span>&nbsp; <span class="chapter-title">Enrocamento Vegetado</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/13-cordoes-fascinas.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">16</span>&nbsp; <span class="chapter-title">Cordões Vegetativos e Fascinas</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/14-gabiao-vivo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">17</span>&nbsp; <span class="chapter-title">Gabião Vivo</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/15-parede-krainer.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">18</span>&nbsp; <span class="chapter-title">Parede Krainer</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/16-canaleta-verde.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">19</span>&nbsp; <span class="chapter-title">Canaleta Verde</span></span></a>
   </div>
 </li>
       </ul>
@@ -335,7 +355,7 @@ window.Quarto = {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
- <span class="menu-text">Parte IV — Projeto e Integração</span></a>
+ <span class="menu-text">Parte IV — Geotêxteis, Biotêxteis e Biomateriais</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Alternar seção">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -343,14 +363,20 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/20-nbs.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Definição</span></span></a>
+  <a href="../capitulos/17-geotexteis.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">20</span>&nbsp; <span class="chapter-title">Geotêxteis no Controle de Erosão</span></span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../capitulos/21-projeto-integrador.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Objetivo</span></span></a>
+  <a href="../capitulos/18-biotexteis.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">21</span>&nbsp; <span class="chapter-title">Biotêxteis de Fibras Vegetais</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/19-biopolimeros.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">22</span>&nbsp; <span class="chapter-title">Biopolímeros Superabsorventes</span></span></a>
   </div>
 </li>
       </ul>
@@ -358,7 +384,7 @@ window.Quarto = {
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
             <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true">
- <span class="menu-text">Parte V — Monitoramento e Análise</span></a>
+ <span class="menu-text">Parte V — Escala de Bacia e Projeto Integrador</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="true" aria-label="Alternar seção">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
@@ -366,8 +392,37 @@ window.Quarto = {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../capitulos/23-bioengenharia-agua.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Bioengenharia de Água na Escala da Bacia</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/21-projeto-integrador.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">Projeto Integrador</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true">
+ <span class="menu-text">Parte VI — Monitoramento, Viabilidade e Governança</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" role="navigation" aria-expanded="true" aria-label="Alternar seção">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../capitulos/22-modelagem-3d.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">23</span>&nbsp; <span class="chapter-title">Modelagem 3D de Sistemas Radiculares</span></span></a>
+ <span class="menu-text"><span class="chapter-number">25</span>&nbsp; <span class="chapter-title">Modelagem 3D de Sistemas Radiculares</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../capitulos/20-nbs.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">26</span>&nbsp; <span class="chapter-title">Viabilidade, Clima e Governança das NBS</span></span></a>
   </div>
 </li>
       </ul>
@@ -375,7 +430,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../referencias.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">24</span>&nbsp; <span class="chapter-title">referencias.html</span></span></a>
+ <span class="menu-text">Referências</span></a>
   </div>
 </li>
     </ul>
@@ -388,36 +443,30 @@ window.Quarto = {
     <h2 id="toc-title">Índice</h2>
    
   <ul>
-  <li><a href="#sec-palicadas" id="toc-sec-palicadas" class="nav-link active" data-scroll-target="#sec-palicadas"><span class="header-section-number">9</span> Paliçadas para Controle de Ravinas</a>
+  <li><a href="#barreiras-transversais-permeáveis-em-feições-lineares" id="toc-barreiras-transversais-permeáveis-em-feições-lineares" class="nav-link active" data-scroll-target="#barreiras-transversais-permeáveis-em-feições-lineares"><span class="header-section-number">8.1</span> Barreiras transversais permeáveis em feições lineares</a></li>
+  <li><a href="#funcionamento-hidráulico-e-hidrossedimentológico" id="toc-funcionamento-hidráulico-e-hidrossedimentológico" class="nav-link" data-scroll-target="#funcionamento-hidráulico-e-hidrossedimentológico"><span class="header-section-number">8.2</span> Funcionamento hidráulico e hidrossedimentológico</a></li>
+  <li><a href="#desempenho-documentado-e-limites-de-transferência" id="toc-desempenho-documentado-e-limites-de-transferência" class="nav-link" data-scroll-target="#desempenho-documentado-e-limites-de-transferência"><span class="header-section-number">8.3</span> Desempenho documentado e limites de transferência</a></li>
+  <li><a href="#modos-de-falha-e-controles-construtivos-correspondentes" id="toc-modos-de-falha-e-controles-construtivos-correspondentes" class="nav-link" data-scroll-target="#modos-de-falha-e-controles-construtivos-correspondentes"><span class="header-section-number">8.4</span> Modos de falha e controles construtivos correspondentes</a></li>
+  <li><a href="#materiais-e-critérios-de-seleção" id="toc-materiais-e-critérios-de-seleção" class="nav-link" data-scroll-target="#materiais-e-critérios-de-seleção"><span class="header-section-number">8.5</span> Materiais e critérios de seleção</a>
   <ul class="collapse">
-  <li><a href="#materiais" id="toc-materiais" class="nav-link" data-scroll-target="#materiais"><span class="header-section-number">9.1</span> Materiais</a>
-  <ul class="collapse">
-  <li><a href="#bambu" id="toc-bambu" class="nav-link" data-scroll-target="#bambu"><span class="header-section-number">9.1.1</span> Bambu</a></li>
-  <li><a href="#madeira-roliça" id="toc-madeira-roliça" class="nav-link" data-scroll-target="#madeira-roliça"><span class="header-section-number">9.1.2</span> Madeira Roliça</a></li>
-  <li><a href="#pedra-seca" id="toc-pedra-seca" class="nav-link" data-scroll-target="#pedra-seca"><span class="header-section-number">9.1.3</span> Pedra Seca</a></li>
+  <li><a href="#bambu" id="toc-bambu" class="nav-link" data-scroll-target="#bambu"><span class="header-section-number">8.5.1</span> Bambu</a></li>
+  <li><a href="#madeira-roliça" id="toc-madeira-roliça" class="nav-link" data-scroll-target="#madeira-roliça"><span class="header-section-number">8.5.2</span> Madeira roliça</a></li>
+  <li><a href="#pedra-seca" id="toc-pedra-seca" class="nav-link" data-scroll-target="#pedra-seca"><span class="header-section-number">8.5.3</span> Pedra seca</a></li>
   </ul></li>
-  <li><a href="#dimensionamento" id="toc-dimensionamento" class="nav-link" data-scroll-target="#dimensionamento"><span class="header-section-number">9.2</span> Dimensionamento</a>
-  <ul class="collapse">
-  <li><a href="#espaçamento-entre-paliçadas" id="toc-espaçamento-entre-paliçadas" class="nav-link" data-scroll-target="#espaçamento-entre-paliçadas"><span class="header-section-number">9.2.1</span> Espaçamento entre Paliçadas</a></li>
-  <li><a href="#altura-efetiva" id="toc-altura-efetiva" class="nav-link" data-scroll-target="#altura-efetiva"><span class="header-section-number">9.2.2</span> Altura Efetiva</a></li>
-  <li><a href="#capacidade-de-retenção" id="toc-capacidade-de-retenção" class="nav-link" data-scroll-target="#capacidade-de-retenção"><span class="header-section-number">9.2.3</span> Capacidade de Retenção</a></li>
-  </ul></li>
-  <li><a href="#construção" id="toc-construção" class="nav-link" data-scroll-target="#construção"><span class="header-section-number">9.3</span> Construção</a>
-  <ul class="collapse">
-  <li><a href="#passo-a-passo" id="toc-passo-a-passo" class="nav-link" data-scroll-target="#passo-a-passo"><span class="header-section-number">9.3.1</span> Passo a Passo</a></li>
-  </ul></li>
-  <li><a href="#eficiência" id="toc-eficiência" class="nav-link" data-scroll-target="#eficiência"><span class="header-section-number">9.4</span> Eficiência</a></li>
-  <li><a href="#custos-comparativos" id="toc-custos-comparativos" class="nav-link" data-scroll-target="#custos-comparativos"><span class="header-section-number">9.5</span> Custos Comparativos</a></li>
-  </ul></li>
+  <li><a href="#seleção-e-preparo-prévio-do-material" id="toc-seleção-e-preparo-prévio-do-material" class="nav-link" data-scroll-target="#seleção-e-preparo-prévio-do-material"><span class="header-section-number">8.6</span> Seleção e preparo prévio do material</a></li>
+  <li><a href="#custo-de-implantação-e-estrutura-da-vantagem-econômica" id="toc-custo-de-implantação-e-estrutura-da-vantagem-econômica" class="nav-link" data-scroll-target="#custo-de-implantação-e-estrutura-da-vantagem-econômica"><span class="header-section-number">8.7</span> Custo de implantação e estrutura da vantagem econômica</a></li>
+  <li><a href="#condições-que-contraindicam-a-técnica" id="toc-condições-que-contraindicam-a-técnica" class="nav-link" data-scroll-target="#condições-que-contraindicam-a-técnica"><span class="header-section-number">8.8</span> Condições que contraindicam a técnica</a></li>
+  <li><a href="#da-técnica-ao-protocolo" id="toc-da-técnica-ao-protocolo" class="nav-link" data-scroll-target="#da-técnica-ao-protocolo"><span class="header-section-number">8.9</span> Da técnica ao protocolo</a></li>
+  <li><a href="#síntese-do-capítulo" id="toc-síntese-do-capítulo" class="nav-link" data-scroll-target="#síntese-do-capítulo"><span class="header-section-number">8.10</span> Síntese do capítulo</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/ldvsantos/cv/issues/new" class="toc-action"><i class="bi bi-github"></i>Criar uma issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../capitulos/06-revegetacao.html">Parte II — Técnicas de Bioengenharia</a></li><li class="breadcrumb-item"><a href="../capitulos/07-palicadas.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Paliçadas</span></a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../capitulos/06-revegetacao.html">Parte III — Técnicas de Bioengenharia de Água e Solo</a></li><li class="breadcrumb-item"><a href="../capitulos/07-palicadas.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Paliçadas Permeáveis: Princípios e Materiais</span></a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Paliçadas</span></h1>
+<h1 class="title"><span id="sec-palicadas" class="quarto-section-identifier"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Paliçadas Permeáveis: Princípios e Materiais</span></span></h1>
 </div>
 
 
@@ -434,80 +483,137 @@ window.Quarto = {
 </header>
 
 
-<section id="sec-palicadas" class="level1" data-number="9">
-<h1 data-number="9"><span class="header-section-number">9</span> Paliçadas para Controle de Ravinas</h1>
-<p>As paliçadas são barreiras transversais permeáveis instaladas no interior de ravinas para reduzir a velocidade do escoamento, reter sedimentos e criar condições favoráveis ao estabelecimento vegetal. Trata-se da técnica mais simples e econômica de bioengenharia para controle de erosão concentrada, sendo frequentemente o primeiro recurso empregado em projetos de estabilização de ravinas em regiões tropicais.</p>
-<p>O princípio de funcionamento é direto: ao interpor um obstáculo permeável no caminho do escoamento concentrado, a velocidade da água é reduzida imediatamente a montante da estrutura, o que diminui a tensão cisalhante e, consequentemente, a capacidade de transporte de sedimentos. As partículas em suspensão depositam-se progressivamente a montante da paliçada, gerando um assoreamento controlado que, ao longo de meses, cria patamares de sedimento que suavizam a declividade do fundo da ravina. Sobre esses patamares, a vegetação se estabelece espontaneamente (ou por plantio), completando a estabilização. A <a href="#fig-palicada-campo" class="quarto-xref">Figura&nbsp;<span>9.1</span></a> ilustra uma paliçada instalada em campo, onde é possível observar a estrutura transversal de bambu entrelaçado e a ancoragem nas paredes laterais da ravina.</p>
-<div id="fig-palicada-campo" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Paliçada instalada em ravina">
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>Objetivos de aprendizagem
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Ao final deste capítulo, o leitor deverá ser capaz de explicar o mecanismo hidráulico pelo qual uma barreira transversal permeável reduz a capacidade de transporte de sedimentos em feições erosivas lineares, distinguir o efeito da estrutura sobre o trecho assoreado do efeito sobre o leito ainda exposto, identificar os três modos de falha dominantes e associar cada um ao controle construtivo correspondente, selecionar o material da barreira a partir de critérios de resistência, durabilidade e custo, e executar a rotina de preparo prévio dos colmos que antecede a montagem em campo.</p>
+</div>
+</div>
+<section id="barreiras-transversais-permeáveis-em-feições-lineares" class="level2" data-number="8.1">
+<h2 data-number="8.1" class="anchored" data-anchor-id="barreiras-transversais-permeáveis-em-feições-lineares"><span class="header-section-number">8.1</span> Barreiras transversais permeáveis em feições lineares</h2>
+<p>As paliçadas operam como barreiras transversais permeáveis instaladas no interior de feições erosivas lineares, reduzindo a velocidade do escoamento concentrado, retardando o transporte de sedimentos e criando condições favoráveis ao estabelecimento vegetal. A literatura internacional as trata como <em>permeable check-dams</em>, vertente de baixo custo e material local de uma família de estruturas cuja lógica remonta às intervenções francesas em torrentes alpinas do século XIX, quando sequências de barragens de alvenaria estabilizaram o perfil longitudinal de cursos d’água declivosos, conceito depois adaptado a materiais permeáveis e a bacias menores <span class="citation" data-cites="piton_et_al_2017">(<a href="../referencias.html#ref-piton_et_al_2017" role="doc-biblioref">Piton et al., 2017</a>)</span>. É nessa forma adaptada que a técnica chega à bioengenharia tropical, onde a disponibilidade de bambu em touceiras próximas às áreas degradadas dispensa transporte pesado e viabiliza a execução por mão de obra local.</p>
+<p>A simplicidade construtiva da técnica contrasta com a exigência analítica do seu dimensionamento. O desempenho da barreira depende de decisões sobre altura efetiva, espaçamento e embutimento que raramente aparecem explicitadas nos manuais de campo, de modo que as causas mais frequentes de ruína remetem a decisões de dimensionamento mal fundamentadas, condição que motivou a construção do protocolo apresentado em <a href="07a-palicadas-protocolo.html" class="quarto-xref"><span>Capítulo 9</span></a>.</p>
+<p>A estrutura transversal de bambu entrelaçado, ancorada nas paredes laterais e assentada sobre vala basal no talvegue, define a geometria elementar dessa família de intervenções (<a href="#fig-palicada-campo" class="quarto-xref">Figura&nbsp;<span>8.1</span></a>). O registro de campo evidencia a trama com vãos preservados para passagem da água, condição que distingue a barreira permeável de um barramento impermeável e governa a ausência de carga hidrostática plena sobre a face montante.</p>
+<div id="fig-palicada-campo" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Paliçada de bambu instalada em ravina">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-palicada-campo-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="../img/palicada_campo.jpg" class="img-fluid figure-img" style="width:80.0%" alt="Paliçada instalada em ravina">
+<img src="../img/palicada_campo.jpg" class="img-fluid figure-img" style="width:56.0%" alt="Paliçada de bambu instalada em ravina">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-palicada-campo-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figura&nbsp;9.1: Paliçada instalada em ravina — barreira transversal permeável que retarda o escoamento e promove a deposição de sedimentos.
+Figura&nbsp;8.1: Paliçada de bambu instalada em ravina de Plintossolo, atuando como barreira transversal permeável que retarda o escoamento e promove deposição de sedimentos a montante.
 </figcaption>
 </figure>
 </div>
-<section id="materiais" class="level2" data-number="9.1">
-<h2 data-number="9.1" class="anchored" data-anchor-id="materiais"><span class="header-section-number">9.1</span> Materiais</h2>
-<p>A escolha do material para a paliçada depende da disponibilidade local, do custo e da durabilidade necessária. Em regiões tropicais, três materiais predominam.</p>
-<section id="bambu" class="level3" data-number="9.1.1">
-<h3 data-number="9.1.1" class="anchored" data-anchor-id="bambu"><span class="header-section-number">9.1.1</span> Bambu</h3>
-<p>O bambu (<em>Bambusa</em> spp., <em>Dendrocalamus</em> spp.) é o material mais utilizado em regiões tropicais por combinar alta resistência à tração (100–400 MPa, comparável a aço de construção), disponibilidade abundante em propriedades rurais, baixo custo de aquisição, facilidade de corte, transporte e montagem em campo (sem necessidade de ferramentas especializadas) e durabilidade de 2–5 anos quando tratado com preservativos naturais (imersão em solução de sulfato de cobre ou tratamento por oclusão com bórax e ácido bórico). O bambu sem tratamento degrada-se em 6–12 meses em ambiente tropical úmido, período que pode ser suficiente para o estabelecimento vegetal em ravinas de pequeno porte.</p>
 </section>
-<section id="madeira-roliça" class="level3" data-number="9.1.2">
-<h3 data-number="9.1.2" class="anchored" data-anchor-id="madeira-roliça"><span class="header-section-number">9.1.2</span> Madeira Roliça</h3>
-<p>Troncos de eucalipto, pinus ou espécies nativas de rápido crescimento (como leucena ou gliricídia) oferecem maior resistência mecânica e durabilidade (3–8 anos sem tratamento, 10–15 anos com tratamento autoclave). São indicados para ravinas de médio a grande porte onde a pressão hidrostática exige maior robustez estrutural, mas seu custo e peso são superiores ao bambu.</p>
-</section>
-<section id="pedra-seca" class="level3" data-number="9.1.3">
-<h3 data-number="9.1.3" class="anchored" data-anchor-id="pedra-seca"><span class="header-section-number">9.1.3</span> Pedra Seca</h3>
-<p>Em regiões com disponibilidade de pedras (encostas serranas, leitos pedregosos de rios intermitentes), as paliçadas podem ser construídas com pedras empilhadas sem argamassa, combinando função de filtro (a permeabilidade entre as pedras permite a passagem da água enquanto retém sedimentos grossos), alta durabilidade (décadas), resistência a incêndios e nenhuma necessidade de manutenção. A desvantagem é o peso e a dificuldade de transporte em terrenos íngremes.</p>
-</section>
-</section>
-<section id="dimensionamento" class="level2" data-number="9.2">
-<h2 data-number="9.2" class="anchored" data-anchor-id="dimensionamento"><span class="header-section-number">9.2</span> Dimensionamento</h2>
-<p>O dimensionamento de paliçadas envolve três cálculos fundamentais que determinam o espaçamento entre estruturas, a altura máxima e a capacidade de retenção de sedimentos.</p>
-<section id="espaçamento-entre-paliçadas" class="level3" data-number="9.2.1">
-<h3 data-number="9.2.1" class="anchored" data-anchor-id="espaçamento-entre-paliçadas"><span class="header-section-number">9.2.1</span> Espaçamento entre Paliçadas</h3>
-<p>O espaçamento (<span class="math inline">\(E\)</span>) entre paliçadas consecutivas deve garantir que a crista da paliçada a jusante esteja no mesmo nível que a base da paliçada a montante, criando uma sequência de patamares que, quando assoreados, eliminam o gradiente longitudinal original da ravina:</p>
-<p><span class="math display">\[
-E = \frac{H}{S_f}
-\]</span></p>
-<p>onde <span class="math inline">\(H\)</span> é a altura efetiva da paliçada (porção acima do nível do fundo da ravina, em metros) e <span class="math inline">\(S_f\)</span> é a declividade do fundo da ravina (em m/m, não em percentual). Por exemplo, para uma paliçada de 0,50 m de altura efetiva em uma ravina com declividade de 10% (0,10 m/m), o espaçamento será de 5,0 m.</p>
-</section>
-<section id="altura-efetiva" class="level3" data-number="9.2.2">
-<h3 data-number="9.2.2" class="anchored" data-anchor-id="altura-efetiva"><span class="header-section-number">9.2.2</span> Altura Efetiva</h3>
-<p>A altura efetiva da paliçada não deve exceder um terço da profundidade da ravina na seção de instalação, garantindo que o escoamento possa transbordar pela crista sem gerar erosão lateral:</p>
-<p><span class="math display">\[
-H_{max} = \frac{D}{3}
-\]</span></p>
-<p>onde <span class="math inline">\(D\)</span> é a profundidade da ravina (m). Paliçadas mais altas que <span class="math inline">\(D/3\)</span> geram represamento excessivo, com risco de erosão por contorno (a água contorna a estrutura pelas laterais, escavando as paredes da ravina) ou de ruptura por sobrecarga hidrostática.</p>
-</section>
-<section id="capacidade-de-retenção" class="level3" data-number="9.2.3">
-<h3 data-number="9.2.3" class="anchored" data-anchor-id="capacidade-de-retenção"><span class="header-section-number">9.2.3</span> Capacidade de Retenção</h3>
-<p>O volume de sedimento retido por uma paliçada pode ser estimado pela geometria do prisma trapezoidal que se forma a montante da estrutura:</p>
-<p><span class="math display">\[
-V_r = \frac{E \cdot W \cdot H}{2}
-\]</span></p>
-<p>onde <span class="math inline">\(W\)</span> é a largura da ravina na posição da paliçada. Esse volume permite estimar o tempo de preenchimento e, consequentemente, a necessidade de manutenção ou substituição.</p>
-</section>
-</section>
-<section id="construção" class="level2" data-number="9.3">
-<h2 data-number="9.3" class="anchored" data-anchor-id="construção"><span class="header-section-number">9.3</span> Construção</h2>
-<p>O processo de construção de uma paliçada de bambu é relativamente simples e pode ser executado por equipes de 2–4 trabalhadores com ferramentas manuais (enxada, facão, marreta). A <a href="#fig-instalacao" class="quarto-xref">Figura&nbsp;<span>9.2</span></a> ilustra as etapas de instalação em sequência.</p>
-<div id="fig-instalacao" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Instalação de paliçadas">
+<section id="funcionamento-hidráulico-e-hidrossedimentológico" class="level2" data-number="8.2">
+<h2 data-number="8.2" class="anchored" data-anchor-id="funcionamento-hidráulico-e-hidrossedimentológico"><span class="header-section-number">8.2</span> Funcionamento hidráulico e hidrossedimentológico</h2>
+<p>Estruturas permeáveis interceptam o escoamento concentrado sem bloquear integralmente a passagem da água, reduzindo a velocidade do fluxo por resistência hidráulica e por armazenamento temporário a montante <span class="citation" data-cites="stokes_et_al_2014 castillo_2014">(<a href="../referencias.html#ref-castillo_2014" role="doc-biblioref">Castillo et al., 2014</a>; <a href="../referencias.html#ref-stokes_et_al_2014" role="doc-biblioref">Stokes et al., 2014</a>)</span>. A queda da tensão cisalhante sobre o leito favorece a deposição progressiva, com formação de patamares de sedimento que suavizam o gradiente longitudinal da feição e criam locais favoráveis à colonização vegetal <span class="citation" data-cites="morgan_rickson_2020">(<a href="../referencias.html#ref-morgan_rickson_2020" role="doc-biblioref">Morgan &amp; Rickson, 2003</a>)</span>.</p>
+<p>O mecanismo encadeia quatro processos. A trama de varas impõe rugosidade localizada e dissipa energia cinética, reduzindo a velocidade imediatamente a montante da estrutura. A redução da velocidade, somada ao pequeno represamento, diminui a tensão cisalhante atuante sobre o fundo e, com ela, a capacidade de transporte de sedimentos. As partículas em trânsito depositam-se então a montante, formando cunha sedimentar que avança progressivamente em direção à crista da barreira. Ao final do ciclo de preenchimento, o trecho tratado passa a operar com a declividade do depósito, muito inferior à original, condição em que a velocidade diminui para uma mesma lâmina e a estabilização se consolida.</p>
+<p>A geometria da cunha em fase intermediária de preenchimento, com o depósito ainda abaixo da crista, permite visualizar o estado em que a estrutura ainda recebe a solicitação hidrodinâmica máxima enquanto o patamar não se consolidou (<a href="#fig-deposicao-patamar" class="quarto-xref">Figura&nbsp;<span>8.2</span></a>). Nessa condição, a rugosidade hidráulica aumenta e o gradiente longitudinal efetivo diminui à medida que o depósito avança, de modo que a solicitação sobre a trama cresce enquanto a energia disponível no trecho decresce <span class="citation" data-cites="morgan_rickson_2020 lucas_borja_et_al_2021">(<a href="../referencias.html#ref-lucas_borja_et_al_2021" role="doc-biblioref">Lucas-Borja et al., 2021</a>; <a href="../referencias.html#ref-morgan_rickson_2020" role="doc-biblioref">Morgan &amp; Rickson, 2003</a>)</span>.</p>
+<div id="fig-deposicao-patamar" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Deposição a montante da paliçada e formação do patamar">
 <figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-instalacao-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="../img/instalacao_palicadas.png" class="img-fluid figure-img" style="width:85.0%" alt="Instalação de paliçadas">
+<div aria-describedby="fig-deposicao-patamar-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../img/deposicao_inicial_formacao_patamar.png" class="img-fluid figure-img" style="width:85.0%" alt="Deposição a montante da paliçada e formação do patamar">
 </div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-instalacao-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figura&nbsp;9.2: Etapas de instalação de paliçadas em ravina — escavação, cravamento de estacas e entrelaçamento das varas.
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-deposicao-patamar-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figura&nbsp;8.2: Representação esquemática da deposição a montante e corte transversal de uma paliçada em fase intermediária de preenchimento, com a cunha sedimentar abaixo da crista da barreira.
 </figcaption>
 </figure>
 </div>
-<section id="passo-a-passo" class="level3" data-number="9.3.1">
-<h3 data-number="9.3.1" class="anchored" data-anchor-id="passo-a-passo"><span class="header-section-number">9.3.1</span> Passo a Passo</h3>
-<p>Conforme mostrado na <a href="#fig-instalacao" class="quarto-xref">Figura&nbsp;<span>9.2</span></a>, o procedimento inicia com a escavação de uma vala transversal perpendicular ao eixo da ravina, com profundidade igual à altura efetiva <span class="math inline">\(H\)</span> (ou seja, metade da paliçada ficará enterrada, garantindo ancoragem contra tombamento e percolação por baixo). Em seguida, realiza-se o cravamento de estacas verticais de bambu ou madeira a cada 30–50 cm ao longo da vala, com cada estaca penetrando ao menos 30 cm abaixo do fundo da vala. O entrelaçamento de varas horizontais entre as estacas é feito alternando os lados (frente e trás), de forma análoga à tecelagem, criando uma estrutura flexível mas resistente. Após o entrelaçamento, compacta-se terra contra a face montante da paliçada para vedar a base e evitar percolação concentrada. As laterais são ancoradas nas paredes da ravina por pelo menos 50 cm de cada lado, com as varas horizontais embutidas em entalhes escavados nas paredes. Por fim, semeiam-se gramíneas a montante da paliçada para acelerar a cobertura vegetal sobre os sedimentos que serão depositados.</p>
+<p>Essa transformação do perfil longitudinal constitui o mecanismo central da bioengenharia aplicada ao controle de erosão linear, porque a redução do gradiente diminui a velocidade do escoamento para uma mesma lâmina, reduz a capacidade de transporte de sedimento e favorece deposição adicional, com efeito acumulado sobre a conectividade hidrossedimentológica da bacia <span class="citation" data-cites="frankl_et_al_2021 galia_et_al_2022">(<a href="../referencias.html#ref-frankl_et_al_2021" role="doc-biblioref">Frankl et al., 2021</a>; <a href="../referencias.html#ref-galia_et_al_2022" role="doc-biblioref">Galia et al., 2022</a>)</span>.</p>
+<div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Importante</span>O alcance real da intervenção
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>A tensão cisalhante do leito ainda não tratado permanece inalterada pela presença da estrutura, uma vez que <span class="math inline">\(\tau\)</span> responde ao produto <span class="math inline">\(\gamma R_h S_f\)</span> e, portanto, à declividade e à lâmina locais (<a href="07a-palicadas-protocolo.html" class="quarto-xref"><span>Capítulo 9</span></a>). A sequência de paliçadas atua substituindo progressivamente a declividade original pela declividade do depósito nos trechos já assoreados, de modo que o espaçamento controla a fração do talvegue convertida em patamar por ciclo de preenchimento. Reconhecer esse limite separa o dimensionamento hidrogeotécnico da simples instalação de barreiras.</p>
+</div>
+</div>
+</section>
+<section id="desempenho-documentado-e-limites-de-transferência" class="level2" data-number="8.3">
+<h2 data-number="8.3" class="anchored" data-anchor-id="desempenho-documentado-e-limites-de-transferência"><span class="header-section-number">8.3</span> Desempenho documentado e limites de transferência</h2>
+<p>A quantificação do desempenho em contextos climáticos e pedológicos distintos fornece as ordens de grandeza que sustentam tecnicamente a escolha da técnica frente a alternativas mais caras. Sequências de check-dams permeáveis em bacias mediterrâneas associaram-se a reduções de 60–85% na carga sólida transportada <span class="citation" data-cites="zema_et_al_2018 lucas_borja_et_al_2021">(<a href="../referencias.html#ref-lucas_borja_et_al_2021" role="doc-biblioref">Lucas-Borja et al., 2021</a>; <a href="../referencias.html#ref-zema_et_al_2018" role="doc-biblioref">Zema et al., 2018</a>)</span>, enquanto em ambientes semiáridos da Índia intervenções com barreiras transversais combinadas a cobertura vegetal registraram retenção de 12,3 a 18,7 t ha<sup>-1</sup> ano<sup>-1</sup> de sedimento, valores que representam de 40 a 65% da perda de solo anual estimada para ravinas ativas não tratadas <span class="citation" data-cites="meena_et_al_2023">(<a href="../referencias.html#ref-meena_et_al_2023" role="doc-biblioref">Meena et al., 2023</a>)</span>. Nos Tabuleiros Costeiros e no Baixo São Francisco, intervenções com bioengenharia de solos e geotêxteis naturais produziram estabilização parcial quando associadas à revegetação e ao manejo do escoamento concentrado <span class="citation" data-cites="antonio_2021_avaliacao_de_eficiencia_da_ fontes_2021_erosion_control_with_geotext holanda_et_al_2021">(<a href="../referencias.html#ref-antonio_2021_avaliacao_de_eficiencia_da_" role="doc-biblioref">Antonio et al., 2021</a>; <a href="../referencias.html#ref-fontes_2021_erosion_control_with_geotext" role="doc-biblioref">Fontes et al., 2021</a>; <a href="../referencias.html#ref-holanda_et_al_2021" role="doc-biblioref">Holanda et al., 2021</a>)</span>.</p>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Aviso</span>Transferência de parâmetros entre bacias
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>O efeito das barreiras depende da declividade local, da granulometria do material transportado e da manutenção após eventos extremos, fatores que variam entre bacias e dificultam a transferência direta de parâmetros de dimensionamento de uma região para outra <span class="citation" data-cites="tang_catchment_2019">(<a href="../referencias.html#ref-tang_catchment_2019" role="doc-biblioref">Tang et al., 2019</a>)</span>. Números de eficiência publicados servem para estimar ordem de grandeza e devem ser substituídos pela parametrização hidrogeotécnica da feição a tratar.</p>
+<p>A base aplicada brasileira permanece predominantemente descritiva e raramente relaciona altura efetiva, espaçamento e volume retido a parâmetros hidráulicos e geotécnicos medidos em campo, condição que limita a reprodutibilidade das intervenções e dificulta a comparação de desempenho entre sítios.</p>
+</div>
+</div>
+</section>
+<section id="modos-de-falha-e-controles-construtivos-correspondentes" class="level2" data-number="8.4">
+<h2 data-number="8.4" class="anchored" data-anchor-id="modos-de-falha-e-controles-construtivos-correspondentes"><span class="header-section-number">8.4</span> Modos de falha e controles construtivos correspondentes</h2>
+<p>Três mecanismos concentram as ruínas observadas em campo, e cada um remete a uma decisão construtiva específica, razão pela qual o reconhecimento antecipado dos modos de falha é mais produtivo que o reforço indiscriminado da estrutura (<a href="#tbl-falhas-palicada" class="quarto-xref">Tabela&nbsp;<span>8.1</span></a>).</p>
+<div id="tbl-falhas-palicada" class="striped hover quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-falhas-palicada-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Tabela&nbsp;8.1: Modos de falha em paliçadas permeáveis e os respectivos controles de projeto.
+</figcaption>
+<div aria-describedby="tbl-falhas-palicada-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="table-striped table-hover caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Modo de falha</th>
+<th>Mecanismo dominante</th>
+<th>Controle de projeto</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Erosão lateral de contorno</td>
+<td>O escoamento encontra caminho preferencial pelas margens, onde não há trama nem compactação, e contorna a barreira antes de a deposição central consolidar o patamar</td>
+<td>Embutimento das varas em entalhes de 0,50 m ou mais em material não perturbado de cada parede</td>
+</tr>
+<tr class="even">
+<td><em>Piping</em> e percolação basal</td>
+<td>Gradiente hidráulico sob a fundação gera fluxo preferencial quando a vedação basal é insuficiente ou a altura efetiva é excessiva</td>
+<td>Vala basal, compactação de solo a montante e limite <span class="math inline">\(H \le D/3\)</span></td>
+</tr>
+<tr class="odd">
+<td>Sobrecarga hidrostática</td>
+<td>A altura efetiva se aproxima da profundidade local da ravina, gerando represamento excessivo e empuxo acima da capacidade da trama</td>
+<td>Limite <span class="math inline">\(H \le D/3\)</span> e verificação da estabilidade de talude</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<p>A evolução da falha por contorno percorre dois estágios físicos distintos (<a href="#fig-falha-contorno" class="quarto-xref">Figura&nbsp;<span>8.3</span></a>). No estágio inicial, o escoamento concentrado identifica a zona de menor resistência ao fluxo junto às margens, onde a ausência de compactação e de trama elimina a dissipação, e contorna a barreira antes que a deposição central consolide o patamar <span class="citation" data-cites="zema_et_al_2014">(<a href="../referencias.html#ref-zema_et_al_2014" role="doc-biblioref">Zema et al., 2014</a>)</span>. O fluxo lateral concentra tensão cisalhante junto ao contato vara–parede e evolui para o estágio terminal, no qual a escavação progressiva da margem rompe a continuidade transversal da barreira e reduz rapidamente a vida útil da intervenção <span class="citation" data-cites="Chen_2024">(<a href="../referencias.html#ref-Chen_2024" role="doc-biblioref">Chen et al., 2025</a>)</span>.</p>
+<div id="fig-falha-contorno" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Fluxo preferencial lateral e falha por contorno em paliçada">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-falha-contorno-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../img/ancoragem_lateral_falha_contorno.png" class="img-fluid figure-img" style="width:85.0%" alt="Fluxo preferencial lateral e falha por contorno em paliçada">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-falha-contorno-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figura&nbsp;8.3: Mecanismo de falha por ausência de ancoragem lateral em paliçadas permeáveis, com (a) fluxo preferencial pelas laterais e (b) falha por contorno.
+</figcaption>
+</figure>
+</div>
 <div class="callout callout-style-default callout-important callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
@@ -518,100 +624,315 @@ Figura&nbsp;9.2: Etapas de instalação de paliçadas em ravina — escavação,
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>As paliçadas devem ser ancoradas nas paredes laterais da ravina por pelo menos 50 cm de cada lado. A principal causa de falha em paliçadas é a erosão lateral por contorno da estrutura, que ocorre quando a água encontra caminho mais fácil pelas laterais do que pelo corpo permeável da paliçada. A ancoragem insuficiente é um erro de projeto que compromete toda a intervenção.</p>
+<p>O embutimento mínimo de 0,50 m em cada parede lateral é condição necessária para conduzir o fluxo pela seção completa da barreira. Em Plintossolos, o contraste de resistência entre o horizonte Bt plíntico e o Ap superficial favorece a subestimativa da ancoragem lateral e da compactação basal, porque o material da parede superior apresenta coesão inferior à que a inspeção visual do fundo sugere.</p>
 </div>
 </div>
 </section>
-</section>
-<section id="eficiência" class="level2" data-number="9.4">
-<h2 data-number="9.4" class="anchored" data-anchor-id="eficiência"><span class="header-section-number">9.4</span> Eficiência</h2>
-<p>Os dados de eficiência das paliçadas são essenciais para justificar tecnicamente a escolha dessa técnica em detrimento de alternativas mais caras. A <a href="#fig-simulacao" class="quarto-xref">Figura&nbsp;<span>9.3</span></a> apresenta a evolução temporal da retenção de sedimentos em uma sequência de paliçadas, demonstrando como o assoreamento progressivo cria patamares que estabilizam o perfil longitudinal da ravina.</p>
-<div id="fig-simulacao" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Simulação de retenção de sedimentos">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-simulacao-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="../img/simulacao_palicadas.png" class="img-fluid figure-img" style="width:85.0%" alt="Simulação de retenção de sedimentos">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-simulacao-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figura&nbsp;9.3: Simulação temporal de retenção de sedimentos pelas paliçadas ao longo dos anos — o assoreamento progressivo cria patamares que estabilizam a ravina.
-</figcaption>
-</figure>
-</div>
-<div id="fig-area-estudo-palicadas" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Mapa da área de estudo das paliçadas em Sergipe">
-<figure class="quarto-float quarto-float-fig figure">
-<div aria-describedby="fig-area-estudo-palicadas-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="../img/area_estudo_palicadas.png" class="img-fluid figure-img" style="width:80.0%" alt="Mapa da área de estudo das paliçadas em Sergipe">
-</div>
-<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-area-estudo-palicadas-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Figura&nbsp;9.4: Área de estudo — localização das paliçadas experimentais em ravinas nos Tabuleiros Costeiros de Sergipe.
-</figcaption>
-</figure>
-</div>
-<p>Conforme observado na <a href="#fig-simulacao" class="quarto-xref">Figura&nbsp;<span>9.3</span></a>, o processo de estabilização é progressivo. Estudos em Plintossolo degradado nos Tabuleiros Costeiros de Sergipe demonstraram resultados quantitativos expressivos: retenção de 76 cm de sedimento em 12 meses (paliçada de 1,0 m de altura), redução de 85% na velocidade do escoamento no interior da ravina e colonização vegetal espontânea a montante das paliçadas após 6 meses. A projeção de preenchimento total do espaço entre paliçadas consecutivas estima-se entre 3 e 5 anos, período no qual a vegetação assume progressivamente a função de estabilização, realizando a transição funcional discutida no <a href="01-introducao.html" class="quarto-xref"><span>Capítulo 3</span></a>.</p>
-</section>
-<section id="custos-comparativos" class="level2" data-number="9.5">
-<h2 data-number="9.5" class="anchored" data-anchor-id="custos-comparativos"><span class="header-section-number">9.5</span> Custos Comparativos</h2>
-<p>A viabilidade econômica das paliçadas de bambu em relação às alternativas convencionais (check-dams de alvenaria ou concreto) é uma das principais vantagens da técnica, conforme demonstrado na <a href="#tbl-custos-palicada" class="quarto-xref">Tabela&nbsp;<span>9.1</span></a>.</p>
-<div id="tbl-custos-palicada" class="striped hover quarto-float quarto-figure quarto-figure-center anchored">
+<section id="materiais-e-critérios-de-seleção" class="level2" data-number="8.5">
+<h2 data-number="8.5" class="anchored" data-anchor-id="materiais-e-critérios-de-seleção"><span class="header-section-number">8.5</span> Materiais e critérios de seleção</h2>
+<p>A escolha do material responde à disponibilidade local, ao custo e à durabilidade exigida pelo horizonte de projeto, e em regiões tropicais três materiais predominam com desempenhos e indicações distintas (<a href="#tbl-materiais-palicada" class="quarto-xref">Tabela&nbsp;<span>8.2</span></a>).</p>
+<div id="tbl-materiais-palicada" class="striped hover quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-tbl figure">
-<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-custos-palicada-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-Tabela&nbsp;9.1: Comparativo de custos entre paliçadas de bambu e check-dams de alvenaria.
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-materiais-palicada-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Tabela&nbsp;8.2: Comparação técnico-econômica dos materiais para paliçadas em regiões tropicais.
 </figcaption>
-<div aria-describedby="tbl-custos-palicada-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<div aria-describedby="tbl-materiais-palicada-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 <table class="table-striped table-hover caption-top table">
+<colgroup>
+<col style="width: 14%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 23%">
+<col style="width: 14%">
+</colgroup>
 <thead>
 <tr class="header">
-<th>Item</th>
-<th>Paliçada de bambu</th>
-<th>Check-dam de alvenaria</th>
+<th>Material</th>
+<th style="text-align: center;">Resistência (MPa)</th>
+<th style="text-align: center;">Vida útil sem tratamento</th>
+<th style="text-align: center;">Custo (R$/m²)</th>
+<th>Indicação</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>Material</td>
-<td>R$ 15–30/m²</td>
-<td>R$ 150–300/m²</td>
+<td>Bambu (<em>Bambusa</em>, <em>Dendrocalamus</em>)</td>
+<td style="text-align: center;">120–230 (tração)</td>
+<td style="text-align: center;">6–12 meses</td>
+<td style="text-align: center;">35–70</td>
+<td>Ravinas pequenas e médias</td>
 </tr>
 <tr class="even">
-<td>Mão de obra</td>
-<td>R$ 20–40/m²</td>
-<td>R$ 80–150/m²</td>
+<td>Madeira roliça (eucalipto, leucena, gliricídia)</td>
+<td style="text-align: center;">40–90 (compressão)</td>
+<td style="text-align: center;">3–8 anos</td>
+<td style="text-align: center;">80–150</td>
+<td>Ravinas médias e grandes</td>
 </tr>
 <tr class="odd">
-<td>Total</td>
-<td>R$ 35–70/m²</td>
-<td>R$ 230–450/m²</td>
-</tr>
-<tr class="even">
-<td>Vida útil</td>
-<td>3–5 anos</td>
-<td>20+ anos</td>
-</tr>
-<tr class="odd">
-<td>Manutenção</td>
-<td>Anual</td>
-<td>Quinquenal</td>
+<td>Pedra seca</td>
+<td style="text-align: center;">n.a. (empilhamento)</td>
+<td style="text-align: center;">&gt; 50 anos</td>
+<td style="text-align: center;">50–120</td>
+<td>Encostas serranas, leitos pedregosos</td>
 </tr>
 </tbody>
 </table>
 </div>
 </figure>
 </div>
+<section id="bambu" class="level3" data-number="8.5.1">
+<h3 data-number="8.5.1" class="anchored" data-anchor-id="bambu"><span class="header-section-number">8.5.1</span> Bambu</h3>
+<p>O bambu (<em>Bambusa</em> spp., <em>Dendrocalamus</em> spp.) predomina em regiões tropicais por associar resistência mecânica adequada à função estrutural, disponibilidade abundante em touceiras próximas a áreas de pastagem degradada e facilidade de processamento por ferramentas manuais <span class="citation" data-cites="acharya_2018 holanda_et_al_2021">(<a href="../referencias.html#ref-acharya_2018" role="doc-biblioref">Acharya, 2018</a>; <a href="../referencias.html#ref-holanda_et_al_2021" role="doc-biblioref">Holanda et al., 2021</a>)</span>. A resistência à tração longitudinal de colmos maduros situa-se entre 120 e 230 MPa, sustentada pela orientação das microfibrilas de celulose e pela concentração de feixes vasculares no terço externo da parede, arranjo que confere rigidez à flexão compatível com a função das estacas verticais <span class="citation" data-cites="janssen_2000 sharma_et_al_2015 ghavami_marinho_2005">(<a href="../referencias.html#ref-ghavami_marinho_2005" role="doc-biblioref">Ghavami &amp; Marinho, 2005</a>; <a href="../referencias.html#ref-janssen_2000" role="doc-biblioref">Janssen, 2000</a>; <a href="../referencias.html#ref-sharma_et_al_2015" role="doc-biblioref">Sharma et al., 2015</a>)</span>.</p>
+<p>Uma propriedade adicional distingue o bambu dos demais materiais inertes, porque colmos parcialmente enterrados em solo úmido podem emitir brotação a partir de gemas axilares, convertendo a barreira em estrutura parcialmente viva com reforço radicular progressivo <span class="citation" data-cites="trujillo_lopez_2016">(<a href="../referencias.html#ref-trujillo_lopez_2016" role="doc-biblioref">Trujillo &amp; López, 2016</a>)</span>, possibilidade tratada em <a href="07b-palicadas-execucao.html" class="quarto-xref"><span>Capítulo 10</span></a>.</p>
+<p>A durabilidade constitui a principal limitação do material. Em ambiente tropical úmido, colmos sem tratamento perdem integridade estrutural em 6–12 meses pela ação de fungos xilófagos e insetos, intervalo eventualmente suficiente para o estabelecimento vegetal em ravinas de pequeno porte e insuficiente para completar um ciclo de preenchimento em feições médias. O tratamento por imersão em solução de sais de boro estende a vida útil mecânica para 2–5 anos <span class="citation" data-cites="kaminski_et_al_2016 khatun_et_al_2025">(<a href="../referencias.html#ref-kaminski_et_al_2016" role="doc-biblioref">Kaminski et al., 2016</a>; <a href="../referencias.html#ref-khatun_et_al_2025" role="doc-biblioref">Khatun et al., 2025</a>)</span>.</p>
+</section>
+<section id="madeira-roliça" class="level3" data-number="8.5.2">
+<h3 data-number="8.5.2" class="anchored" data-anchor-id="madeira-roliça"><span class="header-section-number">8.5.2</span> Madeira roliça</h3>
+<p>Troncos de eucalipto, pinus ou espécies de rápido crescimento como leucena e gliricídia oferecem maior resistência à compressão e durabilidade de 3–8 anos sem tratamento, alcançando 10–15 anos com tratamento em autoclave. A indicação recai sobre ravinas de médio a grande porte, nas quais o empuxo do sedimento retido exige robustez estrutural superior, com a contrapartida de custo e peso mais elevados que oneram o transporte em terreno acidentado.</p>
+</section>
+<section id="pedra-seca" class="level3" data-number="8.5.3">
+<h3 data-number="8.5.3" class="anchored" data-anchor-id="pedra-seca"><span class="header-section-number">8.5.3</span> Pedra seca</h3>
+<p>Em regiões com disponibilidade de pedras, como encostas serranas e leitos pedregosos de rios intermitentes, o empilhamento sem argamassa produz barreiras cuja permeabilidade intergranular cumpre função de filtro, retendo sedimentos grossos e permitindo a passagem da água, com durabilidade de décadas, resistência a incêndios e manutenção mínima. O peso e a dificuldade de transporte em terrenos íngremes restringem a aplicação.</p>
+</section>
+</section>
+<section id="seleção-e-preparo-prévio-do-material" class="level2" data-number="8.6">
+<h2 data-number="8.6" class="anchored" data-anchor-id="seleção-e-preparo-prévio-do-material"><span class="header-section-number">8.6</span> Seleção e preparo prévio do material</h2>
+<p>A seleção do material deve preceder em 30–60 dias a montagem em campo, intervalo necessário para corte, secagem parcial, tratamento para durabilidade e, quando aplicável, indução de brotação dos colmos. Tratar o preparo como etapa de projeto condiciona a diferença entre uma paliçada com vida útil de cinco anos e uma estrutura que falha no primeiro período chuvoso.</p>
+<p>A triagem de qualidade no bambuzal e o ensaio hidrostático de estanqueidade compõem a rotina de preparo que antecede o transporte (<a href="#fig-selecao-bambus" class="quarto-xref">Figura&nbsp;<span>8.4</span></a>). A seleção morfo-etária prioriza colmos maduros de 3–5 anos, caracterizados pela coloração amarelo-acinzentada com líquens nos entrenós e pela ausência de bainhas foliares basais, reduzindo a mobilização de colmos jovens com menor lignificação ou de espécimes com fissuras longitudinais <span class="citation" data-cites="correal_arbelaez_2010 bantie_et_al_2025">(<a href="../referencias.html#ref-bantie_et_al_2025" role="doc-biblioref">Bantie et al., 2025</a>; <a href="../referencias.html#ref-correal_arbelaez_2010" role="doc-biblioref">Correal &amp; Arbeláez, 2010</a>)</span>.</p>
+<div id="fig-selecao-bambus" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Seleção de colmos maduros e teste hidrostático de estanqueidade">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-selecao-bambus-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../img/selecao_bambus.jpg" class="img-fluid figure-img" style="width:85.0%" alt="Seleção de colmos maduros e teste hidrostático de estanqueidade">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-selecao-bambus-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figura&nbsp;8.4: Etapas iniciais do preparo prévio dos colmos de bambu, compreendendo a seleção de colmos maduros no bambuzal e o teste hidrostático de estanqueidade dos entrenós por preenchimento com água.
+</figcaption>
+</figure>
+</div>
+<p>A integridade dos diafragmas internos é avaliada pelo preenchimento de cada colmo com água por 30 minutos, procedimento que destina os colmos estanques às estacas verticais, responsáveis por suportar o empuxo do aterro sedimentar e os arrastes dinâmicos, enquanto vazamentos direcionam o material para tramas horizontais secundárias de permeabilidade controlada, onde a solicitação é menor. Esse ensaio dispensa qualquer equipamento e elimina falhas mecânicas antes do canteiro.</p>
+<p>A separação dimensional ocorre diretamente no bambuzal para otimizar transporte e montagem, destinando colmos de 6–10 cm às estacas estruturais verticais e de 3–5 cm às varas horizontais da trama. O comprimento das estacas resulta da soma da altura efetiva <span class="math inline">\(H\)</span> calculada pelo protocolo (<a href="07a-palicadas-protocolo.html" class="quarto-xref"><span>Capítulo 9</span></a>) e da profundidade enterrada total, totalizando 60–80 cm de embutimento e estacas de 1,0–1,2 m na variante inerte, e 70–100 cm de embutimento e estacas de 1,1–1,4 m na variante viva, em conformidade com as recomendações clássicas de bioengenharia para estacas vegetativas em paliçadas vivas <span class="citation" data-cites="schiechtl_1973 florineth_2004">(<a href="../referencias.html#ref-florineth_2004" role="doc-biblioref">Florineth, 2004</a>; <a href="../referencias.html#ref-schiechtl_1973" role="doc-biblioref">Schiechtl, 1973</a>)</span>.</p>
+<p>A operação de corte dos colmos na touceira, o seccionamento em estacas de comprimento padronizado e a aferição métrica que vincula o estoque produzido às dimensões da feição constituem a transição entre a matriz vegetal e o canteiro de instalação (<a href="#fig-producao-estacas" class="quarto-xref">Figura&nbsp;<span>8.5</span></a>). O corte é executado rente à base do colmo de maior diâmetro disponível por ferramentas manuais, preservando a integridade física da touceira para não comprometer a regeneração vegetativa futura, e a aferição métrica em campo confirma largura e comprimento útil da ravina, balizando o número total de paliçadas pelo espaçamento calculado.</p>
+<div id="fig-producao-estacas" class="quarto-float quarto-figure quarto-figure-center anchored" alt="Corte, seccionamento e aferição das estacas de bambu">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-producao-estacas-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="../img/instalacao_palicadas.jpg" class="img-fluid figure-img" style="width:85.0%" alt="Corte, seccionamento e aferição das estacas de bambu">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-producao-estacas-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figura&nbsp;8.5: Operação de campo para a produção de estacas de bambu estruturais, mostrando o corte de colmos maduros na touceira de origem, o seccionamento em estacas de comprimento padronizado e a aferição métrica das dimensões da ravina e das peças produzidas.
+</figcaption>
+</figure>
+</div>
+<p>O tratamento para durabilidade antecede a instalação e consiste na imersão dos colmos em solução aquosa boratada, mistura de bórax e ácido bórico a 4–6% em massa, por sete a quatorze dias em tambores plásticos de 200 L, com os septos internodais parcialmente perfurados para que a solução penetre o lume e atinja o parênquima. A secagem subsequente sobre estrado ventilado, ao abrigo do solo nu, evita a reabsorção de umidade e favorece a fixação dos sais preservativos nas paredes celulares antes do contato com o solo úmido da vala basal, conforme protocolos consolidados de preservação de bambu por tratamento hidrossolúvel à base de boro <span class="citation" data-cites="liese_kumar_2003 iwst_2001_sap_displacement">(<a href="../referencias.html#ref-iwst_2001_sap_displacement" role="doc-biblioref">Institute of Wood Science and Technology, 2001</a>; <a href="../referencias.html#ref-liese_kumar_2003" role="doc-biblioref">Liese &amp; Kumar, 2003</a>)</span>. A eficácia dessa sequência contra fungos xilófagos e cupins subterrâneos em colmos de <em>Bambusa</em> e <em>Guadua</em> spp. está documentada na construção tropical <span class="citation" data-cites="kaminski_et_al_2016 bamboo_sustainable_construction_2023">(<a href="../referencias.html#ref-kaminski_et_al_2016" role="doc-biblioref">Kaminski et al., 2016</a>; <a href="../referencias.html#ref-bamboo_sustainable_construction_2023" role="doc-biblioref">Palombini &amp; Nogueira, 2023</a>)</span>.</p>
 <div class="callout callout-style-default callout-tip callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Dica</span>Vantagem econômica
+<span class="screen-reader-only">Dica</span>Quantitativo de material por metro de largura
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p>O custo das paliçadas de bambu é 5 a 7× menor que check-dams de alvenaria. Mesmo considerando a reposição a cada 5 anos (três ciclos em 15 anos), o custo acumulado das paliçadas permanece inferior ao da solução convencional. Adicionalmente, as paliçadas podem ser construídas com mão de obra local não especializada, o que gera renda na comunidade e reduz custos logísticos de transporte de materiais pesados (cimento, areia, brita).</p>
+<p>Para cada metro de largura de ravina a tratar, o espaçamento de 30–50 cm entre estacas verticais implica aproximadamente três peças estruturais, acrescidas das varas horizontais necessárias para empilhar a altura efetiva mantendo vãos de 2–5 cm entre fiadas. A reserva de 15–20% de peças excedentes absorve a perda por fissuras durante o cravamento, cuja ocorrência é normal, e evita a interrupção da montagem para busca de material, principal fonte de atraso em campo.</p>
 </div>
 </div>
-
-
 </section>
+<section id="custo-de-implantação-e-estrutura-da-vantagem-econômica" class="level2" data-number="8.7">
+<h2 data-number="8.7" class="anchored" data-anchor-id="custo-de-implantação-e-estrutura-da-vantagem-econômica"><span class="header-section-number">8.7</span> Custo de implantação e estrutura da vantagem econômica</h2>
+<p>A comparação por metro quadrado de barreira transversal indica que o bambu reduz a dependência de cimento, areia, brita e transporte pesado, preservando função hidráulica compatível com ravinas pequenas e médias (<a href="#tbl-custos-palicada" class="quarto-xref">Tabela&nbsp;<span>8.3</span></a>).</p>
+<div id="tbl-custos-palicada" class="striped hover quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-tbl figure">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-tbl" id="tbl-custos-palicada-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Tabela&nbsp;8.3: Comparativo de custos por metro quadrado de barreira transversal, com preços de referência do mercado local e custo anual equivalente obtido pela razão entre custo total e vida útil, sem taxa de desconto.
+</figcaption>
+<div aria-describedby="tbl-custos-palicada-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<table class="table-striped table-hover caption-top table">
+<thead>
+<tr class="header">
+<th>Item</th>
+<th style="text-align: center;">Paliçada de bambu</th>
+<th style="text-align: center;">Check-dam de alvenaria</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Material (R$/m²)</td>
+<td style="text-align: center;">15–30</td>
+<td style="text-align: center;">150–300</td>
+</tr>
+<tr class="even">
+<td>Mão de obra (R$/m²)</td>
+<td style="text-align: center;">20–40</td>
+<td style="text-align: center;">80–150</td>
+</tr>
+<tr class="odd">
+<td>Custo total (R$/m²)</td>
+<td style="text-align: center;">35–70</td>
+<td style="text-align: center;">230–450</td>
+</tr>
+<tr class="even">
+<td>Vida útil</td>
+<td style="text-align: center;">3–5 anos</td>
+<td style="text-align: center;">20+ anos</td>
+</tr>
+<tr class="odd">
+<td>Custo anual equivalente (R$/m² ano<sup>-1</sup>)</td>
+<td style="text-align: center;">7–23</td>
+<td style="text-align: center;">12–23</td>
+</tr>
+<tr class="even">
+<td>Manutenção</td>
+<td style="text-align: center;">Anual</td>
+<td style="text-align: center;">Quinquenal</td>
+</tr>
+</tbody>
+</table>
+</div>
+</figure>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Nota</span>Onde reside a vantagem econômica
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Em capital inicial, a paliçada de bambu é 5 a 7× mais barata que a alternativa em alvenaria. Quando os custos são anualizados pela vida útil de cada solução, as faixas se sobrepõem, situando-se em 7–23 contra 12–23 R$/m² ao ano, de modo que a preferência pelo bambu se apoia na redução da barreira de entrada e na mobilização de mão de obra local não especializada, com desempenho comparável ao longo do ciclo de vida <span class="citation" data-cites="abbasi_et_al_2019">(<a href="../referencias.html#ref-abbasi_et_al_2019" role="doc-biblioref">Abbasi et al., 2019</a>)</span>.</p>
+<p>Esse enquadramento quantitativo sustenta o argumento diante de órgãos licenciadores e agências de fomento. A dispensa de formas, cura e equipamentos de mistura viabiliza a intervenção em propriedades rurais onde o transporte de concreto é inviável <span class="citation" data-cites="fao_1985_watershed_management">(<a href="../referencias.html#ref-fao_1985_watershed_management" role="doc-biblioref">Food and Agriculture Organization of the United Nations, 1985</a>)</span>, e a degradação gradual do material lenhoso aporta matéria orgânica ao patamar sedimentar formado.</p>
+</div>
+</div>
+</section>
+<section id="condições-que-contraindicam-a-técnica" class="level2" data-number="8.8">
+<h2 data-number="8.8" class="anchored" data-anchor-id="condições-que-contraindicam-a-técnica"><span class="header-section-number">8.8</span> Condições que contraindicam a técnica</h2>
+<p>Quatro condições de contorno restringem a aplicação da paliçada permeável e o seu reconhecimento prévio evita desperdício de material e de trabalho comunitário. Em feições alimentadas por contribuição subsuperficial dominante, com incisão sustentada por escoamento no contato entre horizontes ou pelo lençol freático, a barreira transversal atua sobre o sintoma enquanto o processo permanece ativo, condição em que a drenagem subsuperficial precede qualquer estrutura. Em taludes já instáveis, com razão entre a profundidade da feição e a altura admissível de corte vertical acima do limiar operacional de 0,40 (<a href="07a-palicadas-protocolo.html" class="quarto-xref"><span>Capítulo 9</span></a>), o colapso gravitacional das paredes tende a soterrar e desalinhar as estruturas antes do preenchimento. Em voçorocas com profundidade superior a 5 m, a paliçada só cumpre função como componente de projeto integrado com retaludamento, drenagem e estruturas de maior porte (<a href="05-classificacao-feicoes.html" class="quarto-xref"><span>Capítulo 6</span></a>, <a href="21-projeto-integrador.html" class="quarto-xref"><span>Capítulo 24</span></a>). Finalmente, na ausência de manutenção programada, a ruína de elementos isolados ao final da janela de vida útil reativa o transporte de sedimentos no segmento e pode devolver a feição a condição pior que a inicial, conforme a programação de reposição modular discutida em <a href="07b-palicadas-execucao.html" class="quarto-xref"><span>Capítulo 10</span></a>.</p>
+</section>
+<section id="da-técnica-ao-protocolo" class="level2" data-number="8.9">
+<h2 data-number="8.9" class="anchored" data-anchor-id="da-técnica-ao-protocolo"><span class="header-section-number">8.9</span> Da técnica ao protocolo</h2>
+<p>Recomendações genéricas de espaçamento, frequentemente expressas como faixas fixas de 3 a 5 m, omitem a relação entre altura efetiva, declividade do leito e declividade final do depósito, e essa simplificação responde por parte considerável das falhas sintetizadas na <a href="#tbl-falhas-palicada" class="quarto-xref">Tabela&nbsp;<span>8.1</span></a>. Os dois capítulos seguintes convertem as medidas da própria feição em critérios verificáveis, com <a href="07a-palicadas-protocolo.html" class="quarto-xref"><span>Capítulo 9</span></a> dedicado ao protocolo hidrogeotécnico de dimensionamento e <a href="07b-palicadas-execucao.html" class="quarto-xref"><span>Capítulo 10</span></a> à execução em campo, à conversão para paliçada viva, à durabilidade do material e ao monitoramento pós-instalação.</p>
+</section>
+<section id="síntese-do-capítulo" class="level2" data-number="8.10">
+<h2 data-number="8.10" class="anchored" data-anchor-id="síntese-do-capítulo"><span class="header-section-number">8.10</span> Síntese do capítulo</h2>
+<p>A paliçada permeável converte energia de escoamento concentrado em deposição controlada, atuando pela imposição de rugosidade localizada e pelo armazenamento temporário a montante, de modo que a estabilização efetiva decorre da substituição progressiva da declividade original pela declividade do depósito nos trechos assoreados. O desempenho documentado em bacias mediterrâneas, no semiárido indiano e nos Tabuleiros Costeiros fornece ordens de grandeza úteis, cuja transferência entre pedoambientes exige nova parametrização hidrogeotécnica. A ruína da intervenção concentra-se em três mecanismos, a erosão lateral de contorno, o <em>piping</em> basal e a sobrecarga hidrostática, controlados respectivamente pelo embutimento lateral de 0,50 m, pela vedação da base com vala e compactação a montante, e pelo limite de altura efetiva em um terço da profundidade da feição. Entre os materiais tropicais, o bambu associa resistência à tração de 120–230 MPa, disponibilidade local e aptidão à brotação, com durabilidade de 6–12 meses sem tratamento e de 2–5 anos após imersão em solução boratada, condição que inscreve o preparo prévio dos colmos, iniciado 30–60 dias antes da montagem, entre as etapas de projeto.</p>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Dica</span>Questões para estudo
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ol type="1">
+<li>Explique por que a instalação de uma paliçada não altera a tensão cisalhante do leito situado a jusante da estrutura e identifique qual grandeza de projeto controla a fração do talvegue convertida em patamar.</li>
+<li>Uma ravina apresenta profundidade de 0,90 m na seção de instalação. Determine a altura efetiva máxima admissível e justifique fisicamente o critério adotado.</li>
+<li>Dois colmos foram submetidos ao ensaio hidrostático de estanqueidade e um deles apresentou vazamento no terceiro entrenó. Indique a destinação de cada peça na estrutura e explique a razão mecânica da decisão.</li>
+<li>Compare o custo inicial e o custo anual equivalente da paliçada de bambu e do check-dam de alvenaria, e formule o argumento técnico que sustenta a escolha do bambu em propriedade rural sem acesso a maquinário.</li>
+<li>Em uma feição com razão <span class="math inline">\(D/H_{c,adm}\)</span> igual a 0,55, discuta a pertinência de instalar paliçadas e indique qual intervenção deve precedê-las.</li>
+</ol>
+</div>
+</div>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-abbasi_et_al_2019" class="csl-entry" role="listitem">
+Abbasi, N. A., Xu, X., Lucas-Borja, M. E., Dang, W., &amp; Liu, B. (2019). The use of check dams in watershed management projects: Examples from around the world. <em>Science of The Total Environment</em>, <em>676</em>, 683–691. <a href="https://doi.org/10.1016/j.scitotenv.2019.04.249">https://doi.org/10.1016/j.scitotenv.2019.04.249</a>
+</div>
+<div id="ref-acharya_2018" class="csl-entry" role="listitem">
+Acharya, M. S. (2018). The use of bamboo for erosion control and slope stabilization: Soil bioengineering works. Em <em>Bamboo: Current and Future Prospects</em> (p. 105–124). InTech. <a href="https://doi.org/10.5772/intechopen.75626">https://doi.org/10.5772/intechopen.75626</a>
+</div>
+<div id="ref-antonio_2021_avaliacao_de_eficiencia_da_" class="csl-entry" role="listitem">
+Antonio, G. M., Holanda, F. S. R., Santos, L. D. V., Mendonça, B. de S., Jesus, R. J. S. de J., &amp; Silva, P. A. de O. (2021). Avaliação de eficiência da implantação de técnica de bioengenharia de solos. <em>Revista Brasileira de Geografia Física</em>, <em>14</em>, 3417–3432. <a href="https://doi.org/10.26848/rbgf.v14.6.p3417-3432">https://doi.org/10.26848/rbgf.v14.6.p3417-3432</a>
+</div>
+<div id="ref-bantie_et_al_2025" class="csl-entry" role="listitem">
+Bantie, Z., Tegegne, A. G., &amp; Gebremariam, Y. (2025). Physical and mechanical properties of highland bamboo (Oldeania alpina) landraces and culm sections. <em>Advances in Bamboo Science</em>, <em>12</em>, 100172. <a href="https://doi.org/10.1016/j.bamboo.2025.100172">https://doi.org/10.1016/j.bamboo.2025.100172</a>
+</div>
+<div id="ref-castillo_2014" class="csl-entry" role="listitem">
+Castillo, C., Pérez, R., James, M. R., &amp; Gómez, J. A. (2014). A conceptual model of check dam hydraulics for gully control: efficiency, optimal spacing and relation with step-pools. <em>Hydrology and Earth System Sciences</em>, <em>18</em>(4), 1705–1721. <a href="https://doi.org/10.5194/hess-18-1705-2014">https://doi.org/10.5194/hess-18-1705-2014</a>
+</div>
+<div id="ref-Chen_2024" class="csl-entry" role="listitem">
+Chen, J., Wang, X., Chen, H., Zhao, W., Wang, C., &amp; Chen, X. (2025). Feedback mechanism between gully landforms and sediment trapping efficiency in a check dam. <em>International Soil and Water Conservation Research</em>, <em>13</em>(1), 134–144. <a href="https://doi.org/10.1016/j.iswcr.2024.07.003">https://doi.org/10.1016/j.iswcr.2024.07.003</a>
+</div>
+<div id="ref-correal_arbelaez_2010" class="csl-entry" role="listitem">
+Correal, J. F., &amp; Arbeláez, J. (2010). Influence of age and height position on Colombian Guadua angustifolia bamboo mechanical properties. <em>Maderas: Ciencia y Tecnolog<span>í</span>a</em>, <em>12</em>(2), 105–114. <a href="https://doi.org/10.4067/S0718-221X2010000200005">https://doi.org/10.4067/S0718-221X2010000200005</a>
+</div>
+<div id="ref-florineth_2004" class="csl-entry" role="listitem">
+Florineth, F. (2004). <em>Pflanzen statt Beton: Handbuch zur Ingenieurbiologie und Vegetationstechnik</em>. Patzer Verlag.
+</div>
+<div id="ref-fontes_2021_erosion_control_with_geotext" class="csl-entry" role="listitem">
+Fontes, C. dos S., Holanda, F. S. R., Araújo Filho, R. N. de, Santos, L. D. V., Lino, J. B., &amp; Moura, M. M. (2021). Erosion control with geotextiles from natural fibers in the margin of the São Francisco River. <em>Caminhos de Geografia</em>, <em>22</em>, 25–35. <a href="https://doi.org/10.14393/RCG228456549">https://doi.org/10.14393/RCG228456549</a>
+</div>
+<div id="ref-fao_1985_watershed_management" class="csl-entry" role="listitem">
+Food and Agriculture Organization of the United Nations. (1985). <em>Watershed Management Field Manual</em>. Food; Agriculture Organization of the United Nations.
+</div>
+<div id="ref-frankl_et_al_2021" class="csl-entry" role="listitem">
+Frankl, A., Nyssen, J., Vanmaercke, M., &amp; Poesen, J. (2021). Gully prevention and control: Techniques, failures and effectiveness. <em>Earth Surface Processes and Landforms</em>, <em>46</em>(1), 220–238. <a href="https://doi.org/10.1002/esp.5033">https://doi.org/10.1002/esp.5033</a>
+</div>
+<div id="ref-galia_et_al_2022" class="csl-entry" role="listitem">
+Galia, T., Skarpich, V., &amp; Smazak, I. (2022). Effect of Check Dams on Sediment Connectivity. Em <em>Check Dam Construction for Sustainable Watershed Management and Planning</em> (p. 245–252). Wiley. <a href="https://doi.org/10.1002/9781119742449.ch12">https://doi.org/10.1002/9781119742449.ch12</a>
+</div>
+<div id="ref-ghavami_marinho_2005" class="csl-entry" role="listitem">
+Ghavami, K., &amp; Marinho, A. B. (2005). Propriedades físicas e mecânicas do colmo inteiro do bambu da espécie <span>Guadua angustifolia</span>. <em>Revista Brasileira de Engenharia Agrícola e Ambiental</em>, <em>9</em>(1), 107–114. <a href="https://doi.org/10.1590/S1415-43662005000100016">https://doi.org/10.1590/S1415-43662005000100016</a>
+</div>
+<div id="ref-holanda_et_al_2021" class="csl-entry" role="listitem">
+Holanda, F. S. R. et al. (2021). Soil bioengineering in northeastern Brazil: An overview. <em>Revista Ambiente &amp; Água</em>, <em>16</em>(4), e2650. <a href="https://doi.org/10.4136/ambi-agua.2650">https://doi.org/10.4136/ambi-agua.2650</a>
+</div>
+<div id="ref-iwst_2001_sap_displacement" class="csl-entry" role="listitem">
+Institute of Wood Science and Technology. (2001). <em>Bamboo preservation by sap displacement</em>. International Network for Bamboo; Rattan (INBAR). <a href="https://hdl.handle.net/10568/64366">https://hdl.handle.net/10568/64366</a>
+</div>
+<div id="ref-janssen_2000" class="csl-entry" role="listitem">
+Janssen, J. J. A. (2000). <em>Designing and Building with Bamboo</em>. International Network for Bamboo; Rattan (INBAR).
+</div>
+<div id="ref-kaminski_et_al_2016" class="csl-entry" role="listitem">
+Kaminski, S., Lawrence, A., Trujillo, D., &amp; King, C. (2016). <em>Structural use of bamboo – Part 2: Durability and preservation</em>. Institution of Structural Engineers.
+</div>
+<div id="ref-khatun_et_al_2025" class="csl-entry" role="listitem">
+Khatun, R., Ahmmed, E., Ferdousi, S., Khan, M. A. R., Hannan, M. O., Ashaduzzaman, M., Sikder, A., &amp; Das, A. K. (2025). Preservative treatment of the bamboos Dendrocalamus giganteus, Bambusa vulgaris and Gigantochloa nigrociliata. <em>Advances in Bamboo Science</em>, <em>11</em>, 100163. <a href="https://doi.org/10.1016/j.bamboo.2025.100163">https://doi.org/10.1016/j.bamboo.2025.100163</a>
+</div>
+<div id="ref-liese_kumar_2003" class="csl-entry" role="listitem">
+Liese, W., &amp; Kumar, S. (2003). <em>Bamboo Preservation Compendium</em>. International Network for Bamboo; Rattan (INBAR).
+</div>
+<div id="ref-lucas_borja_et_al_2021" class="csl-entry" role="listitem">
+Lucas-Borja, M. E., Piton, G., Yu, Y., Castillo, C., &amp; Zema, D. A. (2021). Check dams worldwide: Objectives, functions, effectiveness and undesired effects. <em>CATENA</em>, <em>204</em>, 105390. <a href="https://doi.org/10.1016/j.catena.2021.105390">https://doi.org/10.1016/j.catena.2021.105390</a>
+</div>
+<div id="ref-meena_et_al_2023" class="csl-entry" role="listitem">
+Meena, G. L. et al. (2023). Quantification of impact of land use systems on runoff and soil loss from ravine ecosystem of western India. <em>Agriculture</em>, <em>13</em>(4), 773. <a href="https://doi.org/10.3390/agriculture13040773">https://doi.org/10.3390/agriculture13040773</a>
+</div>
+<div id="ref-morgan_rickson_2020" class="csl-entry" role="listitem">
+Morgan, R. P. C., &amp; Rickson, R. J. (2003). <em>Slope Stabilization and Erosion Control: A Bioengineering Approach</em>. Taylor &amp; Francis. <a href="https://doi.org/10.4324/9780203362136">https://doi.org/10.4324/9780203362136</a>
+</div>
+<div id="ref-bamboo_sustainable_construction_2023" class="csl-entry" role="listitem">
+Palombini, F. L., &amp; Nogueira, F. M. (Orgs.). (2023). <em>Bamboo and Sustainable Construction</em>. Springer Nature Singapore. <a href="https://doi.org/10.1007/978-981-99-0232-3">https://doi.org/10.1007/978-981-99-0232-3</a>
+</div>
+<div id="ref-piton_et_al_2017" class="csl-entry" role="listitem">
+Piton, G. et al. (2017). Why do we build check dams in Alpine streams? An historical perspective from the French experience. <em>Earth Surface Processes and Landforms</em>, <em>42</em>(1), 91–108. <a href="https://doi.org/10.1002/esp.3967">https://doi.org/10.1002/esp.3967</a>
+</div>
+<div id="ref-schiechtl_1973" class="csl-entry" role="listitem">
+Schiechtl, H. M. (1973). <em>Bioingegneria Forestale: basi – materiali da costruzioni vivi – metodi</em>. Tipolitografia Castaldi.
+</div>
+<div id="ref-sharma_et_al_2015" class="csl-entry" role="listitem">
+Sharma, B., Gatóo, A., Bock, M., &amp; Ramage, M. (2015). Engineered bamboo for structural applications. <em>Construction and Building Materials</em>, <em>81</em>, 66–73. <a href="https://doi.org/10.1016/j.conbuildmat.2015.01.077">https://doi.org/10.1016/j.conbuildmat.2015.01.077</a>
+</div>
+<div id="ref-stokes_et_al_2014" class="csl-entry" role="listitem">
+Stokes, A., Douglas, G. B., Fourcaud, T., Giadrossich, F., Gillies, C., Hubble, T., Kim, J. H., Loades, K. W., Mao, Z., McIvor, I. R., Mickovski, S. B., Mitchell, S., Osman, N., Phillips, C., Poesen, J., Polster, D., Preti, F., Raymond, P., Rey, F., … Walker, L. R. (2014). Ecological mitigation of hillslope instability: ten key issues facing researchers and practitioners. <em>Plant and Soil</em>, <em>377</em>(1-2), 1–23. <a href="https://doi.org/10.1007/s11104-014-2044-6">https://doi.org/10.1007/s11104-014-2044-6</a>
+</div>
+<div id="ref-tang_catchment_2019" class="csl-entry" role="listitem">
+Tang, C. et al. (2019). Physics-Based Simulation of Hydrologic Response and Sediment Transport in a Hilly-Gully Catchment with a Check Dam System on the Loess Plateau, China. <em>Water</em>, <em>11</em>(6), 1161. <a href="https://doi.org/10.3390/w11061161">https://doi.org/10.3390/w11061161</a>
+</div>
+<div id="ref-trujillo_lopez_2016" class="csl-entry" role="listitem">
+Trujillo, D. J., &amp; López, L. F. (2016). Bamboo material characterisation. Em K. A. Harries &amp; B. Sharma (Orgs.), <em>Nonconventional and Vernacular Construction Materials: Characterisation, Properties and Applications</em> (1º ed, p. 365–389). Woodhead Publishing. <a href="https://doi.org/10.1016/B978-0-08-100038-0.00013-5">https://doi.org/10.1016/B978-0-08-100038-0.00013-5</a>
+</div>
+<div id="ref-zema_et_al_2014" class="csl-entry" role="listitem">
+Zema, D. A. et al. (2014). Evaluation and modeling of scouring and sedimentation around check dams in a Mediterranean torrent in Calabria, Italy. <em>Journal of Soil and Water Conservation</em>, <em>69</em>(4), 316–329. <a href="https://doi.org/10.2489/jswc.69.4.316">https://doi.org/10.2489/jswc.69.4.316</a>
+</div>
+<div id="ref-zema_et_al_2018" class="csl-entry" role="listitem">
+Zema, D. A. et al. (2018). Evaluating the effects of check dams on channel geometry, bed sediment size and riparian vegetation in Mediterranean mountain torrents. <em>Science of the Total Environment</em>, <em>642</em>, 327–340. <a href="https://doi.org/10.1016/j.scitotenv.2018.06.035">https://doi.org/10.1016/j.scitotenv.2018.06.035</a>
+</div>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -1017,13 +1338,13 @@ Tabela&nbsp;9.1: Comparativo de custos entre paliçadas de bambu e check-dams de
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../capitulos/06-revegetacao.html" class="pagination-link" aria-label="Princípios da Revegetação">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Princípios da Revegetação</span></span>
+      <a href="../capitulos/06-revegetacao.html" class="pagination-link" aria-label="Revegetação e Espécies para Bioengenharia">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Revegetação e Espécies para Bioengenharia</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../capitulos/08-bacias-captacao.html" class="pagination-link" aria-label="Bacias de Captação">
-        <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Bacias de Captação</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../capitulos/07a-palicadas-protocolo.html" class="pagination-link" aria-label="Protocolo Hidrogeotécnico para Dimensionamento de Paliçadas">
+        <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Protocolo Hidrogeotécnico para Dimensionamento de Paliçadas</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -1031,7 +1352,7 @@ Tabela&nbsp;9.1: Comparativo de custos entre paliçadas de bambu e check-dams de
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p>© Luiz Diego Vidal Santos, 2026. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
+<p>© 2026 Luiz Diego Vidal Santos, Francisco Sandro Rodrigues Holanda e Emersson Guedes da Silva. Todos os direitos reservados.</p>
 </div>   
     <div class="nav-footer-center">
       &nbsp;

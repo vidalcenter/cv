@@ -1,42 +1,18 @@
-﻿# Projeto Integrador {#sec-projeto-integrador}
+# Projeto Integrador {#sec-projeto-integrador}
 
 ## Objetivo
 
 Este capítulo sintetiza os conhecimentos apresentados ao longo do livro em um projeto integrador de bioengenharia de solos, demonstrando como combinar múltiplas técnicas para resolver um problema real de degradação em região tropical. O objetivo não é apresentar uma receita fixa, mas um método de trabalho que permita ao projetista diagnosticar a situação de campo, selecionar as técnicas apropriadas, dimensionar as estruturas e monitorar os resultados, adaptando o projeto às condições locais de solo, clima, declividade e disponibilidade de materiais. A @fig-vocoroca mostra uma voçoroca ativa em solo tropical, feição erosiva de grande porte que exemplifica o tipo de desafio que demanda projeto integrado de múltiplas técnicas.
 
-![Voçoroca ativa em solo tropical — feição erosiva de grande porte com paredes laterais instáveis, fundo com escoamento concentrado e cabeceira em recuo ativo, demandando projeto integrado de múltiplas técnicas de bioengenharia.](../img/vocoroca_erosao.jpg){#fig-vocoroca fig-alt="Voçoroca ativa em solo tropical" width="85%"}
+![Vista aérea de voçoroca tratada por paliçadas sucessivas, em que as barreiras transversais dividem o canal em segmentos e interrompem a continuidade do escoamento concentrado que mantinha o recuo da cabeceira.](../img/vocoroca_palicadas_aerea.jpg){#fig-vocoroca fig-alt="Voçoroca ativa em solo tropical" width="85%"}
 
 ## Metodologia de Projeto
 
 ### Etapas do Projeto de Bioengenharia
 
-O fluxograma a seguir apresenta as 7 etapas do projeto de bioengenharia de solos, desde o diagnóstico de campo até a consolidação, incluindo o ciclo de gestão adaptativa que retorna à seleção de técnicas caso as metas de monitoramento não sejam atingidas.
+As sete etapas do projeto de bioengenharia (@fig-fluxo-projeto) encadeiam o diagnóstico de campo até a consolidação, com um ciclo de gestão adaptativa que retorna à seleção de técnicas quando as metas de monitoramento não são atingidas.
 
-```{dot}
-//| fig-width: 8
-digraph {
-    rankdir=TB
-    bgcolor="transparent"
-    node [shape=box, style="rounded,filled", fillcolor="#E8F5E9", color="#2E7D32", fontname="Helvetica", fontsize=10, margin="0.25,0.12", penwidth=0.8]
-    edge [color="#555555", penwidth=1.0, fontname="Helvetica", fontsize=9]
-
-    A [label="1. Diagnóstico\n(campo + SIG)"]
-    B [label="2. Classificação\nde feições erosivas"]
-    C [label="3. Seleção de\ntécnicas"]
-    D [label="4. Dimensionamento\nde estruturas"]
-    E [label="5. Projeto\nexecutivo"]
-    F [label="6. Implantação"]
-    G [label="7. Monitoramento\ne manutenção"]
-    H [label="Metas\natingidas?", shape=diamond, fillcolor="#FFF9C4", color="#F57F17"]
-    I [label="Gestão adaptativa", fillcolor="#FFCDD2", color="#C62828"]
-    J [label="Consolidação\ne entrega", fillcolor="#A5D6A7", color="#1B5E20", penwidth=1.5]
-
-    A -> B -> C -> D -> E -> F -> G -> H
-    H -> I [label="Não", color="#C62828"]
-    I -> C [style=dashed, color="#C62828"]
-    H -> J [label="Sim", color="#1B5E20"]
-}
-```
+![Fluxo das sete etapas do projeto de bioengenharia, do diagnóstico à consolidação, com o ciclo de gestão adaptativa que retorna à seleção de técnicas quando as metas de monitoramento não são atingidas.](../img/fig_fluxo_projeto.png){#fig-fluxo-projeto fig-alt="Fluxo das sete etapas do projeto de bioengenharia, do diagnóstico à consolidação, com o ciclo de gestão adaptativa que retorna à seleção de técnicas quando as metas de monitoramento não são atingidas" width="47%"}
 
 ### Etapa 1: Diagnóstico
 
@@ -77,38 +53,11 @@ A seleção de técnicas segue uma matriz de decisão multicritério que pondera
 
 A árvore de decisão a seguir operacionaliza a seleção de técnicas a partir de perguntas-chave sobre a profundidade da feição, a presença de água e as características do solo, direcionando o projetista para a combinação de técnicas mais adequada.
 
-#### Árvore de Decisão
+#### Árvore de decisão
 
-```{dot}
-//| fig-width: 8
-digraph {
-    rankdir=TB
-    bgcolor="transparent"
-    node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=10, margin="0.25,0.12", penwidth=0.8]
-    edge [color="#555555", penwidth=1.0, fontname="Helvetica", fontsize=9]
+A seleção da técnica decorre de quatro verificações encadeadas sobre a profundidade da feição, a presença de água, a inclinação do talude e a coesão do solo (@fig-arvore-decisao), cada uma correspondendo a um controle físico distinto do processo erosivo.
 
-    START [label="Feição erosiva\nidentificada", fillcolor="#2E7D32", fontcolor="white", color="#1B5E20", penwidth=1.5]
-    Q1 [label="Profundidade\n> 1,5 m?", shape=diamond, fillcolor="#FFF9C4", color="#F57F17"]
-    Q2 [label="Presença\nde água?", shape=diamond, fillcolor="#FFF9C4", color="#F57F17"]
-    Q3 [label="Inclinação\n> 45°?", shape=diamond, fillcolor="#FFF9C4", color="#F57F17"]
-    Q4 [label="Solo\ncoesivo?", shape=diamond, fillcolor="#FFF9C4", color="#F57F17"]
-    T1 [label="Gabião vivo\n+ Geodreno", fillcolor="#C8E6C9", color="#2E7D32"]
-    T2 [label="Parede Krainer\n+ Revegetação", fillcolor="#C8E6C9", color="#2E7D32"]
-    T3 [label="Paliçadas\n+ Biomanta", fillcolor="#C8E6C9", color="#2E7D32"]
-    T4 [label="Canaleta verde\n+ Hidrossemeadura", fillcolor="#C8E6C9", color="#2E7D32"]
-    T5 [label="Enrocamento\nvegetado", fillcolor="#C8E6C9", color="#2E7D32"]
-
-    START -> Q1
-    Q1 -> Q2 [label="Sim"]
-    Q1 -> Q3 [label="Não"]
-    Q2 -> T1 [label="Sim"]
-    Q2 -> T2 [label="Não"]
-    Q3 -> Q4 [label="Sim"]
-    Q3 -> T3 [label="Não"]
-    Q4 -> T4 [label="Sim"]
-    Q4 -> T5 [label="Não"]
-}
-```
+![Árvore de decisão para seleção de técnicas de bioengenharia a partir da profundidade da feição, da presença de água, da inclinação do talude e da coesão do solo.](../img/fig_arvore_decisao.png){#fig-arvore-decisao fig-alt="Árvore de decisão para seleção de técnicas de bioengenharia a partir da profundidade da feição, da presença de água, da inclinação do talude e da coesão do solo" width="90%"}
 
 ### Etapa 4: Dimensionamento
 
@@ -120,69 +69,9 @@ O projeto executivo é o documento técnico que viabiliza a implantação em cam
 
 ### Etapa 6: Implantação
 
-A sequência de implantação é crítica para o sucesso do projeto, pois a instalação de vegetação antes das estruturas de contenção e drenagem expõe as mudas à energia erosiva não controlada. O diagrama de Gantt a seguir apresenta o cronograma típico de implantação, com a sequência preparo → estruturas → revegetação → monitoramento.
+A sequência de implantação é crítica para o sucesso do projeto, pois a instalação de vegetação antes das estruturas de contenção e drenagem expõe as mudas à energia erosiva não controlada. O cronograma típico de implantação (@fig-cronograma) distribui em doze meses a sequência de preparo, estruturas, revegetação e monitoramento, com a execução das estruturas de contenção concluída antes do início da revegetação.
 
-```{dot}
-//| fig-width: 8
-digraph {
-    rankdir=LR
-    bgcolor="transparent"
-    node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=10, margin="0.25,0.12", penwidth=0.8]
-    edge [color="#555555", penwidth=1.0]
-
-    subgraph cluster_0 {
-        label="Preparo"
-        fontname="Helvetica"
-        fontsize=11
-        style="rounded,dashed"
-        color="#90A4AE"
-        a1 [label="Mobilização e\ntopografia\n(1 mês)", fillcolor="#BBDEFB", color="#1565C0"]
-        a2 [label="Acesso e\ninfraestrutura\n(1 mês)", fillcolor="#BBDEFB", color="#1565C0"]
-        a1 -> a2
-    }
-
-    subgraph cluster_1 {
-        label="Estruturas"
-        fontname="Helvetica"
-        fontsize=11
-        style="rounded,dashed"
-        color="#90A4AE"
-        b1 [label="Drenagem\n(geodrenos)\n(1 mês)", fillcolor="#FFE0B2", color="#E65100"]
-        b2 [label="Estruturas de\ncontenção\n(2 meses)", fillcolor="#FFE0B2", color="#E65100"]
-        b3 [label="Paliçadas e\nfascinas\n(1 mês)", fillcolor="#FFE0B2", color="#E65100"]
-        b1 -> b2
-        b1 -> b3
-    }
-
-    subgraph cluster_2 {
-        label="Revegetação"
-        fontname="Helvetica"
-        fontsize=11
-        style="rounded,dashed"
-        color="#90A4AE"
-        c1 [label="Hidrossemeadura\n(1 mês)", fillcolor="#C8E6C9", color="#2E7D32"]
-        c2 [label="Biomantas\n(1 mês)", fillcolor="#C8E6C9", color="#2E7D32"]
-        c3 [label="Plantio de\nmudas\n(2 meses)", fillcolor="#C8E6C9", color="#2E7D32"]
-        c1 -> c2
-        c1 -> c3
-    }
-
-    subgraph cluster_3 {
-        label="Monitoramento"
-        fontname="Helvetica"
-        fontsize=11
-        style="rounded,dashed"
-        color="#90A4AE"
-        d1 [label="Acompanhamento\nfase 1\n(6 meses)", fillcolor="#E1BEE7", color="#6A1B9A"]
-        d2 [label="Gestão\nadaptativa\n(6 meses)", fillcolor="#E1BEE7", color="#6A1B9A"]
-        d1 -> d2
-    }
-
-    a2 -> b1
-    b2 -> c1
-    c3 -> d1
-}
-```
+![Cronograma típico de implantação em doze meses, com a sequência preparo, estruturas, revegetação e monitoramento.](../img/fig_cronograma.png){#fig-cronograma fig-alt="Cronograma típico de implantação em doze meses, com a sequência preparo, estruturas, revegetação e monitoramento" width="90%"}
 
 ::: {.callout-warning}
 ## Período de implantação
@@ -203,7 +92,7 @@ O monitoramento é obrigatório em projetos de NBS (ver @sec-nbs), pois são sis
 
 : Plano de monitoramento do projeto integrador, com indicadores, métodos, frequência e metas. {#tbl-monitoramento .striped}
 
-![Painel integrado de monitoramento — *dashboard* que consolida indicadores de cobertura vegetal, erosão, estabilidade de taludes e qualidade da água em uma interface única de tomada de decisão.](../img/painel_integrado.png){#fig-painel-integrado fig-alt="Painel integrado de monitoramento de projeto de bioengenharia" width="90%"}
+![Painel integrado de monitoramento da paliçada, com (a) o registro de campo da barreira já estabelecida e (b) a leitura conjunta da perda de resistência do bambu, do preenchimento acumulado nos percentis P90 e P95 e do avanço da cobertura vegetal ao longo de dez anos.](../img/painel_integrado.jpg){#fig-painel-integrado fig-alt="Painel integrado de monitoramento de projeto de bioengenharia" width="90%"}
 
 ## Ferramentas Computacionais para Modelagem
 
@@ -215,7 +104,7 @@ Os Sistemas de Informação Geográfica (SIG) são a plataforma central de integ
 
 ### Estabilidade de Taludes
 
-A análise de estabilidade de taludes é obrigatória para o dimensionamento de gabiões vivos (ver @sec-gabiao-vivo), paredes Krainer (ver @sec-parede-krainer) e retaludamento (ver @sec-nbs). Para análises em duas dimensões, os métodos de equilíbrio-limite (Bishop simplificado, Janbu, Spencer) podem ser executados com softwares como GeoStudio SLOPE/W, Slide2 (Rocscience) ou GEOSLOPE, que calculam automaticamente o fator de segurança mínimo ($FS$) por busca da superfície de ruptura crítica. A incorporação do efeito da vegetação ao modelo requer a adição do termo de coesão radicular ($c_r$) à coesão do solo na faixa de profundidade radicular (0–2 m para gramíneas, 0–5 m para espécies arbóreas), além da aplicação de uma sobrecarga correspondente ao peso da vegetação (0,5–2,0 kPa para gramíneas, 2–5 kPa para arbustos e 5–15 kPa para árvores).
+A análise de estabilidade de taludes é obrigatória para o dimensionamento de gabiões vivos (ver @sec-gabiao-vivo), paredes Krainer (ver @sec-parede-krainer) e retaludamento (ver @sec-nbs-viabilidade). Para análises em duas dimensões, os métodos de equilíbrio-limite (Bishop simplificado, Janbu, Spencer) podem ser executados com softwares como GeoStudio SLOPE/W, Slide2 (Rocscience) ou GEOSLOPE, que calculam automaticamente o fator de segurança mínimo ($FS$) por busca da superfície de ruptura crítica. A incorporação do efeito da vegetação ao modelo requer a adição do termo de coesão radicular ($c_r$) à coesão do solo na faixa de profundidade radicular (0–2 m para gramíneas, 0–5 m para espécies arbóreas), além da aplicação de uma sobrecarga correspondente ao peso da vegetação (0,5–2,0 kPa para gramíneas, 2–5 kPa para arbustos e 5–15 kPa para árvores).
 
 A lógica do cálculo de estabilidade pode ser implementada em linguagem Python para análises paramétricas rápidas. A equação do talude infinito (adequada para rupturas superficiais em encostas com espessura de solo homogênea) pode ser expressa como
 
@@ -299,7 +188,7 @@ A @tbl-orcamento apresenta o orçamento estimado para a recuperação da voçoro
 
 ::: {.callout-tip}
 ## Custo-benefício
-O custo estimado de R$ 149.300 corresponde a aproximadamente R$ 100/m linear de voçoroca tratada, ou R$ 12/m² de área estabilizada, valor 3–5× inferior ao de soluções convencionais com muro de concreto armado para feições de porte equivalente (ver @tbl-custos-nbs em @sec-nbs). Quando os co-benefícios de sequestro de carbono e regulação hídrica são contabilizados, o retorno do investimento é estimado em 5–8 anos.
+O custo estimado de R$ 149.300 corresponde a aproximadamente R$ 100/m linear de voçoroca tratada, ou R$ 12/m² de área estabilizada, valor 3–5× inferior ao de soluções convencionais com muro de concreto armado para feições de porte equivalente (ver @tbl-custos-nbs em @sec-nbs-viabilidade). Quando os co-benefícios de sequestro de carbono e regulação hídrica são contabilizados, o retorno do investimento é estimado em 5–8 anos.
 :::
 
 ## Considerações Finais

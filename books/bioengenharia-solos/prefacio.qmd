@@ -1,17 +1,19 @@
-﻿# Prefácio {.unnumbered}
+# Prefácio {.unnumbered}
 
 A erosão do solo é um dos maiores desafios ambientais do século XXI. Estima-se que 24 bilhões de toneladas de solo fértil sejam perdidas anualmente em todo o mundo, com consequências diretas na segurança alimentar, nos recursos hídricos e na biodiversidade. Em regiões tropicais, a combinação de chuvas intensas, solos profundamente intemperizados e pressão antrópica agrava esse cenário.
 
-A bioengenharia de solos (entendida como o uso de materiais vivos e biodegradáveis combinados a técnicas de engenharia) oferece uma resposta a esse desafio. Diferentemente das soluções exclusivamente estruturais, a bioengenharia busca a transição progressiva de uma função mecânica artificial para uma função ecológica natural, de modo que, à medida que os materiais se degradam, as raízes das plantas assumem o papel de sustentação do solo.
+A bioengenharia de água e solo, entendida como o uso de materiais vivos e biodegradáveis combinados a técnicas de engenharia, oferece uma resposta a esse desafio. Enquanto as soluções exclusivamente estruturais mantêm função mecânica constante até a ruína, a bioengenharia promove a transição progressiva de uma função mecânica artificial para uma função ecológica natural, de modo que, à medida que os materiais se degradam, as raízes das plantas assumem o papel de sustentação do solo. O título desta edição explicita a inseparabilidade entre os dois componentes do sistema, porque a água fornece a energia que destaca e transporta a partícula enquanto o solo fornece a resistência que se opõe a esse destacamento, e nenhuma intervenção se sustenta atuando sobre apenas um dos dois.
 
 Este livro nasceu da experiência acumulada em mais de uma década de pesquisa e extensão no Baixo São Francisco (SE/AL) e nos Tabuleiros Costeiros do Nordeste brasileiro. A convivência com agricultores familiares, comunidades ribeirinhas e técnicos de campo me ensinou que as melhores soluções são aquelas que combinam rigor científico, viabilidade econômica e apropriação social.
 
 Ao longo dos capítulos, o leitor encontrará equações e modelos de dimensionamento aplicáveis a condições tropicais, estudos de caso de campo com dados reais de monitoramento, comparativos de custo entre soluções convencionais e baseadas na natureza, e inovações tecnológicas em materiais biodegradáveis protegidos por patentes.
+
+Esta edição incorpora duas contribuições que ampliam o alcance aplicado da obra. A primeira é o protocolo hidrogeotécnico de dimensionamento de paliçadas permeáveis, parametrizado em ravinas sobre Plintossolos dos Tabuleiros Costeiros de Sergipe, que converte morfometria por aerofotogrametria, ensaios de infiltração e parâmetros de resistência ao cisalhamento em critérios verificáveis de altura efetiva, espaçamento e volume retido, desenvolvido em parceria com Emersson Guedes da Silva no âmbito de sua pesquisa de mestrado. A segunda é a caracterização físico-química dos biomateriais empregados em geotêxteis naturais, apoiada nos ensaios de composição lignocelulósica, espectroscopia no infravermelho, análise termogravimétrica e confiabilidade mecânica conduzidos pelo grupo de Bioengenharia de Solos da Universidade Federal de Sergipe.
 
 Agradeço aos colegas do grupo de pesquisa PLANeT-Inova (UEFS), do Gerenciamento Hidroambiental do Baixo São Francisco (UFS) e do Manejo de Solos e Sustentabilidade (UFS) pelas colaborações que enriqueceram este trabalho.
 
 ::: {.flushright}
 **Luiz Diego Vidal Santos**\
 Feira de Santana, Bahia\
-Fevereiro de 2026
+Setembro de 2026
 :::

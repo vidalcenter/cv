@@ -1,0 +1,92 @@
+\documentclass[border=8pt,tikz]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[portuguese]{babel}
+\usepackage{lmodern}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,positioning,shapes.geometric,calc,fit,backgrounds,decorations.pathreplacing}
+
+\definecolor{verdeEsc}{HTML}{1B5E20}
+\definecolor{verde}{HTML}{2E7D32}
+\definecolor{verdeClaro}{HTML}{EDF5EE}
+\definecolor{verdeMed}{HTML}{CFE6D2}
+\definecolor{azul}{HTML}{1565C0}
+\definecolor{azulClaro}{HTML}{E3EEFA}
+\definecolor{laranja}{HTML}{E65100}
+\definecolor{laranjaClaro}{HTML}{FBE9D8}
+\definecolor{ambar}{HTML}{B07300}
+\definecolor{ambarClaro}{HTML}{FBF3DA}
+\definecolor{vermelho}{HTML}{B3261E}
+\definecolor{vermelhoClaro}{HTML}{F8E2E0}
+\definecolor{cinza}{HTML}{4A5560}
+
+\tikzset{
+  caixa/.style={draw=verde, fill=verdeClaro, rounded corners=1.5pt, line width=.6pt,
+                align=center, inner sep=4pt, font=\small, minimum height=9mm},
+  destaque/.style={caixa, fill=verdeMed, draw=verdeEsc, line width=1pt},
+  raiz/.style={caixa, fill=verde, draw=verdeEsc, text=white, line width=1pt, font=\small\bfseries},
+  decisao/.style={draw=ambar, fill=ambarClaro, diamond, aspect=1.7, align=center,
+                  inner sep=1pt, font=\footnotesize, line width=.6pt},
+  azulbox/.style={caixa, fill=azulClaro, draw=azul},
+  laranjabox/.style={caixa, fill=laranjaClaro, draw=laranja},
+  vermelhobox/.style={caixa, fill=vermelhoClaro, draw=vermelho},
+  seta/.style={-{Latex[length=2.4mm,width=1.8mm]}, draw=cinza, line width=.6pt},
+  setaverde/.style={seta, draw=verdeEsc},
+  setavermelha/.style={seta, draw=vermelho},
+  rot/.style={font=\scriptsize, inner sep=1.5pt, fill=white},
+  grupo/.style={draw=cinza, dashed, rounded corners=3pt, line width=.5pt, inner sep=7pt},
+  titulogrupo/.style={font=\footnotesize\bfseries, text=cinza}
+}
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\tolerance=9999
+\emergencystretch=3em
+
+\begin{document}
+
+\begin{tikzpicture}[x=11mm, y=-8mm]
+  \def\nmeses{12}
+  % grade e eixo
+  \foreach \m in {0,...,12} {
+    \draw[draw=cinza!30, line width=.4pt] (\m,0.3) -- (\m,9.4);
+  }
+  \foreach \m [evaluate=\m as \lab using int(\m+1)] in {0,...,11} {
+    \node[font=\scriptsize, text=cinza] at (\m+0.5,0) {\lab};
+  }
+  \node[font=\scriptsize\bfseries, text=cinza, anchor=east] at (0,0) {Mês};
+
+  % tarefas: nome / inicio / duracao / estilo
+  \foreach \nome/\ini/\dur/\cor/\borda/\lin in {
+    {Mobilização e topografia}/0/1/azulClaro/azul/1,
+    {Acesso e infraestrutura}/1/1/azulClaro/azul/2,
+    {Drenagem (geodrenos)}/2/1/laranjaClaro/laranja/3,
+    {Estruturas de contenção}/3/2/laranjaClaro/laranja/4,
+    {Paliçadas e fascinas}/3/1/laranjaClaro/laranja/5,
+    {Hidrossemeadura}/5/1/verdeMed/verde/6,
+    {Biomantas}/5/1/verdeMed/verde/7,
+    {Plantio de mudas}/6/2/verdeMed/verde/8}
+  {
+    \node[anchor=east, font=\scriptsize] at (-0.3,\lin) {\nome};
+    \fill[\cor, draw=\borda, line width=.6pt, rounded corners=1.5pt]
+      (\ini,\lin-0.3) rectangle (\ini+\dur,\lin+0.3);
+  }
+
+  % monitoramento como faixa propria
+  \node[anchor=east, font=\scriptsize] at (-0.3,9) {Monitoramento};
+  \fill[cinza!12, draw=cinza, line width=.6pt, rounded corners=1.5pt]
+    (8,8.7) rectangle (12,9.3);
+  \node[font=\scriptsize, text=cinza] at (10,9) {campanhas trimestrais};
+
+  % fases
+  \draw[draw=azul, line width=1.2pt] (0,10) -- (2,10)
+     node[midway, below=2pt, font=\scriptsize\bfseries, text=azul] {Preparo};
+  \draw[draw=laranja, line width=1.2pt] (2,10) -- (5,10)
+     node[midway, below=2pt, font=\scriptsize\bfseries, text=laranja] {Estruturas};
+  \draw[draw=verde, line width=1.2pt] (5,10) -- (8,10)
+     node[midway, below=2pt, font=\scriptsize\bfseries, text=verde] {Revegetação};
+  \draw[draw=cinza, line width=1.2pt] (8,10) -- (12,10)
+     node[midway, below=2pt, font=\scriptsize\bfseries, text=cinza] {Monitoramento};
+\end{tikzpicture}
+
+\end{document}

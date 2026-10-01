@@ -1,4 +1,4 @@
-﻿# Erosão do Solo: Tipos e Processos {#sec-erosao}
+# Erosão do Solo: Tipos e Processos {#sec-erosao}
 
 ## Conceito e Magnitude
 
@@ -81,7 +81,7 @@ onde $A$ é a área da bacia contribuinte (km²), $Q$ é o escoamento direto (mm
 
 A erosão hídrica se manifesta em diferentes formas, que representam um contínuo de intensidade crescente. A @fig-tipos-erosao apresenta uma comparação visual desses tipos, desde a erosão laminar (praticamente imperceptível) até as feições lineares de grande porte.
 
-![Comparação visual dos tipos de erosão: desde a erosão laminar até a formação de ravinas e voçorocas em solos tropicais.](../img/ravina_montagem.png){#fig-tipos-erosao fig-alt="Montagem comparativa dos tipos de erosão" width="90%"}
+![Ábaco de classificação de feições erosivas lineares em função da profundidade máxima e da velocidade de infiltração básica, com as zonas diagnósticas que separam sulco, ravina estável, ravina transicional e voçoroca incipiente.](../img/abaco_classificacao_feicoes.png){#fig-tipos-erosao fig-alt="Montagem comparativa dos tipos de erosão" width="90%"}
 
 ### Erosão Laminar (*Sheet Erosion*)
 
@@ -95,7 +95,7 @@ Quando o escoamento superficial se concentra em pequenos canais paralelos à enc
 
 A ravina é um canal permanente com profundidade superior a 30 cm que não pode ser eliminado por operações agrícolas convencionais. Representa o estágio avançado da erosão hídrica concentrada e é o tipo de feição erosiva que mais demanda intervenções de bioengenharia. A @fig-ravina-campo mostra uma ravina ativa em solo tropical, onde é possível observar as paredes verticais expostas e a ausência de cobertura vegetal no interior do canal.
 
-![Ravina ativa em solo tropical — canal permanente que não pode ser eliminado por operações agrícolas convencionais.](../img/ravina_campo.jpg){#fig-ravina-campo fig-alt="Ravina ativa em campo" width="75%"}
+![Ravina ativa em solo tropical, com paredes laterais verticalizadas e fundo exposto, feição que já não se elimina por operações agrícolas convencionais e exige intervenção estrutural.](../img/ravina_ativa_campo.jpg){#fig-ravina-campo fig-alt="Ravina ativa em campo" width="75%"}
 
 As ravinas podem ser classificadas segundo seu mecanismo de crescimento dominante. As ravinas de cabeceira retrocedem por erosão remontante, na qual o escoamento concentrado escava a montante, alargando progressivamente a área de contribuição. As ravinas laterais se expandem por solapamento e desabamento das paredes, processo acelerado pelo umedecimento diferencial e pela ação do gelo em altas altitudes ou pela simples saturação em ambientes tropicais. As ravinas de fundo se aprofundam por incisão do talvegue, podendo atingir horizontes mais compactos ou o lençol freático. É comum que os três mecanismos atuem simultaneamente na mesma ravina, exigindo um tratamento integrado de bioengenharia que aborde cabeceira, paredes e fundo do canal.
 
@@ -105,7 +105,7 @@ As voçorocas são feições erosivas de grande porte (profundidade > 1,5 m, lar
 
 A formação de voçorocas está associada a três mecanismos interconectados. O primeiro é a progressão da erosão superficial, na qual ravinas não controladas se ampliam e aprofundam até atingir dimensões de voçoroca. O segundo é a erosão subsuperficial (*piping*), na qual a percolação de água através de descontinuidades do solo (fraturas, raízes mortas, galerias de animais) gera túneis internos cujo colapso súbito forma a feição erosiva. O terceiro é a instabilidade de taludes, na qual o solapamento da base pela exfiltração do lençol freático causa desabamentos sucessivos das paredes, ampliando lateralmente a voçoroca.
 
-![Voçoroca incipiente — estágio inicial de formação, quando a ravina começa a ampliar-se e aprofundar-se, ainda passível de controle por técnicas combinadas de bioengenharia.](../img/vocoroca_incipiente.jpg){#fig-vocoroca-incipiente fig-alt="Voçoroca em estágio incipiente de formação em solo tropical" width="75%"}
+![Ravinas em estágio incipiente registradas por aeronave remotamente pilotada, com a trena estendida sobre o eixo do canal para aferir a largura de topo e a profundidade máxima de cada segmento.](../img/ravinas_aereas.jpg){#fig-vocoroca-incipiente fig-alt="Voçoroca em estágio incipiente de formação em solo tropical" width="75%"}
 
 O tratamento de voçorocas ativas exige um projeto integrado que combine drenagem superficial (desvio das águas de contribuição), drenagem subsuperficial (interceptação de *pipes*), estabilização mecânica das paredes (gabiões vivos, paredes Krainer, retaludamento) e revegetação progressiva. Abordagens pontuais ou parciais tendem ao fracasso, pois os processos atuantes são múltiplos e interconectados.
 
@@ -145,7 +145,7 @@ Quando a capacidade de transporte diminui (por redução de velocidade ou decliv
 
 A erosão nas regiões tropicais apresenta particularidades que a distinguem dos processos erosivos em outras zonas climáticas e que devem ser consideradas no projeto de bioengenharia. A @fig-mapa-erosao ilustra um mapa de susceptibilidade à erosão, ferramenta fundamental para o planejamento espacial das intervenções.
 
-![Mapa de susceptibilidade à erosão e capacidade de uso do solo — ferramenta fundamental para planejamento de intervenções de bioengenharia.](../img/mapa_erosao.png){#fig-mapa-erosao fig-alt="Mapa de erosão e capacidade de uso" width="85%"}
+![Modelo digital de elevação da área de estudo, base altimétrica da qual se derivam a declividade, o comprimento de rampa e a direção de fluxo, variáveis que definem onde a susceptibilidade à erosão é maior.](../img/mde_relevo_susceptibilidade.jpg){#fig-mapa-erosao fig-alt="Mapa de erosão e capacidade de uso" width="85%"}
 
 Mapas como o da @fig-mapa-erosao são construídos a partir do cruzamento de informações topográficas (modelo digital de elevação), pedológicas (classes de solo e erodibilidade), climáticas (erosividade da chuva) e de uso do solo (cobertura vegetal), e permitem identificar as áreas prioritárias para intervenção (hotspots erosivos) e dimensionar as técnicas mais adequadas para cada zona.
 

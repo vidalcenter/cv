@@ -32,3 +32,6 @@ aulas/bioengenharia_de_solos/referencias/*.pptx
 
 # Adobe Illustrator (binários pesados)
 *.ai
+
+# backups locais de figuras substituidas (nao publicar)
+books/*/img/_before_*/
