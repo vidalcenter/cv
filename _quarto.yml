@@ -17,6 +17,7 @@ resources:
   - cv-luiz-diego-es.pdf
   - aulas/**/*.html
   - aulas/**/*_files/**
+  - aulas/**/extras/*.xlsx
   - aulas/assets/**
   - books/**
   - teaching/**/*.html

@@ -287,6 +287,14 @@ Fundamentos conceituais, epistemológicos e metodológicos da Análise Ambiental
 </div>
 </a>
 
+<a class="resource-card" href="../../aulas/analise_ambiental/extras/matriz_leopold_aia.xlsx" download>
+<div class="res-icon"><i class="fa-solid fa-file-excel"></i></div>
+<div class="res-info">
+<div class="card-title">Matriz de Leopold — planilha de apoio</div>
+<p>Planilha editável com oito ações de projeto cruzadas com dezessete fatores ambientais. Cada um dos 136 cruzamentos é decomposto em caráter, importância, cobertura, duração e reversibilidade, e a nota sintética, igual a Ca × (I + Co + D + R), recalcula a matriz colorida e os totais por ação e por fator. — <strong>Material de apoio da Aula 5.1</strong>, para o exercício de identificação e valoração de impactos.</p>
+</div>
+</a>
+
 <a class="resource-card" href="https://drive.google.com/file/d/1mbTwsNXxqqKvCFYNl42LHcKQXZJ9dFiS/view?usp=sharing" target="_blank">
 <div class="res-icon"><i class="fa-solid fa-book"></i></div>
 <div class="res-info">
